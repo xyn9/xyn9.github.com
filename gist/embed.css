@@ -1,0 +1,16 @@
+
+
+.gist .gist-file .gist-data .gist-highlight .line{
+	display:list-item;
+	padding-bottom:0.5em;
+	list-style-type:decimal;
+	list-style-position:inside;
+}
+.gist .gist-file .gist-data .gist-highlight .line span{
+	margin-left:1.75em;
+}
+
+
+
+
+
