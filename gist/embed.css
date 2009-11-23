@@ -1,18 +1,16 @@
 
 
 .gist .gist-file{
-	width:90%;
 }
 
 
 .gist .gist-file .gist-data{
 	background-color:transparent;
+	height:30em;
 }
 
 
 .gist .gist-file .gist-syntax{
-	width:100%; height:30em;
-	
 }
 .gist-syntax .line{
 	display:list-item;
