@@ -1,13 +1,22 @@
 
 
+.gist .gist-file .gist-meta{
+	font-weight:bold;
+}
+
+
+.gist .gist-file .gist-data{
+	background-color:transparent;
+}
 .gist .gist-file .gist-data .gist-highlight .line{
 	display:list-item;
 	padding-bottom:0.5em;
 	list-style-type:decimal;
 	list-style-position:inside;
+	color:gray;
 }
 .gist .gist-file .gist-data .gist-highlight .line span{
-	margin-left:1.75em;
+	margin-left:1.5em;
 }
 
 
