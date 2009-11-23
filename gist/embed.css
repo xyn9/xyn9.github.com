@@ -1,14 +1,15 @@
 
 
+/*  */
+
+
 .gist .gist-file{
 }
 
-
 .gist .gist-file .gist-data{
-	background-color:transparent;
 	height:30em;
+	background-color:transparent;
 }
-
 
 .gist .gist-file .gist-syntax{
 }
@@ -28,10 +29,27 @@
 
 .gist .gist-file .gist-meta{
 	padding:0.75em;
+	vertical-align:bottom;
 }
 .gist .gist-file .gist-meta a{
-	font-size:110%;
+	font-family:sans-serif;
 	font-weight:bold;
+}
+.gist .gist-file .gist-meta a[href*="/raw/"]{
+	content:"Download";
+	padding:0.25em 0.5em 0.25em 0.5em;
+	background-color:#000000;
+	color:#ffffff;
+	text-decoration:none;
+}
+
+
+
+
+
+/* wiki */
+.wikistyle pre{
+	overflow:visible;
 }
 
 
