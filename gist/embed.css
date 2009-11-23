@@ -1,0 +1,58 @@
+
+
+/*  */
+
+
+.gist .gist-file{
+}
+
+.gist .gist-file .gist-data{
+	height:30em;
+	background-color:transparent;
+}
+
+.gist .gist-file .gist-syntax{
+}
+.gist-syntax .line{
+	display:list-item;
+	padding:0 0 0 1em;
+	list-style-type:decimal;
+	list-style-position:inside;
+	color:#cccccc;
+}
+.gist-syntax span{ color:#666666; }
+.gist-syntax .cm, .gist-syntax .c1{ color:#006600; }
+
+
+
+
+
+.gist .gist-file .gist-meta{
+	padding:0.75em;
+	vertical-align:bottom;
+}
+.gist .gist-file .gist-meta a{
+	font-family:sans-serif;
+	font-weight:bold;
+}
+.gist .gist-file .gist-meta a[href*="/raw/"]{
+	content:"Download";
+	padding:0.25em 0.5em 0.25em 0.5em;
+	background-color:#000000;
+	color:#ffffff;
+	text-decoration:none;
+}
+
+
+
+
+
+/* wiki */
+.wikistyle pre{
+	overflow:visible;
+}
+
+
+
+
+
