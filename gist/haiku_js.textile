@@ -1,0 +1,7 @@
+---
+layout: gist
+title:  はてなハイク API 簡易ライブラリ
+categories: [gist]
+id:     1291265
+---
+
