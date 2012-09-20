@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>{{ page.url | replace:'/gist/','gist#' }}{% if page.title %} - {{ page.title }} {% endif %}</title>
+<title>{{ page.url | replace:'/gist/','gist#' | remove:'.html' }}{% if page.title %} - {{ page.title }} {% endif %}</title>
 <link rel="stylesheet" href="/css/gist.css">
 <link rel="stylesheet" href="embed.css">
 </head>
@@ -8,15 +8,15 @@
 <body>
 
 
-<h1>{{ page.url | replace:'/gist/','gist#' }}{% if page.title %} - {{ page.title }} {% endif %}</h1>
+<h1>{{ page.url | replace:'/gist/','gist#' | remove:'.html' }}{% if page.title %} {{ page.title }} {% endif %}</h1>
 
 
 {{ content }}
 
 
-<script src="https://gist.github.com/{{ page.url | remove:'/gist/' }}.js"></script>
+<script src="https://gist.github.com/{{ page.url | remove:'/gist/' | remove:'.html' }}.js"></script>
 <noscript>
-<a href="https://gist.github.com/{{ page.url | remove:'/gist/' }}">{{ page.url | replace:'/gist/','gist#' }}</a>
+<a href="https://gist.github.com/{{ page.url | remove:'/gist/' | remove:'.html' }}">{{ page.url | replace:'/gist/','gist#' | remove:'.html' }}</a>
 </noscript>
 </body>
 </noframe>
