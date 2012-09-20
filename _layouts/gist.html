@@ -8,16 +8,25 @@
 <body>
 
 
-<h1>{{ page.url | replace:'/gist/','gist#' | remove:'.html' }}{% if page.title %} {{ page.title }} {% endif %}</h1>
+<div id="main">
+
+
+<h1>
+<a href="{{ page.url | replace:'/gist/','https://gist.github.com/' | remove:'.html' }}">{{ page.url | replace:'/gist/','gist#' | remove:'.html' }}</a>
+{% if page.title %} {{ page.title }} {% endif %}
+</h1>
 
 
 {{ content }}
 
 
-<script src="https://gist.github.com/{{ page.url | remove:'/gist/' | remove:'.html' }}.js"></script>
-<noscript>
-<a href="https://gist.github.com/{{ page.url | remove:'/gist/' | remove:'.html' }}">{{ page.url | replace:'/gist/','gist#' | remove:'.html' }}</a>
-</noscript>
+<div class="main">
+<script src="{{ page.url | replace:'/gist/','https://gist.github.com/' | replace:'.html','.js' }}"></script>
+</div>
+
+</div>
+
+
 </body>
 </noframe>
 </html>
