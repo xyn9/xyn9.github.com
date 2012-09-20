@@ -1,0 +1,24 @@
+<html>
+<head>
+<meta http-equiv="refresh" content="1;url=http://gist.github.com/{{ page.url | remove:'/gist/' }}">
+<title>{{ page.url | replace:'/gist/','gist#' }}{% if page.title %} - {{ page.title }} {% endif %}</title>
+<link rel="stylesheet" href="/css/gist.css">
+<link rel="stylesheet" href="embed.css">
+</head>
+<noframe>
+<body>
+
+
+<h1>{{ page.url | replace:'/gist/','gist#' }}{% if page.title %} - {{ page.title }} {% endif %}</h1>
+
+
+{{ content }}
+
+
+<script src="https://gist.github.com/{{ page.url | remove:'/gist/' }}.js"></script>
+<noscript>
+<a href="https://gist.github.com/{{ page.url | remove:'/gist/' }}">{{ page.url | replace:'/gist/','gist#' }}</a>
+</noscript>
+</body>
+</noframe>
+</html>
