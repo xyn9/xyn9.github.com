@@ -1,6 +1,7 @@
 ---
 layout: gist
 title:  github api 簡易ライブラリ
+categories: [gist]
 id:     1291234
 ---
 

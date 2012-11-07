@@ -1,6 +1,7 @@
 ---
 layout: gist
 title:  twitter api 簡易ライブラリ
+categories: [gist]
 id:     1291290
 ---
 
