@@ -1,6 +1,6 @@
 ---
 layout: gist
-title:  github api ŠÈˆÕƒ‰ƒCƒuƒ‰ƒŠ
+title:  github api ç°¡æ˜“ãƒ©ã‚¤ãƒ–ãƒ©ãƒª
 id:     1291234
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: gist
-title:  twitter api ŠÈˆÕƒ‰ƒCƒuƒ‰ƒŠ
+title:  twitter api ç°¡æ˜“ãƒ©ã‚¤ãƒ–ãƒ©ãƒª
 id:     1291290
 ---
 
