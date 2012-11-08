@@ -1,0 +1,40 @@
+
+span.title{
+	position:relative;
+}
+
+/* .main */
+.main{
+	margin:auto auto auto auto;
+}
+
+/* .section */
+
+/* list-item */
+.section li li{
+  font-size:92.5%;
+}
+.section li li li{
+  font-size:87.5%;
+}
+
+/* ol */
+.section ol li ol{
+  display:inline;
+}
+.section ol li ol li{
+  list-style-type:none;
+}
+
+/* ul */
+.section ul li ul li{
+  list-style-type:square;
+}
+.section ul li ul li ul li{
+  list-style-type:circle;
+}
+
+
+
+
+
