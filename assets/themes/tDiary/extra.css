@@ -1,11 +1,21 @@
+
+span.title{
+	position:relative;
+}
+
+/* .main */
+.main{
+	margin:auto auto auto auto;
+}
+
 /* .section */
 
 /* list-item */
 .section li li{
-  font-size:96%;
+  font-size:92.5%;
 }
 .section li li li{
-  font-size:90%;
+  font-size:87.5%;
 }
 
 /* ol */

@@ -10,7 +10,7 @@ tags : [昭和維新]
 
 
 
-h2. <span class="title">取っ掛かり</span>
+h2. %(title)取っ掛かり%
 
 * "はてなハイク#189913258751931775":http://h.hatena.ne.jp/xyn9/189913258751931775 
 * "Twitter#189006327392124928":http://twitter.com/xyn9/status/189006327392124928 
@@ -21,9 +21,9 @@ h2. <span class="title">取っ掛かり</span>
 
 
 
-h2. <span class="title">大阪ダブル選挙・維新の会</span>
+h2. %(title)大阪ダブル選挙・維新の会%
 
-h3. <span class="title">ニコニコ動画</span>
+h3. ニコニコ動画
 * "浜矩子「怖い。嫌な感じ。小泉現れた時みたい」橋下維新圧勝について":http://www.nicozon.net/msg/sm16294519 ("@2012.03.04 18:42:11":http://megalodon.jp/2012-0304-1842-11/www.nicozon.net/msg/sm16294519 )
 * "12/05【ただ選挙で勝つための小泉劇場と同じだ！】西田昌司【超人大陸】":http://www.nicozon.net/msg/sm16348831 ("@2012.06.20 19:09:04":http://megalodon.jp/2012-0620-1909-04/www.nicozon.net/msg/sm16348831 )
 * "9/17【超人大陸】藤井聡【維新八策を大胆採点！！】":http://www.nicozon.net/msg/sm18902820 ("@2012.09.17 19:29:57":http://megalodon.jp/2012-0917-1929-57/www.nicozon.net/msg/sm18902820 )
@@ -31,7 +31,7 @@ h3. <span class="title">ニコニコ動画</span>
 *** "IFd1fdfcxkSAPYXMiwR0zJIDeCY":http://www.nicozon.net/msg/sm18902820/IFd1fdfcxkSAPYXMiwR0zJIDeCY ("@2012.09.17 10:21:18":http://megalodon.jp/2012-0917-1021-18/www.nicozon.net/msg/sm18902820/IFd1fdfcxkSAPYXMiwR0zJIDeCY )
 *** "9Cla5ryBgda0yZuikW5abFKcLfc":http://www.nicozon.net/msg/sm18902820/9Cla5ryBgda0yZuikW5abFKcLfc ("@2012.09.17 19:40:57":http://megalodon.jp/2012-0917-1940-57/www.nicozon.net/msg/sm18902820/9Cla5ryBgda0yZuikW5abFKcLfc )
 
-h3. <span class="title">Twitter</span>
+h3. Twitter
 * "トッキー氏と維新の会支持者らのTLより #0 - Togetter":http://togetter.com/li/302102 
 * "トッキー氏と維新の会支持者らのTLより #1 - Togetter":http://togetter.com/li/302088 
 
@@ -39,13 +39,13 @@ h3. <span class="title">Twitter</span>
 
 
 
-h2. <span class="title">藤井聡教授＠メディア</span>
+h2. %(title)藤井聡教授＠メディア%
 
-h3. <span class="title">ニコニコ動画</span>
+h3. ニコニコ動画
 * "【税制と財政の虚と実】 講師　 藤井聡1/2":http://www.nicozon.net/msg/sm18336820 ("@2012.07.14 21:18:26":http://megalodon.jp/2012-0714-2118-26/www.nicozon.net/msg/sm18336820 )
 * "夕やけ寺ちゃん活動中 京都大学教授　藤井聡さん登場！":http://www.nicozon.net/msg/sm18131019 ("@2012.06.20 18:44:00":http://megalodon.jp/2012-0620-1844-00/www.nicozon.net/msg/sm18131019 )
 
-h3. <span class="title">Twitter</span>
+h3. Twitter
 * "6月19日放送 夕やけ寺ちゃん活動中 - Togetter":http://togetter.com/li/324136 
 * "6月4日放映TVタックルをめぐるツイートから - Togetter":http://togetter.com/li/315965 
 
@@ -53,9 +53,9 @@ h3. <span class="title">Twitter</span>
 
 
 
-h2. <span class="title">日米／沖縄／原発</span>
+h2. %(title)日米／沖縄／原発%
 
-h3. <span class="title">ニコニコ動画</span>
+h3. ニコニコ動画
 * "さようなら原発10万人集会 代々木デモ潜入　7/16①":http://www.nicozon.net/msg/sm18366425 ("@2012.07.17 06:35:26":http://megalodon.jp/2012-0717-0635-26/www.nicozon.net/msg/sm18366425 )
 * "ヘリ墜落から８年　大学で集会":http://www.nicozon.net/msg/sm18609718 ("@2012.08.15 01:02:42":http://megalodon.jp/2012-0815-0102-42/www.nicozon.net/msg/sm18609718 )
 * "10.02 アンカー Full":http://www.nicozon.net/msg/sm19029055 ("@2012.10.02 23:25:55":http://megalodon.jp/2012-1002-2325-55/www.nicozon.net/msg/sm19029055 )
@@ -69,7 +69,7 @@ h3. <span class="title">ニコニコ動画</span>
 
 
 
-h2. <span class="title">関連・その他</span>
+h2. %(title)関連・その他%
 
 * "メモ片#25499949858":http://xyn9.tumblr.com/post/25499949858 / "gist#3741532":https://gist.github.com/3741532
 * "ニコニコ動画のコメントの年齢分析したら中学生がほとんどだった件 - いろいろ作りたい":http://d.hatena.ne.jp/gen256/20111105/1320503106
@@ -82,7 +82,7 @@ h2. <span class="title">関連・その他</span>
 
 
 
-h2. <span class="title">履歴</span>
+h2. %(title)履歴%
 
 # 項目少し追加＋合わせて見出し変更
 #* 紋切り型コメの他に、やたら多い前コメの復唱も気になる。やっぱ一部は人間じゃないのかも。
