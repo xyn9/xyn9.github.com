@@ -1,9 +1,10 @@
 ---
 layout: post
-category: note
 title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
+category: note
 tags : [昭和維新]
+date: 2012-11-08 20:29
 ---
 
 
