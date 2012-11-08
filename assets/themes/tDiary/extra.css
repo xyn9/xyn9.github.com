@@ -1,0 +1,30 @@
+/* .section */
+
+/* list-item */
+.section li li{
+  font-size:96%;
+}
+.section li li li{
+  font-size:90%;
+}
+
+/* ol */
+.section ol li ol{
+  display:inline;
+}
+.section ol li ol li{
+  list-style-type:none;
+}
+
+/* ul */
+.section ul li ul li{
+  list-style-type:square;
+}
+.section ul li ul li ul li{
+  list-style-type:circle;
+}
+
+
+
+
+

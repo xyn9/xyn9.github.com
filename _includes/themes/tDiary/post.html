@@ -1,0 +1,7 @@
+<div class="calendar">
+{% if page.previous %}<a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}" class="prev">&lt;{{ page.previous.title }}</a>{% endif %}
+&nbsp;<span class="delimiter">|</span>&nbsp;
+{% if page.next %}<a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}" class="next">{{ page.next.title }}&gt;</a>{% endif %}
+</div>
+
+{% include ./page.html %}
