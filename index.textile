@@ -2,7 +2,7 @@
 layout: page
 title: /
 ---
-<p class="date"><span class="caption">Last modified: </span><span class="timestamp">{{ site.time | date: "%Y-%m-%d %H:%M" }}</span></p>
+<p class="date"><span class="caption">Last modified: </span><span class="timestamp">{{ site.time | date: "%Y-%m-%d %H:%M %Z" }}</span></p>
 
 h2. "/gist":/gist
 

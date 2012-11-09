@@ -1,0 +1,66 @@
+/* extra */
+
+
+span.title{
+	position:relative;
+}
+
+
+/* .main */
+.main{
+	margin:auto auto auto auto;
+}
+
+
+/* .section */
+.section{
+	font-size:100%;
+}
+
+/* title */
+.section .title{
+	font-size:150%;
+}
+
+/* categories */
+.section .sectioncategory{
+	margin:0; padding:0;
+}
+.section .sectioncategory li{
+	display:table-cell;
+	padding:0 0.25em 0 0.25em;
+	border-right:solid 1px lightgray;
+	font-size:75%;
+}
+.section .sectioncategory li a{ text-decoration:none; }
+.section .sectioncategory li a:hover{ text-decoration:underline; }
+
+
+/* list-item */
+.section li li{
+	font-size:92.5%;
+}
+.section li li li{
+	font-size:87.5%;
+}
+
+/* ol */
+.section ol li ol{
+	display:inline;
+}
+.section ol li ol li{
+	list-style-type:none;
+}
+
+/* ul */
+.section ul li ul li{
+	list-style-type:square;
+}
+.section ul li ul li ul li{
+	list-style-type:circle;
+}
+
+
+
+
+
