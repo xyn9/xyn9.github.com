@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: wiki
 title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
 category: note

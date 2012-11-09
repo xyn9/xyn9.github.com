@@ -3,32 +3,32 @@
 {% if page.next %}&nbsp;<span class="delimiter">|</span>&nbsp;<a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}" class="next">{{ page.next.title }}&gt;</a>{% endif %}
 </div>
 
-<div id="days">
-  <div class="day">
-    <!-- div class="body" -->
+<div class="day autopagerize_page_element">
+  <h2><span class="date">{{page.date | date: "%Y-%m-%d" }}</span><span class="title"></span></h2>
+  <div class="body">
 
-      <!-- div class="section" -->
+    <div class="section">
+      <h3 class="title"><a href="{{page.url}}" name="{{page.title}}">{{page.title}}</a></h3>
+      <p class="sectionheader">
+        <ul class="sectioncategory">
+          {% unless page.tags == empty %}
+            {% assign tags_list = page.tags %}
+            {% include JB/tags_list %}
+          {% endunless %}
+        </ul>
+      </p>
 {{ content }}
-      <!-- /div -->
+    </div>
 
-      <div class="refererlist">
-        <p class="date"><span class="caption">Last modified: </span><span class="timestamp">{{ page.date | date: "%Y-%m-%d %H:%M" }}</span></p>
-        <p class="tags">
-        <span class="caption">Tag(s):</span>
-        {% unless page.tags == empty %}
-          <ul class="commentshort">
-          {% assign tags_list = page.tags %}
-          {% include JB/tags_list %}
-          </ul>
-        {% endunless %}
-        </p>
-      </div>
+{% comment %}<!--
+    <div class="refererlist">
+    </div>
+-->{% endcomment %}
 
-      <div class="comment">
-        {% include JB/comments %}
-      </div>
+    <div class="comment">
+      {% include JB/comments %}
+    </div>
 
-    <!-- /div -->
   </div>
 </div>
 
