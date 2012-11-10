@@ -11,10 +11,10 @@
       <h3 class="title"><a href="{{page.url}}" name="{{page.title}}">{{page.title}}</a></h3>
       <p class="sectionheader">
         <ul class="sectioncategory">
-          {% unless page.tags == empty %}
-            {% assign tags_list = page.tags %}
-            {% include JB/tags_list %}
-          {% endunless %}
+        {% unless page.tags == empty %}
+          {% assign tags_list = page.tags %}
+          {% include JB/tags_list %}
+        {% endunless %}
         </ul>
       </p>
 {{ content }}
