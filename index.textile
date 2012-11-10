@@ -2,14 +2,21 @@
 layout: page
 title: /
 ---
+
 <p class="date"><span class="caption">Last modified: </span><span class="timestamp">{{ site.time | date: "%Y-%m-%d %H:%M %Z" }}</span></p>
 
-h2. "/gist":/gist
 
-h2. Repos
+{% if site.author.github %}
+h2. "Repos":http://github.com/{{ site.author.github }}
 
 * "/libstd":/libstd 
 * "/win32":/win32 
 * "/sylrextension":/sylrextension 
+* "/JB-themes":/JB-themes 
+
+h2. "/gist":/gist
+
+* 
+{% endif %}
 
 
