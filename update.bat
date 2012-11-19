@@ -36,6 +36,8 @@ set _%~n0_DEST=!_%~n0_OUTDIR!\!_%~n0_DATE!-%~nx1
 if not defined _%~n0_H#mdate set _%~n0_H#mdate=!_%~n0_H#date!
 if not defined _%~n0_H#mdescription set /p _%~n0_H#mdescription=description: 
 :
+set _%~n0_H#layout=nil
+:
 @echo --->"!_%~n0_DEST!"
 for /F "usebackq tokens=1,2* delims==#" %%I in (`set _%~n0_H#`) do @echo %%J^: !_%~n0_H#%%J!|!_%~n0_NKF! --oc=UTF-8>>"!_%~n0_DEST!"
 @echo --->>"!_%~n0_DEST!"
