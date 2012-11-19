@@ -31,8 +31,8 @@ Usage:
     {% endif %}
   
         <li>
-        <span>{{ post.date | date: "%Y-%m-%d" }}</span>
-        <a href="{{ BASE_PATH }}{{ post.link }}">{{ post.title }}</a>
+        <span>{{ post.date | date: page.theme.date_format }}</span>
+        <a href="{{ BASE_PATH }}{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a>
         {% if post.mdescription %}<pre>{{ post.mdescription }}</pre>{% endif %}
         </li>
   
