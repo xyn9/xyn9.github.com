@@ -1,7 +1,9 @@
 /* extra */
 
 
-span.title{
+span.title
+, span.date
+{
 	position:relative;
 }
 
