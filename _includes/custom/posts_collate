@@ -31,9 +31,9 @@ Usage:
     {% endif %}
   
         <li>
-        <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
+        <span>{{ post.date | date: "%Y-%m-%d" }}</span>
         <a href="{{ BASE_PATH }}{{ post.link }}">{{ post.title }}</a>
-        {% if post.mdescription %}<xmp>{{ post.mdescription }}</xmp>{% endif %}
+        {% if post.mdescription %}<pre>{{ post.mdescription }}</pre>{% endif %}
         </li>
   
     {% if forloop.last %}
