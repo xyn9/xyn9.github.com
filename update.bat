@@ -39,7 +39,9 @@ if not defined _%~n0_H#mdescription set /p _%~n0_H#mdescription=description:
 @echo --->"!_%~n0_DEST!"
 for /F "usebackq tokens=1,2* delims==#" %%I in (`set _%~n0_H#`) do @echo %%J^: !_%~n0_H#%%J!|!_%~n0_NKF! --oc=UTF-8>>"!_%~n0_DEST!"
 @echo --->>"!_%~n0_DEST!"
-@echo.
+@echo. >>"!_%~n0_DEST!"
+@echo ^{^{ page.mdescription ^}^}>>"!_%~n0_DEST!"
+@echo. >>"!_%~n0_DEST!"
 :
 echo out: !_%~n0_DEST!
 call !_%~n0_NKF! --windows<"!_%~n0_DEST!"
