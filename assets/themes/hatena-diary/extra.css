@@ -1,7 +1,9 @@
 /* extra */
 
 
-span.title{
+span.title
+, span.date
+{
 	position:relative;
 }
 
@@ -9,6 +11,14 @@ span.title{
 /* .main */
 .main{
 	margin:auto auto auto auto;
+}
+
+
+/* day */
+.day{
+}
+.day>h2>a{
+	text-align:left;
 }
 
 

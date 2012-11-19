@@ -4,7 +4,10 @@ group: note
 category: note
 title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
-mdate: 2012-11-08 20:29
+date: 2012-11-19 14:08
+tags: ["wiki", "#25499949858"]
+mdate: 2012-11-19 14:08
+mdescription: 沖縄レイプ事件関連ニコ動コメントへのリンク追加
 ---
 
 
@@ -65,6 +68,7 @@ h3. ニコニコ動画
 * "沖縄米兵による集団女性暴行致傷事件の真相":http://www.nicozon.net/msg/sm19274782 ("@2012-11-05 07:03:49":http://megalodon.jp/2012-1105-0703-49/www.nicozon.net/msg/sm19274782 )
 ** ユーザーコメントより
 *** "4MXdb_04B9zCDUiFcgh6UrjELmU":http://www.nicozon.net/msg/sm19274782/4MXdb_04B9zCDUiFcgh6UrjELmU ("2012-11-05 07:03:32":http://megalodon.jp/2012-1105-0703-32/www.nicozon.net/msg/sm19274782/4MXdb_04B9zCDUiFcgh6UrjELmU )
+* "沖縄の米兵による集団強姦事件について。- 2012.10.17":http://www.nicozon.net/msg/sm19143469 ("@2012-11-19 07:51:06":http://megalodon.jp/2012-1119-0751-06/www.nicozon.net/msg/sm19143469 )
 
 
 
@@ -98,6 +102,7 @@ h2. %(title)履歴%
 # その他の項にYouTubeコメントスレッドへのリンク追加
 # 履歴一覧追加
 # 日米／沖縄／原発の項にニコニコ動画コメントへのリンク追加
+# 沖縄レイプ事件関連ニコ動コメントへのリンク追加
 
 
 
