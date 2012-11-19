@@ -10,3 +10,4 @@ mdescription: 沖縄レイプ事件関連ニコ動コメントへのリンク追
 tags: ["wiki", "#25499949858"] 
 title: メモ片#25499949858 
 ---
+{{ page.mdescription }}
