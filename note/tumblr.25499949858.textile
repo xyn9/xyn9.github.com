@@ -4,10 +4,10 @@ group: note
 category: note
 title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
-date: 2012-11-19 14:08
+date: 2012-11-22 22:30
 tags: ["wiki", "#25499949858"]
-mdate: 2012-11-19 14:08
-mdescription: 沖縄レイプ事件関連ニコ動コメントへのリンク追加
+mdate: 2012-11-22 22:30
+mdescription: 藤井聡教授『列島強靭化論』講演ニコ動コメントへのリンク追加
 ---
 
 
@@ -34,6 +34,7 @@ h3. ニコニコ動画
 ** ユーザーコメントより
 *** "IFd1fdfcxkSAPYXMiwR0zJIDeCY":http://www.nicozon.net/msg/sm18902820/IFd1fdfcxkSAPYXMiwR0zJIDeCY ("@2012.09.17 10:21:18":http://megalodon.jp/2012-0917-1021-18/www.nicozon.net/msg/sm18902820/IFd1fdfcxkSAPYXMiwR0zJIDeCY )
 *** "9Cla5ryBgda0yZuikW5abFKcLfc":http://www.nicozon.net/msg/sm18902820/9Cla5ryBgda0yZuikW5abFKcLfc ("@2012.09.17 19:40:57":http://megalodon.jp/2012-0917-1940-57/www.nicozon.net/msg/sm18902820/9Cla5ryBgda0yZuikW5abFKcLfc )
+* "【藤井聡】『列島強靭化論』質疑応答前半3/4":http://www.nicozon.net/msg/sm19405090 ("@2012.11.22 22:13:51":http://megalodon.jp/2012-1122-2213-51/www.nicozon.net/msg/sm19405090 )
 
 h3. Twitter
 * "トッキー氏と維新の会支持者らのTLより #0 - Togetter":http://togetter.com/li/302102 
@@ -103,6 +104,7 @@ h2. %(title)履歴%
 # 履歴一覧追加
 # 日米／沖縄／原発の項にニコニコ動画コメントへのリンク追加
 # 沖縄レイプ事件関連ニコ動コメントへのリンク追加
+# 藤井聡教授『列島強靭化論』講演ニコ動コメントへのリンク追加
 
 
 
