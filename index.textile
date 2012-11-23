@@ -1,13 +1,12 @@
 ---
 layout: page
-title: /
 ---
 
 p(date). %(caption)Last modified:% %(timestamp){{ site.time | date: "%Y-%m-%d %H:%M %Z" }}%
 
 
 {% if site.author.github %}
-{% assign gh_url = site.author.github | prepend:'https://github.com/' %}
+{% assign gh_url = 'https://github.com/'{{ site.author.github }} %}
 
 h2. "/repos":{{ gh_url }}
 * "libstd":{{ gh_url }}/libstd/tags
