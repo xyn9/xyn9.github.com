@@ -1,7 +1,7 @@
 ---
 layout: page
 menu:
-	repos_list: ['libstd/tags', 'win32/wiki', 'sylrextension/wiki', 'JB-themes/tags']
+  repos_list: ['libstd/tags', 'win32/wiki', 'sylrextension/wiki', 'JB-themes/tags']
 ---
 
 p(date). %(caption)Last modified:% %(timestamp){{ site.time | date: "%Y-%m-%d %H:%M %Z" }}%
