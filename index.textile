@@ -9,12 +9,7 @@ p(date). %(caption)Last modified:% %(timestamp){{ site.time | date: "%Y-%m-%d %H
   {% capture gh_url %}{{ site.author.github | prepend:'https://github.com/' }}{% endcapture %}
 
 h2. "/repos":{{ gh_url }}
-  {% for r_link in [
-    'libstd/tags'
-    , 'win32/wiki'
-    , 'sylrextension/wiki'
-    , 'JB-themes/tags'
-  ] %}
+  {% for r_link in ['libstd/tags', 'win32/wiki', 'sylrextension/wiki', 'JB-themes/tags'] %}
     {% capture r_name %}{{ r_link | split:/ }}{% endcapture %}
 * "{{ r_link[0] }}":{{ gh_url }}/{{ repos_link }}
   {% endfor %}
