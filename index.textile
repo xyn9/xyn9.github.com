@@ -6,13 +6,14 @@ p(date). %(caption)Last modified:% %(timestamp){{ site.time | date: "%Y-%m-%d %H
 
 
 {% if site.author.github %}
-{% assign gh_url = 'https://github.com/'{{ site.author.github }} %}
+{% capture gh_url %} {{site.author.github | prepend:'https://github.com/'}} {% endcapture %}
 
 h2. "/repos":{{ gh_url }}
 * "libstd":{{ gh_url }}/libstd/tags
 * "win32":{{ gh_url }}/win32/wiki
 * "sylrextension":{{ gh_url }}/sylrextension/wiki
 * "JB-themes":{{ gh_url }}/JB-themes/tags
+
 
 h2. "/gist":http://gist.github.com/{{ site.author.github }}
 
