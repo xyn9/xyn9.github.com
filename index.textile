@@ -1,20 +1,18 @@
 ---
 layout: page
-menu:
-  repos_list: ['libstd/tags', 'win32/wiki', 'sylrextension/wiki', 'JB-themes/tags']
 ---
 
 p(date). %(caption)Last modified:% %(timestamp){{ site.time | date: "%Y-%m-%d %H:%M %Z" }}%
 
 
 {% if site.author.github %}
-  {% capture gh_url %}{{ site.author.github | prepend:'https://github.com/' }}{% endcapture %}
+{% capture gh_url %}{{ site.author.github | prepend:'https://github.com/' }}{% endcapture %}
 
 h2. "/repos":{{ gh_url }}
-
-p. {{ page.menu.repos_list | size }}
-{% for r_link in page.menu.repos_list %}{% capture r_name %}{{ r_link | split:'/' }}{% endcapture %}
-* "{{ r_name[0] }}":{{ gh_url }}/{{ r_link }} (1: {{ r_name[1] }} /size: {{ r_name | size }}){% endfor %}
+* "libstd":{{ gh_url }}/libstd/tags
+* "win32":{{ gh_url }}/win32/wiki
+* "sylrextension":{{ gh_url }}/sylrextension/wiki
+* "JB-themes":{{ gh_url }}/JB-themes/tags
 
 
 h2. "/gist":http://gist.github.com/{{ site.author.github }}
