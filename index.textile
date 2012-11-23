@@ -6,13 +6,18 @@ p(date). %(caption)Last modified:% %(timestamp){{ site.time | date: "%Y-%m-%d %H
 
 
 {% if site.author.github %}
-{% capture gh_url %}{{ site.author.github | prepend:'https://github.com/' }}{% endcapture %}
+  {% capture gh_url %}{{ site.author.github | prepend:'https://github.com/' }}{% endcapture %}
 
 h2. "/repos":{{ gh_url }}
-* "libstd":{{ gh_url }}/libstd/tags
-* "win32":{{ gh_url }}/win32/wiki
-* "sylrextension":{{ gh_url }}/sylrextension/wiki
-* "JB-themes":{{ gh_url }}/JB-themes/tags
+  {% for r_link in [
+    'libstd/tags'
+    , 'win32/wiki'
+    , 'sylrextension/wiki'
+    , 'JB-themes/tags'
+  ] %}
+    {% capture r_name %}{{ r_link | split:/ }}{% endcapture %}
+* "{{ r_link[0] }}":{{ gh_url }}/{{ repos_link }}
+  {% endfor %}
 
 
 h2. "/gist":http://gist.github.com/{{ site.author.github }}
