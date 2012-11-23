@@ -3,20 +3,22 @@ layout: page
 title: /
 ---
 
-<p class="date"><span class="caption">Last modified: </span><span class="timestamp">{{ site.time | date: "%Y-%m-%d %H:%M %Z" }}</span></p>
+p(date). %(caption)Last modified:% %(timestamp){{ site.time | date: "%Y-%m-%d %H:%M %Z" }}%
 
 
 {% if site.author.github %}
-h2. "Repos":http://github.com/{{ site.author.github }}
 
-* "/libstd":/libstd 
-* "/win32":/win32 
-* "/sylrextension":/sylrextension 
-* "/JB-themes":/JB-themes 
+h2. "/repos":http://github.com/{{ site.author.github }}
+* "/repos/libstd/":/repos/libstd/
+* "/repos/win32/":/repos/win32/
+* "/repos/sylrextension/":/repos/sylrextension/
+* "/repos/JB-themes/":/repos/JB-themes/
 
-h2. "/gist":/gist
+h2. "/gist":http://gist.github.com/{{ site.author.github }}
 
-* 
 {% endif %}
+
+
+
 
 

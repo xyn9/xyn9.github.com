@@ -1,0 +1,8 @@
+---
+layout: redirect
+title:  /repos/win32/
+redirect:
+	url: https://github.com/xyn9/win32/wiki
+	delay: 1
+---
+

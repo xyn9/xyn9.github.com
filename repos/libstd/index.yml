@@ -1,0 +1,8 @@
+---
+layout: redirect
+title:  /repos/libstd/
+redirect:
+	url: https://github.com/xyn9/libstd/tags
+	delay: 1
+---
+
