@@ -12,7 +12,7 @@ h2. "/repos":{{ gh_url }}
   {% capture repos_list %}{{ 'libstd/tags, win32/wiki, sylrextension/wiki, JB-themes/tags' | remove:' ' | split:',' }}{% endcapture %}
   {% for r_link in repos_list %}
     {% capture r_name %}{{ r_link | split:'/' }}{% endcapture %}
-* "{{ r_name }}":{{ gh_url }}/{{ r_link }}
+* "{{ r_name[0] }}":{{ gh_url }}/{{ r_link }}
   {% endfor %}
 
 
