@@ -13,10 +13,8 @@ p(date). %(caption)Last modified:% %(timestamp){{ site.time | date: "%Y-%m-%d %H
 h2. "/repos":{{ gh_url }}
 
 p. {{ page.menu.repos_list | size }}
-
-  {% for r_link in page.menu.repos_list %}
-* "{{ r_link | split:'/' }}":{{ gh_url }}/{{ r_link }} ({{ r_name | size }})
-  {% endfor %}
+{% for r_link in page.menu.repos_list %}{% capture r_name %}{{ r_link | split:'/' }}{% endcapture %}
+* "{{ r_name[0] }}":{{ gh_url }}/{{ r_link }} (1: {{ r_name[1] }} /size: {{ r_name | size }}){% endfor %}
 
 
 h2. "/gist":http://gist.github.com/{{ site.author.github }}
