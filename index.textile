@@ -11,8 +11,10 @@ p(date). %(caption)Last modified:% %(timestamp){{ site.time | date: "%Y-%m-%d %H
   {% capture gh_url %}{{ site.author.github | prepend:'https://github.com/' }}{% endcapture %}
 
 h2. "/repos":{{ gh_url }}
-p. {{ menu.repos_list | size }}
-  {% for r_link in menu.repos_list %}
+
+p. {{ page.menu.repos_list | size }}
+
+  {% for r_link in page.menu.repos_list %}
     {% capture r_name %}{{ r_link | split:'/' }}{% endcapture %}
 * "{{ r_name[0] }}":{{ gh_url }}/{{ r_link }} ({{ r_name | size }})
   {% endfor %}
