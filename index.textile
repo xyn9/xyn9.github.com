@@ -9,10 +9,10 @@ p(date). %(caption)Last modified:% %(timestamp){{ site.time | date: "%Y-%m-%d %H
 {% if site.author.github %}
 
 h2. "/repos":http://github.com/{{ site.author.github }}
-* "./libstd/":/repos/libstd/
-* "./win32/":/repos/win32/
-* "./sylrextension/":/repos/sylrextension/
-* "./JB-themes/":/repos/JB-themes/
+* "./libstd":/repos/libstd
+* "./win32":/repos/win32
+* "./sylrextension":/repos/sylrextension
+* "./JB-themes":/repos/JB-themes
 
 h2. "/gist":http://gist.github.com/{{ site.author.github }}
 
