@@ -7,7 +7,7 @@ description: http://xyn9.tumblr.com/post/25499949858
 date: 2012-11-22 22:30
 tags: ["wiki", "#25499949858"]
 mdate: 2012-11-22 22:30
-mdescription: 藤井聡教授『列島強靭化論』講演ニコ動コメントへのリンク追加
+mdescription: “その他”の項に選挙関連番組ニコ動コメントへのリンク追加
 ---
 
 
@@ -83,6 +83,7 @@ h2. %(title)関連・その他%
 * "村野瀬玲奈の秘書課広報室 | 東大話法とはネトウヨコメントである":http://muranoserena.blog91.fc2.com/blog-entry-3311.html  / "何も言えねえ#25511948078":http://xyn9-should-not-have-to-say.tumblr.com/post/25511948078
 * "日本破滅論, pp.174-5 - 読書ノート - bookグループ":http://book.g.hatena.ne.jp/xyn9/20120912/1347452892
 * "第5回 中国人の歴史観 Part2 : コメント":http://www.youtube.com/all_comments?threaded=1&v=3Ps-EX0-RmI ("@2012-10-28 04:39:51":http://megalodon.jp/2012-1028-0439-51/www.youtube.com/all_comments?threaded=1&v=3Ps-EX0-RmI )
+* "【西部邁】総選挙で問われるべきものは？【2/2】2012.11.23":http://www.nicozon.net/msg/sm19424640 ("@2012-11-28 07:50:15":http://megalodon.jp/2012-1128-0750-15/www.nicozon.net/msg/sm19424640 )
 
 
 
@@ -105,6 +106,7 @@ h2. %(title)履歴%
 # 日米／沖縄／原発の項にニコニコ動画コメントへのリンク追加
 # 沖縄レイプ事件関連ニコ動コメントへのリンク追加
 # 藤井聡教授『列島強靭化論』講演ニコ動コメントへのリンク追加
+# “関連・その他”の項に選挙関連番組ニコ動コメントへのリンク追加
 
 
 

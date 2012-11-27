@@ -6,7 +6,7 @@ group: note
 layout: nil
 link: note/tumblr.25499949858.html
 mdate: 2012-11-22 22:30 
-mdescription: 藤井聡教授『列島強靭化論』講演ニコ動コメントへのリンク追加 
+mdescription: “その他”の項に選挙関連番組ニコ動コメントへのリンク追加 
 tags: ["wiki", "#25499949858"] 
 title: メモ片#25499949858 
 ---
