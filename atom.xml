@@ -20,7 +20,7 @@ title : Atom Feed
    <title>{{ post.category }}: {{ post.title }}</title>
    <link href="{% if post.link %}{{ site.production_url }}/{{ post.link }}{% else %}{{ post.url }}{% endif %}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>{{ post.date | %Y%m%d }}{{ post.id }}</id>
+   <id>{{ post.date | "%Y%m%d" }}{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}
