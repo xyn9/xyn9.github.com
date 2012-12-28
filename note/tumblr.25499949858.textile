@@ -4,10 +4,10 @@ group: note
 category: note
 title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
-date: 2012-12-25 16:19
+date: 2012-12-28 16:12
 tags: ["wiki", "#25499949858"]
-mdate: 2012-12-25 16:19
-mdescription: “関連・その他”の項に漫画「はだしのゲン」作者訃報のニコ動コメントへのリンク追加
+mdate: 2012-12-28 16:12
+mdescription: “日米／沖縄／原発”の項に「トモダチ作戦」東電訴訟ニュースニコ動コメントへのリンク追加
 ---
 
 
@@ -73,6 +73,7 @@ h3. ニコニコ動画
 *** "4MXdb_04B9zCDUiFcgh6UrjELmU":http://www.nicozon.net/msg/sm19274782/4MXdb_04B9zCDUiFcgh6UrjELmU ("@2012-11-05 07:03:32":http://megalodon.jp/2012-1105-0703-32/www.nicozon.net/msg/sm19274782/4MXdb_04B9zCDUiFcgh6UrjELmU )
 * "沖縄の米兵による集団強姦事件について。- 2012.10.17":http://www.nicozon.net/msg/sm19143469 ("@2012-11-19 07:51:06":http://megalodon.jp/2012-1119-0751-06/www.nicozon.net/msg/sm19143469 )
 * "2012.12.15　山本太郎　東京8区出馬　最終演説ラスト５分":http://www.nicozon.net/msg/sm19592187 ("@2012-12-18 00:54:36":http://megalodon.jp/2012-1218-0054-36/www.nicozon.net/msg/sm19592187 )
+* "「トモダチ作戦」で被ばく、巨額の賠償請求　東電に":http://www.nicozon.net/msg/sm19691725 ("@2012-12-28 16:12:45":http://megalodon.jp/2012-1228-1612-45/www.nicozon.net/msg/sm19691725 )
 
 
 
@@ -114,6 +115,7 @@ h2. %(title)履歴%
 # “大阪ダブル選挙・維新の会”に口蹄疫発生時宮崎県知事会見ニコ動コメントへのリンク追加
 # “日米／沖縄／原発”に山本太郎氏衆院選演説ニコ動コメントへのリンク追加
 # “関連・その他”の項に漫画「はだしのゲン」作者訃報のニコ動コメントへのリンク追加
+# “日米／沖縄／原発”の項に「トモダチ作戦」東電訴訟ニュースニコ動コメントへのリンク追加
 
 
 
