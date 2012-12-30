@@ -4,10 +4,10 @@ group: note
 category: note
 title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
-date: 2012-12-29 17:34
+date: 2012-12-30 18:29
 tags: ["wiki", "#25499949858"]
-mdate: 2012-12-29 17:34
-mdescription: “関連・その他”の項に朝日安倍評コラム＠ゴールデンラジオニコ動コメントへのリンク追加
+mdate: 2012-12-30 18:29
+mdescription: 朝日安倍評コラム＠ゴールデンラジオ放送時TLのtogetterまとめ追加
 ---
 
 
@@ -16,9 +16,9 @@ mdescription: “関連・その他”の項に朝日安倍評コラム＠ゴー
 
 h2. %(title)取っ掛かり%
 
-* "はてなハイク#189913258751931775":http://h.hatena.ne.jp/xyn9/189913258751931775 
-* "Twitter#189006327392124928":http://twitter.com/xyn9/status/189006327392124928 
-* "Twitter#214739795845451776":http://twitter.com/xyn9/status/214739795845451776 
+* "はてなハイク#189913258751931775":http://h.hatena.ne.jp/xyn9/189913258751931775
+* "Twitter#189006327392124928":http://twitter.com/xyn9/status/189006327392124928
+* "Twitter#214739795845451776":http://twitter.com/xyn9/status/214739795845451776
 
 
 
@@ -35,12 +35,12 @@ h3. ニコニコ動画
 *** "IFd1fdfcxkSAPYXMiwR0zJIDeCY":http://www.nicozon.net/msg/sm18902820/IFd1fdfcxkSAPYXMiwR0zJIDeCY ("@2012.09.17 10:21:18":http://megalodon.jp/2012-0917-1021-18/www.nicozon.net/msg/sm18902820/IFd1fdfcxkSAPYXMiwR0zJIDeCY )
 *** "9Cla5ryBgda0yZuikW5abFKcLfc":http://www.nicozon.net/msg/sm18902820/9Cla5ryBgda0yZuikW5abFKcLfc ("@2012.09.17 19:40:57":http://megalodon.jp/2012-0917-1940-57/www.nicozon.net/msg/sm18902820/9Cla5ryBgda0yZuikW5abFKcLfc )
 * "【藤井聡】『列島強靭化論』質疑応答前半3/4":http://www.nicozon.net/msg/sm19405090 ("@2012.11.22 22:13:51":http://megalodon.jp/2012-1122-2213-51/www.nicozon.net/msg/sm19405090 )
-* "【口蹄疫】東国原知事　会見でマスコミに激怒（2010/05/18）":http://www.nicozon.net/msg/sm10767857 ("@2012-12-02 21:48:25":http://megalodon.jp/2012-1202-2148-25/www.nicozon.net/msg/sm10767857 ) / "Twitter#14392992801":http://twitter.com/xyn9/status/14392992801 
+* "【口蹄疫】東国原知事　会見でマスコミに激怒（2010/05/18）":http://www.nicozon.net/msg/sm10767857 ("@2012-12-02 21:48:25":http://megalodon.jp/2012-1202-2148-25/www.nicozon.net/msg/sm10767857 ) / "Twitter#14392992801":http://twitter.com/xyn9/status/14392992801
 
 
 h3. Twitter
-* "トッキー氏と維新の会支持者らのTLより #0 - Togetter":http://togetter.com/li/302102 
-* "トッキー氏と維新の会支持者らのTLより #1 - Togetter":http://togetter.com/li/302088 
+* "トッキー氏と維新の会支持者らのTLより #0 - Togetter":http://togetter.com/li/302102
+* "トッキー氏と維新の会支持者らのTLより #1 - Togetter":http://togetter.com/li/302088
 
 
 
@@ -53,8 +53,8 @@ h3. ニコニコ動画
 * "夕やけ寺ちゃん活動中 京都大学教授　藤井聡さん登場！":http://www.nicozon.net/msg/sm18131019 ("@2012.06.20 18:44:00":http://megalodon.jp/2012-0620-1844-00/www.nicozon.net/msg/sm18131019 )
 
 h3. Twitter
-* "6月19日放送 夕やけ寺ちゃん活動中 - Togetter":http://togetter.com/li/324136 
-* "6月4日放映TVタックルをめぐるツイートから - Togetter":http://togetter.com/li/315965 
+* "6月19日放送 夕やけ寺ちゃん活動中 - Togetter":http://togetter.com/li/324136
+* "6月4日放映TVタックルをめぐるツイートから - Togetter":http://togetter.com/li/315965
 
 
 
@@ -90,7 +90,7 @@ h2. %(title)関連・その他%
 h3. ニコニコ動画
 * "【西部邁】総選挙で問われるべきものは？【2/2】2012.11.23":http://www.nicozon.net/msg/sm19424640 ("@2012-11-28 07:50:15":http://megalodon.jp/2012-1128-0750-15/www.nicozon.net/msg/sm19424640 )
 * "売国奴の「はだしのゲン」作者・中沢啓治氏が死去":http://www.nicozon.net/msg/sm19667587 ("@2012-12-25 16:19:53":http://megalodon.jp/2012-1225-1619-53/www.nicozon.net/msg/sm19667587 )
-* "安倍さんの味方はネット右翼しかいない！":http://www.nicozon.net/msg/sm19695345 ("@2012-12-29 17:34:06":http://megalodon.jp/2012-1229-1734-06/www.nicozon.net/msg/sm19695345 )
+* "安倍さんの味方はネット右翼しかいない！":http://www.nicozon.net/msg/sm19695345 ("@2012-12-29 17:34:06":http://megalodon.jp/2012-1229-1734-06/www.nicozon.net/msg/sm19695345 ) / "12月28日放送 大竹まことゴールデンラジオ - Togetter":http://togetter.com/li/431175
 
 h3. YouTube
 * "第5回 中国人の歴史観 Part2 : コメント":http://www.youtube.com/all_comments?threaded=1&v=3Ps-EX0-RmI ("@2012-10-28 04:39:51":http://megalodon.jp/2012-1028-0439-51/www.youtube.com/all_comments?threaded=1&v=3Ps-EX0-RmI )
@@ -122,6 +122,7 @@ h2. %(title)履歴%
 # “関連・その他”の項に漫画「はだしのゲン」作者訃報のニコ動コメントへのリンク追加
 # “日米／沖縄／原発”の項に「トモダチ作戦」東電訴訟ニュースニコ動コメントへのリンク追加
 # “関連・その他”の項に朝日安倍評コラム＠ゴールデンラジオニコ動コメントへのリンク追加
+#  朝日安倍評コラム＠ゴールデンラジオ放送時TLのtogetterまとめ追加
 
 
 
