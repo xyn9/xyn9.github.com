@@ -1,0 +1,15 @@
+---
+category: note 
+date: 2013-03-28 03:43:11 
+description: http://xyn9.tumblr.com/post/25499949858 
+group: note 
+layout: nil
+link: note/tumblr.25499949858.html
+mdate: 2013-03-28 03:43:11 
+mdescription: 安倍首相関連を“第2次安倍政権”として別項分離＋難病罹患についてのツイートまとめと前期辞任時の動画コメント追加 
+tags: ["wiki", "#25499949858"] 
+title: メモ片#25499949858 
+---
+ 
+{{ page.mdescription }}
+ 
