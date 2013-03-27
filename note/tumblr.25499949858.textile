@@ -4,10 +4,10 @@ group: note
 category: note
 title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
-date: 2013-02-24 03:23
+date: 2013-03-28 03:43:11
 tags: ["wiki", "#25499949858"]
-mdate: 2013-02-24 03:23
-mdescription: “関連・その他”の項目に政党ブームについての動画コメントへのリンク追加
+mdate: 2013-03-28 03:43:11
+mdescription: 安倍首相関連を“第2次安倍政権”として別項分離＋難病罹患についてのツイートまとめと前期辞任時の動画コメント追加
 ---
 
 
@@ -37,7 +37,6 @@ h3. ニコニコ動画
 * "【藤井聡】『列島強靭化論』質疑応答前半3/4":http://www.nicozon.net/msg/sm19405090 ("@2012.11.22 22:13:51":http://megalodon.jp/2012-1122-2213-51/www.nicozon.net/msg/sm19405090 )
 * "【口蹄疫】東国原知事　会見でマスコミに激怒（2010/05/18）":http://www.nicozon.net/msg/sm10767857 ("@2012-12-02 21:48:25":http://megalodon.jp/2012-1202-2148-25/www.nicozon.net/msg/sm10767857 )
 ** "Twitter#14392992801":http://twitter.com/xyn9/status/14392992801
-
 
 h3. Twitter
 * "トッキー氏と維新の会支持者らのTLより #0 - Togetter":http://togetter.com/li/302102
@@ -80,6 +79,24 @@ h3. ニコニコ動画
 
 
 
+h2. %(title)第2次安倍政権%
+
+h3. ニコニコ動画
+* "安倍さんの味方はネット右翼しかいない！":http://www.nicozon.net/msg/sm19695345 ("@2012-12-29 17:34:06":http://megalodon.jp/2012-1229-1734-06/www.nicozon.net/msg/sm19695345 )
+** "12月28日放送 大竹まことゴールデンラジオ - Togetter":http://togetter.com/li/431175
+* "弱者を強調しすぎて違和感たっぷりな安倍政権へのナマポ削減批判":http://www.nicozon.net/msg/sm20004177 ("@2013-02-05 18:37:38":http://megalodon.jp/2013-0205-1837-38/www.nicozon.net/msg/sm20004177 )
+
+h3. YouTube
+* "テロ特措法どころではない安倍首相 霊視で組閣 「四人の神」 慧光塾":http://www.youtube.com/watch?v=E6ylRXgfSFY ("@2013-03-28 03:40:58":http://megalodon.jp/2013-0328-0340-58/www.youtube.com/all_comments?v=E6ylRXgfSFY&threaded=1 )
+** 同上ニコニコに転載されていたもの "sm20444587":http://www.nicozon.net/msg/sm20444587 ("@2013-03-28 03:40:15":http://megalodon.jp/2013-0328-0340-15/www.nicozon.net/msg/sm20444587 ) / "sm20444274":http://www.nicozon.net/msg/sm20444274 ("@2013-03-28 03:43:11":http://megalodon.jp/2013-0328-0343-11/www.nicozon.net/msg/sm20444274 )
+
+h3. Twitter
+* TL:難病の首相と国会中の中座 "#00":http://togetter.com/li/466229 "#01":http://togetter.com/li/466337 "#02":http://togetter.com/li/466357 "#03":http://togetter.com/li/466699 "#04":http://togetter.com/li/466839
+
+
+
+
+
 h2. %(title)関連・その他%
 
 * "メモ片#25499949858":http://xyn9.tumblr.com/post/25499949858 / "gist#3741532":https://gist.github.com/3741532
@@ -91,9 +108,6 @@ h2. %(title)関連・その他%
 h3. ニコニコ動画
 * "【西部邁】総選挙で問われるべきものは？【2/2】2012.11.23":http://www.nicozon.net/msg/sm19424640 ("@2012-11-28 07:50:15":http://megalodon.jp/2012-1128-0750-15/www.nicozon.net/msg/sm19424640 )
 * "売国奴の「はだしのゲン」作者・中沢啓治氏が死去":http://www.nicozon.net/msg/sm19667587 ("@2012-12-25 16:19:53":http://megalodon.jp/2012-1225-1619-53/www.nicozon.net/msg/sm19667587 )
-* "安倍さんの味方はネット右翼しかいない！":http://www.nicozon.net/msg/sm19695345 ("@2012-12-29 17:34:06":http://megalodon.jp/2012-1229-1734-06/www.nicozon.net/msg/sm19695345 )
-** "12月28日放送 大竹まことゴールデンラジオ - Togetter":http://togetter.com/li/431175
-* "弱者を強調しすぎて違和感たっぷりな安倍政権へのナマポ削減批判":http://www.nicozon.net/msg/sm20004177 ("@2013-02-05 18:37:38":http://megalodon.jp/2013-0205-1837-38/www.nicozon.net/msg/sm20004177 )
 * "新党ブーム―政治屋たちの右往左往ぶり":http://www.nicozon.net/msg/sm10830050 ("@2013-02-24 03:23:34":http://megalodon.jp/2013-0224-0323-34/www.nicozon.net/msg/sm10830050 )
 
 h3. YouTube
@@ -129,6 +143,7 @@ h2. %(title)履歴%
 # 朝日安倍評コラム＠ゴールデンラジオ放送時TLのtogetterまとめ追加
 # “関連・その他”の項に新予算での生活保護費削減に関するレポート動画コメントへのリンク追加
 # “関連・その他”の項目に政党ブームについての動画コメントへのリンク追加
+# 安倍首相関連を“第2次安倍政権”として別項分離＋難病罹患についてのツイートまとめと前期辞任時の動画コメント追加
 
 
 
