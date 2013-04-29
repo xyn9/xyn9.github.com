@@ -4,10 +4,10 @@ group: note
 category: note
 title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
-date: 2013-03-28 03:43:11
+date: 2013-04-30 06:02:56
 tags: ["wiki", "#25499949858"]
-mdate: 2013-03-28 03:43:11
-mdescription: 安倍首相関連を“第2次安倍政権”として別項分離＋難病罹患についてのツイートまとめと前期辞任時の動画コメント追加
+mdate: 2013-04-30 06:02:56
+mdescription: “関連・その他”の項目に日露共同会見TBS質問の動画コメントへのリンク追加
 ---
 
 
@@ -109,6 +109,7 @@ h3. ニコニコ動画
 * "【西部邁】総選挙で問われるべきものは？【2/2】2012.11.23":http://www.nicozon.net/msg/sm19424640 ("@2012-11-28 07:50:15":http://megalodon.jp/2012-1128-0750-15/www.nicozon.net/msg/sm19424640 )
 * "売国奴の「はだしのゲン」作者・中沢啓治氏が死去":http://www.nicozon.net/msg/sm19667587 ("@2012-12-25 16:19:53":http://megalodon.jp/2012-1225-1619-53/www.nicozon.net/msg/sm19667587 )
 * "新党ブーム―政治屋たちの右往左往ぶり":http://www.nicozon.net/msg/sm10830050 ("@2013-02-24 03:23:34":http://megalodon.jp/2013-0224-0323-34/www.nicozon.net/msg/sm10830050 )
+* "プーチン大統領　ＴＢＳにキレる":http://www.nicozon.net/msg/sm20734556 ("@2013-04-30 06:02:56":http://megalodon.jp/2013-0430-0602-56/www.nicozon.net/msg/sm20734556 )
 
 h3. YouTube
 * "第5回 中国人の歴史観 Part2 : コメント":http://www.youtube.com/all_comments?threaded=1&v=3Ps-EX0-RmI ("@2012-10-28 04:39:51":http://megalodon.jp/2012-1028-0439-51/www.youtube.com/all_comments?threaded=1&v=3Ps-EX0-RmI )
@@ -144,6 +145,7 @@ h2. %(title)履歴%
 # “関連・その他”の項に新予算での生活保護費削減に関するレポート動画コメントへのリンク追加
 # “関連・その他”の項目に政党ブームについての動画コメントへのリンク追加
 # 安倍首相関連を“第2次安倍政権”として別項分離＋難病罹患についてのツイートまとめと前期辞任時の動画コメント追加
+# “関連・その他”の項目に日露共同会見TBS質問の動画コメントへのリンク追加
 
 
 
