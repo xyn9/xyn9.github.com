@@ -1,0 +1,15 @@
+---
+category: note 
+date: 2013-04-30 06:02:56 
+description: http://xyn9.tumblr.com/post/25499949858 
+group: note 
+layout: nil
+link: note/tumblr.25499949858.html
+mdate: 2013-04-30 06:02:56 
+mdescription: “関連・その他”の項目に日露共同会見TBS質問の動画コメントへのリンク追加 
+tags: ["wiki", "#25499949858"] 
+title: メモ片#25499949858 
+---
+ 
+{{ page.mdescription }}
+ 
