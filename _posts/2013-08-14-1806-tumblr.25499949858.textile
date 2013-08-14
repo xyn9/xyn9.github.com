@@ -1,0 +1,15 @@
+---
+category: note 
+date: 2013-08-14 18:06:59 
+description: http://xyn9.tumblr.com/post/25499949858 
+group: note 
+layout: nil
+link: note/tumblr.25499949858.html
+mdate: 2013-08-14 18:06:59 
+mdescription: “第2次安倍政権”の項目に柴山桂太准教授＠おはよう寺ちゃん動画コメントへのリンク＋放送時TLのtogetterまとめ追加 
+tags: ["wiki", "#25499949858"] 
+title: メモ片#25499949858 
+---
+ 
+{{ page.mdescription }}
+ 
