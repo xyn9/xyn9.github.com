@@ -4,10 +4,10 @@ group: note
 category: note
 title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
-date: 2013-04-30 06:02:56
+date: 2013-08-14 18:06:59
 tags: ["wiki", "#25499949858"]
-mdate: 2013-04-30 06:02:56
-mdescription: “関連・その他”の項目に日露共同会見TBS質問の動画コメントへのリンク追加
+mdate: 2013-08-14 18:06:59
+mdescription: “第2次安倍政権”の項目に柴山桂太准教授＠おはよう寺ちゃん動画コメントへのリンク＋放送時TLのtogetterまとめ追加
 ---
 
 
@@ -51,9 +51,9 @@ h2. %(title)藤井聡教授＠メディア%
 h3. ニコニコ動画
 * "【税制と財政の虚と実】 講師　 藤井聡1/2":http://www.nicozon.net/msg/sm18336820 ("@2012.07.14 21:18:26":http://megalodon.jp/2012-0714-2118-26/www.nicozon.net/msg/sm18336820 )
 * "夕やけ寺ちゃん活動中 京都大学教授　藤井聡さん登場！":http://www.nicozon.net/msg/sm18131019 ("@2012.06.20 18:44:00":http://megalodon.jp/2012-0620-1844-00/www.nicozon.net/msg/sm18131019 )
+** "6月19日放送 夕やけ寺ちゃん活動中 - Togetter":http://togetter.com/li/324136
 
 h3. Twitter
-* "6月19日放送 夕やけ寺ちゃん活動中 - Togetter":http://togetter.com/li/324136
 * "6月4日放映TVタックルをめぐるツイートから - Togetter":http://togetter.com/li/315965
 
 
@@ -85,6 +85,10 @@ h3. ニコニコ動画
 * "安倍さんの味方はネット右翼しかいない！":http://www.nicozon.net/msg/sm19695345 ("@2012-12-29 17:34:06":http://megalodon.jp/2012-1229-1734-06/www.nicozon.net/msg/sm19695345 )
 ** "12月28日放送 大竹まことゴールデンラジオ - Togetter":http://togetter.com/li/431175
 * "弱者を強調しすぎて違和感たっぷりな安倍政権へのナマポ削減批判":http://www.nicozon.net/msg/sm20004177 ("@2013-02-05 18:37:38":http://megalodon.jp/2013-0205-1837-38/www.nicozon.net/msg/sm20004177 )
+* "【柴山桂太】おはよう寺ちゃん 活動中 2013/08/14":http://www.nicozon.net/msg/sm21588806 ("@2013-08-14 18:06:59":http://megalodon.jp/2013-0814-1806-59/www.nicozon.net/msg/sm21588806 )
+** ユーザーコメントより
+*** "8wG9EHi8cOhaThzsc8u1COQ3lqA":http://www.nicozon.net/msg/sm21588806/8wG9EHi8cOhaThzsc8u1COQ3lqA ("@2013-08-14 18:06:46":http://megalodon.jp/2013-0814-1806-46/www.nicozon.net/msg/sm21588806/8wG9EHi8cOhaThzsc8u1COQ3lqA )
+** "8月14日放送 おはよう寺ちゃん活動中 - Togetter":http://togetter.com/li/548706
 
 h3. YouTube
 * "テロ特措法どころではない安倍首相 霊視で組閣 「四人の神」 慧光塾":http://www.youtube.com/watch?v=E6ylRXgfSFY ("@2013-03-28 03:40:58":http://megalodon.jp/2013-0328-0340-58/www.youtube.com/all_comments?v=E6ylRXgfSFY&threaded=1 )
@@ -92,6 +96,7 @@ h3. YouTube
 
 h3. Twitter
 * TL:難病の首相と国会中の中座 "#00":http://togetter.com/li/466229 "#01":http://togetter.com/li/466337 "#02":http://togetter.com/li/466357 "#03":http://togetter.com/li/466699 "#04":http://togetter.com/li/466839
+
 
 
 
@@ -146,6 +151,7 @@ h2. %(title)履歴%
 # “関連・その他”の項目に政党ブームについての動画コメントへのリンク追加
 # 安倍首相関連を“第2次安倍政権”として別項分離＋難病罹患についてのツイートまとめと前期辞任時の動画コメント追加
 # “関連・その他”の項目に日露共同会見TBS質問の動画コメントへのリンク追加
+# “第2次安倍政権”の項目に柴山桂太准教授＠おはよう寺ちゃん動画コメントへのリンク＋放送時TLのtogetterまとめ追加
 
 
 
