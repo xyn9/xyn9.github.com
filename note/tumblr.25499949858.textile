@@ -4,10 +4,8 @@ group: note
 category: note
 title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
-date: 2013-08-18 15:36:23
 tags: ["wiki", "#25499949858"]
-mdate: 2013-08-18 15:36:23
-mdescription: “第2次安倍政権”の項目に小林よしのり＠ズームそこまで言うか！動画コメントへのリンク＋放送時TLのtogetterまとめ追加
+mdescription: “関連・その他”の項目にリンク追加
 ---
 
 
@@ -112,7 +110,8 @@ h2. %(title)関連・その他%
 * "ニコニコ動画のコメントの年齢分析したら中学生がほとんどだった件 - いろいろ作りたい":http://d.hatena.ne.jp/gen256/20111105/1320503106
 * "ニコニコ動画　3億コメント年齢層分析-NICONICO COMMENT ANALYZER":http://www.niconico-ca.net/pickup3-1.html
 * "村野瀬玲奈の秘書課広報室 | 東大話法とはネトウヨコメントである":http://muranoserena.blog91.fc2.com/blog-entry-3311.html  / "何も言えねえ#25511948078":http://xyn9-should-not-have-to-say.tumblr.com/post/25511948078
-* "日本破滅論, pp.174-5 - 読書ノート - bookグループ":http://book.g.hatena.ne.jp/xyn9/20120912/1347452892
+* "日本破滅論, pp.174-5":http://book.g.hatena.ne.jp/xyn9/20120912/1347452892 / "pp.172-3":http://book.g.hatena.ne.jp/xyn9/20130818/isbn4166608713p172
+* "羽鳥剛史, 小松佳弘, 藤井聡: 大衆性尺度の構成―Ortega"大衆の反逆"に基づく大衆の心的構造分析―, 心理学研究, Vol. 79, No. 5, pp. 423-431. 2008.":https://www.jstage.jst.go.jp/article/jjpsy/79/5/79_5_423/_article/-char/ja/
 
 h3. ニコニコ動画
 * "【西部邁】総選挙で問われるべきものは？【2/2】2012.11.23":http://www.nicozon.net/msg/sm19424640 ("@2012-11-28 07:50:15":http://megalodon.jp/2012-1128-0750-15/www.nicozon.net/msg/sm19424640 )
@@ -157,6 +156,7 @@ h2. %(title)履歴%
 # “関連・その他”の項目に日露共同会見TBS質問の動画コメントへのリンク追加
 # “第2次安倍政権”の項目に柴山桂太准教授＠おはよう寺ちゃん動画コメントへのリンク＋放送時TLのtogetterまとめ追加
 # “第2次安倍政権”の項目に小林よしのり＠ズームそこまで言うか！動画コメントへのリンク＋放送時TLのtogetterまとめ追加
+# “関連・その他”の項目に関連リンク追加
 
 
 
