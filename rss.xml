@@ -1,0 +1,23 @@
+---
+layout: nil
+title : RSS Feed
+---
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>{{ site.title | xml_escape }}</title>
+ <link>{{ site.production_url }}</link>
+ <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+ {% for post in site.posts %}
+ <item>
+   <title>{{ post.category | xml_escape }}: {{ post.title | xml_escape }}</title>
+   <link>{% if post.link %}{{ site.production_url }}/{{ post.link }}{% else %}{{ post.url }}{% endif %}</link>
+   <description>{{ post.content | strip_html | xml_escape }}</description>
+   <content type="html">{{ post.content | xml_escape }}</content>
+   <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+   <guid>{{ post.date | date:"%Y%m%d" }}{{ post.id }}</guid>
+   <author>{{ site.author.name }}</author>
+ </item>
+ {% endfor %}
+</channel>
+</rss>
