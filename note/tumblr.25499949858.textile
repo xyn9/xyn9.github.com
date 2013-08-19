@@ -111,7 +111,7 @@ h2. %(title)関連・その他%
 * "ニコニコ動画　3億コメント年齢層分析-NICONICO COMMENT ANALYZER":http://www.niconico-ca.net/pickup3-1.html
 * "村野瀬玲奈の秘書課広報室 | 東大話法とはネトウヨコメントである":http://muranoserena.blog91.fc2.com/blog-entry-3311.html  / "何も言えねえ#25511948078":http://xyn9-should-not-have-to-say.tumblr.com/post/25511948078
 * "日本破滅論, pp.174-5":http://book.g.hatena.ne.jp/xyn9/20120912/1347452892 / "pp.172-3":http://book.g.hatena.ne.jp/xyn9/20130818/isbn4166608713p172
-* "羽鳥剛史, 小松佳弘, 藤井聡: 大衆性尺度の構成―Ortega"大衆の反逆"に基づく大衆の心的構造分析―, 心理学研究, Vol. 79, No. 5, pp. 423-431. 2008.":https://www.jstage.jst.go.jp/article/jjpsy/79/5/79_5_423/_article/-char/ja/
+* "羽鳥剛史, 小松佳弘, 藤井聡: 大衆性尺度の構成―Ortega&quot;大衆の反逆&quot;に基づく大衆の心的構造分析―, 心理学研究, Vol. 79, No. 5, pp. 423-431. 2008.":https://www.jstage.jst.go.jp/article/jjpsy/79/5/79_5_423/_article/-char/ja/
 
 h3. ニコニコ動画
 * "【西部邁】総選挙で問われるべきものは？【2/2】2012.11.23":http://www.nicozon.net/msg/sm19424640 ("@2012-11-28 07:50:15":http://megalodon.jp/2012-1128-0750-15/www.nicozon.net/msg/sm19424640 )
