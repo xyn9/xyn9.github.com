@@ -5,7 +5,8 @@ category: note
 title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
 tags: ["wiki", "#25499949858"]
-mdescription: “関連・その他”の項目にリンク追加
+date: 2013-11-16 10:04:13
+mdescription: “関連・その他”の項目に槇文彦氏による911ビル完工ニュース動画コメントへのリンク追加
 ---
 
 
@@ -118,6 +119,7 @@ h3. ニコニコ動画
 * "売国奴の「はだしのゲン」作者・中沢啓治氏が死去":http://www.nicozon.net/msg/sm19667587 ("@2012-12-25 16:19:53":http://megalodon.jp/2012-1225-1619-53/www.nicozon.net/msg/sm19667587 )
 * "新党ブーム―政治屋たちの右往左往ぶり":http://www.nicozon.net/msg/sm10830050 ("@2013-02-24 03:23:34":http://megalodon.jp/2013-0224-0323-34/www.nicozon.net/msg/sm10830050 )
 * "プーチン大統領　ＴＢＳにキレる":http://www.nicozon.net/msg/sm20734556 ("@2013-04-30 06:02:56":http://megalodon.jp/2013-0430-0602-56/www.nicozon.net/msg/sm20734556 )
+* "テロ跡地にビル完成日本人建築家「幸せ」":http://www.nicozon.net/msg/sm22254180 ("@2013-11-16 10:04:13":http://megalodon.jp/2013-1116-1004-13/www.nicozon.net/msg/sm22254180 )
 
 h3. YouTube
 * "第5回 中国人の歴史観 Part2 : コメント":http://www.youtube.com/all_comments?threaded=1&v=3Ps-EX0-RmI ("@2012-10-28 04:39:51":http://megalodon.jp/2012-1028-0439-51/www.youtube.com/all_comments?threaded=1&v=3Ps-EX0-RmI )
@@ -157,6 +159,7 @@ h2. %(title)履歴%
 # “第2次安倍政権”の項目に柴山桂太准教授＠おはよう寺ちゃん動画コメントへのリンク＋放送時TLのtogetterまとめ追加
 # “第2次安倍政権”の項目に小林よしのり＠ズームそこまで言うか！動画コメントへのリンク＋放送時TLのtogetterまとめ追加
 # “関連・その他”の項目に関連リンク追加
+# “関連・その他”の項目に槇文彦氏による911ビル完工ニュース動画コメントへのリンク追加
 
 
 
