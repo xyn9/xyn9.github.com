@@ -5,8 +5,8 @@ category: note
 title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
 tags: ["wiki", "#25499949858"]
-date: 2014-01-16 00:47:05
-mdescription: “関連・その他”の項目に漁船・自衛隊艦衝突ニュース動画コメントへのリンク追加
+date: 2014-01-21 01:17:43
+mdescription: “日米／沖縄／原発”の項目に施光恒准教授＠おはよう寺ちゃん動画コメントへのリンク＋放送時TLのtogetterまとめ追加
 ---
 
 
@@ -73,6 +73,10 @@ h3. ニコニコ動画
 * "沖縄の米兵による集団強姦事件について。- 2012.10.17":http://www.nicozon.net/msg/sm19143469 ("@2012-11-19 07:51:06":http://megalodon.jp/2012-1119-0751-06/www.nicozon.net/msg/sm19143469 )
 * "2012.12.15　山本太郎　東京8区出馬　最終演説ラスト５分":http://www.nicozon.net/msg/sm19592187 ("@2012-12-18 00:54:36":http://megalodon.jp/2012-1218-0054-36/www.nicozon.net/msg/sm19592187 )
 * "「トモダチ作戦」で被ばく、巨額の賠償請求　東電に":http://www.nicozon.net/msg/sm19691725 ("@2012-12-28 16:12:45":http://megalodon.jp/2012-1228-1612-45/www.nicozon.net/msg/sm19691725 )
+* "【施光恒】おはよう寺ちゃん 活動中【月曜】2014/01/20":http://www.nicozon.net/msg/sm22708797 ("@2014-01-21 00:33:28":http://megalodon.jp/2014-0121-0033-28/www.nicozon.net/msg/sm22708797 )
+** ユーザーコメントより
+*** "5WZW85MowsOAykR2xCieilrKYtY":http://www.nicozon.net/msg/sm22708797/5WZW85MowsOAykR2xCieilrKYtY ("@2014-01-21 01:17:43":http://megalodon.jp/2014-0121-0117-43/www.nicozon.net/msg/sm22708797/5WZW85MowsOAykR2xCieilrKYtY )
+** "1月20日放送 おはよう寺ちゃん活動中 - Togetter":http://togetter.com/li/618787
 
 
 
@@ -162,6 +166,7 @@ h2. %(title)履歴%
 # “関連・その他”の項目に関連リンク追加
 # “関連・その他”の項目に槇文彦氏による911ビル完工ニュース動画コメントへのリンク追加
 # “関連・その他”の項目に漁船・自衛隊艦衝突ニュース動画コメントへのリンク追加
+# “日米／沖縄／原発”の項目に施光恒准教授＠おはよう寺ちゃん動画コメントへのリンク＋放送時TLのtogetterまとめ追加
 
 
 
