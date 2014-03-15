@@ -5,8 +5,8 @@ category: note
 title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
 tags: ["wiki", "#25499949858"]
-date: 2014-01-21 01:17:43
-mdescription: “日米／沖縄／原発”の項目に施光恒准教授＠おはよう寺ちゃん動画コメントへのリンク＋放送時TLのtogetterまとめ追加
+date: 2014-03-16 06:04:11
+mdescription: “日米／沖縄／原発”の項目に田母神俊雄氏動画コメントへのリンク追加
 ---
 
 
@@ -77,6 +77,7 @@ h3. ニコニコ動画
 ** ユーザーコメントより
 *** "5WZW85MowsOAykR2xCieilrKYtY":http://www.nicozon.net/msg/sm22708797/5WZW85MowsOAykR2xCieilrKYtY ("@2014-01-21 01:17:43":http://megalodon.jp/2014-0121-0117-43/www.nicozon.net/msg/sm22708797/5WZW85MowsOAykR2xCieilrKYtY )
 ** "1月20日放送 おはよう寺ちゃん活動中 - Togetter":http://togetter.com/li/618787
+* "「放射線は体にいい！」 「放射線は累積しない！」":http://www.nicozon.net/msg/ ("@2014-03-16 06:04:11":http://megalodon.jp/2014-0316-0604-11/www.nicozon.net/msg/sm23101203 )
 
 
 
@@ -167,6 +168,7 @@ h2. %(title)履歴%
 # “関連・その他”の項目に槇文彦氏による911ビル完工ニュース動画コメントへのリンク追加
 # “関連・その他”の項目に漁船・自衛隊艦衝突ニュース動画コメントへのリンク追加
 # “日米／沖縄／原発”の項目に施光恒准教授＠おはよう寺ちゃん動画コメントへのリンク＋放送時TLのtogetterまとめ追加
+# “日米／沖縄／原発”の項目に田母神俊雄氏動画コメントへのリンク追加
 
 
 

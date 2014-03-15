@@ -1,0 +1,15 @@
+---
+category: note 
+date: 2014-03-16 06:04:11 
+description: http://xyn9.tumblr.com/post/25499949858 
+group: note 
+layout: nil
+link: note/tumblr.25499949858.html
+mdate: 2014-03-16 06:04:11 
+mdescription: “日米／沖縄／原発”の項目に田母神俊雄氏動画コメントへのリンク追加 
+tags: ["wiki", "#25499949858"] 
+title: メモ片#25499949858 
+---
+ 
+{{ page.mdescription }}
+ 
