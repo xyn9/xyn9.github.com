@@ -1,0 +1,15 @@
+---
+category: note 
+date: 2014-04-04 19:52:13 
+description: http://xyn9.tumblr.com/post/25499949858 
+group: note 
+layout: nil
+link: note/tumblr.25499949858.html
+mdate: 2014-04-04 19:52:13 
+mdescription: “関連・その他”の項目に被爆者団体解散ニュース動画コメントへのリンク追加 
+tags: ["wiki", "#25499949858"] 
+title: メモ片#25499949858 
+---
+ 
+{{ page.mdescription }}
+ 

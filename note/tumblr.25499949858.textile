@@ -5,8 +5,8 @@ category: note
 title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
 tags: ["wiki", "#25499949858"]
-date: 2014-03-26 03:26:09
-mdescription: “第2次安倍政権”の項目に宮崎哲弥＠ズームそこまで言うか！動画コメントへのリンク追加
+date: 2014-04-04 19:52:13
+mdescription: “関連・その他”の項目に被爆者団体解散ニュース動画コメントへのリンク追加
 ---
 
 
@@ -129,6 +129,7 @@ h3. ニコニコ動画
 * "プーチン大統領　ＴＢＳにキレる":http://www.nicozon.net/msg/sm20734556 ("@2013-04-30 06:02:56":http://megalodon.jp/2013-0430-0602-56/www.nicozon.net/msg/sm20734556 )
 * "テロ跡地にビル完成日本人建築家「幸せ」":http://www.nicozon.net/msg/sm22254180 ("@2013-11-16 10:04:13":http://megalodon.jp/2013-1116-1004-13/www.nicozon.net/msg/sm22254180 )
 * "「01.15 別寅Thunder」":http://www.nicozon.net/msg/sm22676668 ("@2014-01-16 00:47:05":http://megalodon.jp/2014-0116-0047-05/www.nicozon.net/msg/sm22676668 )
+* "被爆者団体 ２年余で３６団体解散":http://www.nicozon.net/msg/sm23250410 ("@2014-04-04 19:52:13":http://megalodon.jp/2014-0404-1952-13/www.nicozon.net/msg/sm23250410 )
 
 h3. YouTube
 * "第5回 中国人の歴史観 Part2 : コメント":http://www.youtube.com/all_comments?threaded=1&v=3Ps-EX0-RmI ("@2012-10-28 04:39:51":http://megalodon.jp/2012-1028-0439-51/www.youtube.com/all_comments?threaded=1&v=3Ps-EX0-RmI )
@@ -173,6 +174,7 @@ h2. %(title)履歴%
 # “日米／沖縄／原発”の項目に施光恒准教授＠おはよう寺ちゃん動画コメントへのリンク＋放送時TLのtogetterまとめ追加
 # “日米／沖縄／原発”の項目に田母神俊雄氏動画コメントへのリンク追加
 # “第2次安倍政権”の項目に宮崎哲弥＠ズームそこまで言うか！動画コメントへのリンク追加
+# “関連・その他”の項目に被爆者団体解散ニュース動画コメントへのリンク追加
 
 
 
