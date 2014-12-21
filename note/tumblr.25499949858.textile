@@ -5,8 +5,8 @@ category: note
 title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
 tags: ["wiki", "#25499949858"]
-date: 2014-12-21 20:01:24
-mdescription: “日米／沖縄／原発”の項にch桜討論番組ニコ動コメントへのリンク追加
+date: 2014-12-22 08:47:00
+mdescription: “関連・その他”の項目に関連リンク追加
 ---
 
 
@@ -122,6 +122,8 @@ h2. %(title)関連・その他%
 * "村野瀬玲奈の秘書課広報室 | 東大話法とはネトウヨコメントである":http://muranoserena.blog91.fc2.com/blog-entry-3311.html  / "何も言えねえ#25511948078":http://xyn9-should-not-have-to-say.tumblr.com/post/25511948078
 * "日本破滅論, pp.174-5":http://book.g.hatena.ne.jp/xyn9/20120912/1347452892 / "pp.172-3":http://book.g.hatena.ne.jp/xyn9/20130818/isbn4166608713p172
 * "羽鳥剛史, 小松佳弘, 藤井聡: 大衆性尺度の構成―Ortega&quot;大衆の反逆&quot;に基づく大衆の心的構造分析―, 心理学研究, Vol. 79, No. 5, pp. 423-431. 2008.":https://www.jstage.jst.go.jp/article/jjpsy/79/5/79_5_423/_article/-char/ja/
+* "魔女狩りの恐怖　セイラム村の魔女裁判｜幻解！超常ファイル | テレビのまとめ":http://tvmatome.net/archives/488 ("キャッシュ":http://megalodon.jp/2014-0907-1948-20/tvmatome.net/archives/488 ) / "Twitter#508575636563058688":http://twitter.com/xyn9/status/508575636563058688
+* "“ギャンブル依存症” - NHK　クローズアップ現代":http://www.nhk.or.jp/gendai/kiroku/etail02_3582_1.html ("キャッシュ":http://megalodon.jp/2014-1216-0624-35/www.nhk.or.jp/gendai/kiroku/detail02_3582_1.html ) / "Twitter#534726635686072320":http://twitter.com/xyn9/status/534726635686072320
 
 h3. ニコニコ動画
 * "【西部邁】総選挙で問われるべきものは？【2/2】2012.11.23":http://www.nicozon.net/msg/sm19424640 ("@2012-11-28 07:50:15":http://megalodon.jp/2012-1128-0750-15/www.nicozon.net/msg/sm19424640 )
@@ -177,6 +179,7 @@ h2. %(title)履歴%
 # “第2次安倍政権”の項目に宮崎哲弥＠ズームそこまで言うか！動画コメントへのリンク追加
 # “関連・その他”の項目に被爆者団体解散ニュース動画コメントへのリンク追加
 # “日米／沖縄／原発”の項にch桜討論番組ニコ動コメントへのリンク追加
+# “関連・その他”の項目に関連リンク追加
 
 
 
