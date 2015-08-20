@@ -6,7 +6,7 @@ setlocal enabledelayedexpansion
 : ------------------------------------------------------------
 :
 set _%~n0_OUTDIR=_posts
-set _%~n0_NKF=\bin\util\nkf\nkf.exe
+set _%~n0_NKF=%SystemDrive%\bin\util\nkf\nkf.exe
 :
 :
 : ------------------------------------------------------------
@@ -16,7 +16,7 @@ set _%~n0_SRC=%~f1
 if "!_%~n0_SRC!" == "" goto end
 :
 set _%~n0_H-=0
-for /F "usebackq tokens=1,* delims=: " %%I in (`!_%~n0_NKF! --windows^<%~s1`) do if "!_%~n0_H-!%%I"=="0---" ( set _%~n0_H-=1 ) else if "%%I"=="---" ( goto break#1 ) else ( set _%~n0_H#%%I=%%J )
+for /F "usebackq tokens=1,* delims=^:^ " %%I in (`!_%~n0_NKF! --windows^<%~s1`) do if "!_%~n0_H-!%%I"=="0---" ( set _%~n0_H-=1 ) else if "%%I"=="---" ( goto break#1 ) else ( set _%~n0_H#%%I=%%J)
 :break#1
 :
 set _%~n0_H#link=%~pn1.html
