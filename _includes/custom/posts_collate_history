@@ -1,0 +1,30 @@
+{% comment %}<!--
+Collate_posts helper. Collated posts by year and month.
+Usage:
+  1) assign the 'posts_collate' variable to a valid array of posts.
+  2) include JB/posts_collate
+  example:
+    {% assign posts_collate = site.posts %}
+    {% include JB/posts_collate %}
+
+  Ordering:
+    Posts are displayed in reverse chronological order.
+    For normal chronological order:
+      1) Change the for loop to this:
+        => 'for post in site.posts reversed'
+      2) Next make sure to change 'post.previous.date' to:
+        => 'post.next.date'
+
+-->{% endcomment %}
+
+<dl compact>
+{% for post in posts_collate %}
+  {% if post.group == "history" and post.link == posts_collate_filter %}
+    <dt><span class="timestamp">{{ post.date | date: site.theme.date_format }}</span> <a href="{{ post.link }}">{% if post.title %}{{ post.title }}{% else %}{{ post.link }}{% endif %}</a></dt>
+    {% if post.mdescription %}<dd>{{ post.mdescription }}</dd>{% endif %}
+  {% endif %}
+{% endfor %}
+</dl>
+{% assign posts_collate = nil %}
+{% assign posts_collate_filter = nil %}
+{% assign group = nil %}

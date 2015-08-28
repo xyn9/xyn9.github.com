@@ -9,6 +9,7 @@ mtitle:
 mdescription: 作成
 mdate: 2015-08-28 14:07
 ---
+{% include JB/setup %}
 
 
 
@@ -904,6 +905,15 @@ mdate: 2015-08-28 14:07
 	（昭和二十一年十一月三日憲法）
 	<a href="http://law.e-gov.go.jp/htmldata/S21/S21KE000.html">http://law.e-gov.go.jp/htmldata/S21/S21KE000.html</a>
 </cite></pre>
+
+
+
+
+
+<h2>履歴</h2>
+{% assign posts_collate = site.posts %}
+{% assign posts_collate_filter = "/note/kenp.html" %}
+{% include custom/posts_collate_history %}
 
 
 
