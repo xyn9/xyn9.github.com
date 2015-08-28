@@ -12,7 +12,7 @@ title : RSS Feed
  <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
  <ttl>1800</ttl>
 
- {% for post in site.posts %}
+ {% for post in site.posts limit:19 %}
     {% if post.group == "history" and post.title != null %}
  <item>
    <title>{{ post.category }}: {{ post.title | xml_escape }}</title>

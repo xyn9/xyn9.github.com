@@ -2,9 +2,12 @@
 category: note 
 date: 2014-01-21 01:17:43 
 description: http://xyn9.tumblr.com/post/25499949858 
-group: note 
-layout: nil
-link: note/tumblr.25499949858.html
+group: history
+layout: redirect
+redirect:
+  url: /note/tumblr.25499949858.html
+  delay: 0
+link: /note/tumblr.25499949858.html
 mdate: 2014-01-21 01:17:43 
 mdescription: “日米／沖縄／原発”の項目に施光恒准教授＠おはよう寺ちゃん動画コメントへのリンク＋放送時TLのtogetterまとめ追加 
 tags: ["wiki", "#25499949858"] 
