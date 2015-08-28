@@ -2,9 +2,12 @@
 category: note 
 date: 2012-12-28 16:12 
 description: http://xyn9.tumblr.com/post/25499949858 
-group: note 
-layout: nil
-link: note/tumblr.25499949858.html
+group: history
+layout: redirect
+redirect:
+  url: /note/tumblr.25499949858.html
+  delay: 0
+link: /note/tumblr.25499949858.html
 mdate: 2012-12-28 16:12 
 mdescription: “日米／沖縄／原発”の項に「トモダチ作戦」東電訴訟ニュースニコ動コメントへのリンク追加 
 tags: ["wiki", "#25499949858"] 

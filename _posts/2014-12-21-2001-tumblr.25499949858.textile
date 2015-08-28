@@ -2,9 +2,12 @@
 category: note 
 date: 2014-12-21 20:01:24 
 description: http://xyn9.tumblr.com/post/25499949858 
-group: note 
-layout: nil
-link: note/tumblr.25499949858.html
+group: history
+layout: redirect
+redirect:
+  url: /note/tumblr.25499949858.html
+  delay: 0
+link: /note/tumblr.25499949858.html
 mdate: 2014-12-21 20:01:24 
 mdescription: “日米／沖縄／原発”の項にch桜討論番組ニコ動コメントへのリンク追加 
 tags: ["wiki", "#25499949858"] 
