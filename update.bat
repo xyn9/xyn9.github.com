@@ -36,7 +36,7 @@ rem set _%~n0_H#mtitle=
 set _%~n0_H#description=!_%~n0_H#mdescription!
 rem set _%~n0_H#mdescription=
 :
-set _%~n0_H#link=%~pn1.html
+set _%~n0_H#link=%~pn1
 set _%~n0_H#link=!_%~n0_H#link:%~p0=^\!
 set _%~n0_H#link=!_%~n0_H#link:^\=^/!
 rem set _%~n0_H#link=!_%~n0_H#link!^#!_%~n0_DATE!
