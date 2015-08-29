@@ -17,13 +17,10 @@ Usage:
 
 -->{% endcomment %}
 
-{% assign posts_collate = site.posts %}
-{% capture posts_collate_filter %}{{ page.url | remove: site.production_url }}{% endcapture %}
 <dl compact>
-{% for post in posts_collate %}{% if post.group == "history" and post.target == posts_collate_filter %}
+{% for post in posts_collate %}{% if post.group == "history" and post.target == page.url %}
   <dt><span class="timestamp">{{ post.date | date: site.theme.date_format }}</span> <a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.mtitle }}</a></dt>
 {% if post.mdescription %}    <dd>{{ post.mdescription }}</dd>{% endif %}
 {% endif %}{% endfor %}
 </dl>
 {% assign posts_collate = nil %}
-{% assign posts_collate_filter = nil %}
