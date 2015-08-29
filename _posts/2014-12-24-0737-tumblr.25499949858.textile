@@ -1,0 +1,16 @@
+---
+category: note
+date: 2014-12-24 07:37:00
+description: http://xyn9.tumblr.com/post/25499949858
+group: history
+link: /note/tumblr.25499949858.html#2014-12-24-0737
+style: wiki
+tags: ["wiki", "#25499949858"]
+target: /note/tumblr.25499949858.html
+title: メモ片#25499949858
+mtitle: “関連・その他”の項目にリンク追加
+layout: redirect
+redirect:
+  url:  /note/tumblr.25499949858.html#2014-12-24-0737
+  delay: 0
+---

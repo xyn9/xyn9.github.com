@@ -15,17 +15,15 @@ title : Atom Feed
    <email>{{ site.author.email }}</email>
  </author>
 
- {% for post in site.posts limit:19 %}
-    {% if post.group == "history" and post.title != null %}
+ {% for post in site.posts limit:19 %}{% if post.group == "history" and post.title != null %}
  <entry>
-   <title>{{ post.category }}: {{ post.title | xml_escape }}</title>
+   <title>{{ post.category }}: {{ post.title | xml_escape }}{% if post.mtitle %} - {{ post.mtitle | xml_escape }}{% endif %}</title>
    <link href="{{ site.production_url }}{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}" />
-   <description>{% if post.mdescription %}{{ post.mdescription | strip_html | xml_escape }}{% else %}{{ post.content | strip_html | xml_escape }}{% endif %}</description>
+   <description>{% if post.mdescription %}{{ post.mdescription | xml_escape }}{% else %}{{ post.content | strip_html | xml_escape }}{% endif %}</description>
    <content type="html">{{ post.content | xml_escape }}</content>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>{{ post.id }}@{{ post.date | date:"%c" }}</id>
  </entry>
-    {% endif %}
- {% endfor %}
+ {% endif %}{% endfor %}
  
 </feed>

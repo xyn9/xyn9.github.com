@@ -1,18 +1,15 @@
 ---
-category: note 
-date: 2013-08-18 15:36:23 
-description: http://xyn9.tumblr.com/post/25499949858 
 group: history
+category: note
+date: 2013-08-18 15:36:23
+link: /note/tumblr.25499949858.html#2013-08-18-1536
+style: wiki
+tags: ["wiki", "#25499949858"]
+target: /note/tumblr.25499949858.html
+title: メモ片#25499949858
+mtitle: “第2次安倍政権”の項目に小林よしのり＠ズームそこまで言うか！動画コメントへのリンク＋放送時TLのtogetterまとめ追加
 layout: redirect
 redirect:
-  url: /note/tumblr.25499949858.html
+  url:  /note/tumblr.25499949858.html#2013-08-18-1536
   delay: 0
-link: /note/tumblr.25499949858.html
-mdate: 2013-08-18 15:36:23 
-mdescription: “第2次安倍政権”の項目に小林よしのり＠ズームそこまで言うか！動画コメントへのリンク＋放送時TLのtogetterまとめ追加 
-tags: ["wiki", "#25499949858"] 
-title: メモ片#25499949858 
 ---
- 
-{{ page.mdescription }}
- 

@@ -1,0 +1,16 @@
+---
+category: note
+date: 2012-11-05 07:03:49
+description: http://xyn9.tumblr.com/post/25499949858
+group: history
+link: /note/tumblr.25499949858.html#2012-11-05-0703
+style: wiki
+tags: ["wiki", "#25499949858"]
+target: /note/tumblr.25499949858.html
+title: メモ片#25499949858
+mtitle: 日米／沖縄／原発の項にニコニコ動画コメントへのリンク追加
+layout: redirect
+redirect:
+  url:  /note/tumblr.25499949858.html#2012-11-05-0703
+  delay: 0
+---

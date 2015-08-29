@@ -1,0 +1,16 @@
+---
+category: note
+date: 2012-09-18 17:11:02
+description: http://xyn9.tumblr.com/post/25499949858
+group: history
+link: /note/tumblr.25499949858.html#2012-09-18-1711
+style: wiki
+tags: ["wiki", "#25499949858"]
+target: /note/tumblr.25499949858.html
+title: メモ片#25499949858
+mtitle: その他の項に「日本破滅論」引用文へのリンク追加
+layout: redirect
+redirect:
+  url:  /note/tumblr.25499949858.html#2012-09-18-1711
+  delay: 0
+---

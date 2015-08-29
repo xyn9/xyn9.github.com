@@ -1,0 +1,15 @@
+---
+group: history
+category: note
+date: 2015-03-17 00:50
+link: /note/tumblr.25499949858.html#2015-03-17-0050
+style: wiki
+tags: ["wiki", "#25499949858"]
+target: /note/tumblr.25499949858.html
+title: メモ片#25499949858
+mtitle: “第2次安倍政権”の項目にTogetterまとめへのリンク追加
+layout: redirect
+redirect:
+  url: /note/tumblr.25499949858.html#2015-03-17-0050
+  delay: 0
+---

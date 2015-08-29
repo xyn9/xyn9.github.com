@@ -1,0 +1,16 @@
+---
+category: note
+date: 2012-06-20 11:55:00
+description: http://xyn9.tumblr.com/post/25499949858
+group: history
+link: /note/tumblr.25499949858.html#2012-06-20-1155
+style: wiki
+tags: ["wiki", "#25499949858"]
+target: /note/tumblr.25499949858.html
+title: メモ片#25499949858
+mtitle: 徐々に追記していきたい
+layout: redirect
+redirect:
+  url:  /note/tumblr.25499949858.html#2012-06-20-1155
+  delay: 0
+---

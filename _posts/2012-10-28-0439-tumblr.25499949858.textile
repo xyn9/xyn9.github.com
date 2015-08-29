@@ -1,0 +1,16 @@
+---
+category: note
+date: 2012-10-28 04:39:51
+description: http://xyn9.tumblr.com/post/25499949858
+group: history
+link: /note/tumblr.25499949858.html#2012-10-28-0439
+style: wiki
+tags: ["wiki", "#25499949858"]
+target: /note/tumblr.25499949858.html
+title: メモ片#25499949858
+mtitle: その他の項にYouTubeコメントスレッドへのリンク追加
+layout: redirect
+redirect:
+  url:  /note/tumblr.25499949858.html#2012-10-28-0439
+  delay: 0
+---

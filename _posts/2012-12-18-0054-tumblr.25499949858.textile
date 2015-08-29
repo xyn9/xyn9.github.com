@@ -1,18 +1,15 @@
 ---
-category: note 
-date: 2012-12-18 00:54 
-description: http://xyn9.tumblr.com/post/25499949858 
 group: history
+category: note
+date: 2012-12-18 00:54
+link: /note/tumblr.25499949858.html#2012-12-18-0054
+style: wiki
+tags: ["wiki", "#25499949858"]
+target: /note/tumblr.25499949858.html
+title: メモ片#25499949858
+mtitle: “日米／沖縄／原発”に山本太郎氏衆院選演説ニコ動コメントへのリンク追加
 layout: redirect
 redirect:
-  url: /note/tumblr.25499949858.html
+  url:  /note/tumblr.25499949858.html#2012-12-18-0054
   delay: 0
-link: /note/tumblr.25499949858.html
-mdate: 2012-12-18 00:54 
-mdescription: “日米／沖縄／原発”に山本太郎氏衆院選演説ニコ動コメントへのリンク追加 
-tags: ["wiki", "#25499949858"] 
-title: メモ片#25499949858 
 ---
- 
-{{ page.mdescription }}
- 

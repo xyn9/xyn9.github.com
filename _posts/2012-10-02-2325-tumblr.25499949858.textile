@@ -1,0 +1,16 @@
+---
+category: note
+date: 2012-10-02 23:25:55
+description: http://xyn9.tumblr.com/post/25499949858
+group: history
+link: /note/tumblr.25499949858.html#2012-10-02-2325
+style: wiki
+tags: ["wiki", "#25499949858"]
+target: /note/tumblr.25499949858.html
+title: メモ片#25499949858
+mtitle: 沖縄・日米地位協定の項に1件追加
+layout: redirect
+redirect:
+  url:  /note/tumblr.25499949858.html#2012-10-02-2325
+  delay: 0
+---
