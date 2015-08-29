@@ -1,0 +1,15 @@
+---
+group: history
+category: note
+date: 2015-03-29 00:01:47
+link: /note/tumblr.25499949858.html#2015-03-29-0001
+style: wiki
+tags: ["wiki", "#25499949858"]
+target: /note/tumblr.25499949858.html
+title: メモ片#25499949858
+mtitle: “日米／沖縄／原発”の項目に米軍辺野古基地建設工事に関するニュース・バラエティ番組動画コメントへのリンク追加
+layout: redirect
+redirect:
+  url: /note/tumblr.25499949858.html#2015-03-29-0001
+  delay: 0
+---

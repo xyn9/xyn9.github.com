@@ -1,18 +1,15 @@
 ---
-category: note 
-date: 2013-11-16 10:04:13 
-description: http://xyn9.tumblr.com/post/25499949858 
 group: history
+category: note
+date: 2013-11-16 10:04:13
+link: /note/tumblr.25499949858.html#2013-11-16-1004
+style: wiki
+tags: ["wiki", "#25499949858"]
+target: /note/tumblr.25499949858.html
+title: メモ片#25499949858
+mtitle: “関連・その他”の項目に槇文彦氏による911ビル完工ニュース動画コメントへのリンク追加
 layout: redirect
 redirect:
-  url: /note/tumblr.25499949858.html
+  url:  /note/tumblr.25499949858.html#2013-11-16-1004
   delay: 0
-link: /note/tumblr.25499949858.html
-mdate: 2013-11-16 10:04:13 
-mdescription: “関連・その他”の項目に槇文彦氏による911ビル完工ニュース動画コメントへのリンク追加 
-tags: ["wiki", "#25499949858"] 
-title: メモ片#25499949858 
 ---
- 
-{{ page.mdescription }}
- 

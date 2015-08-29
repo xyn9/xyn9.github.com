@@ -1,0 +1,15 @@
+---
+group: history
+category: note
+date: 2015-05-11 17:38
+link: /note/tumblr.25499949858.html#2015-05-11-1738
+style: wiki
+tags: ["wiki", "#25499949858"]
+target: /note/tumblr.25499949858.html
+title: メモ片#25499949858
+mtitle: “大阪ダブル選挙・維新の会”の項目にTogetterまとめへのリンク
+layout: redirect
+redirect:
+  url: /note/tumblr.25499949858.html#2015-05-11-1738
+  delay: 0
+---

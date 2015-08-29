@@ -1,18 +1,15 @@
 ---
-category: note 
-date: 2012-12-29 17:34 
-description: http://xyn9.tumblr.com/post/25499949858 
 group: history
+category: note
+date: 2012-12-29 17:34
+link: /note/tumblr.25499949858.html#2012-12-29-1734
+style: wiki
+tags: ["wiki", "#25499949858"]
+target: /note/tumblr.25499949858.html
+title: メモ片#25499949858
+mtitle: “関連・その他”の項に朝日安倍評コラム＠ゴールデンラジオニコ動コメントへのリンク追加
 layout: redirect
 redirect:
-  url: /note/tumblr.25499949858.html
+  url:  /note/tumblr.25499949858.html#2012-12-29-1734
   delay: 0
-link: /note/tumblr.25499949858.html
-mdate: 2012-12-29 17:34 
-mdescription: “関連・その他”の項に朝日安倍評コラム＠ゴールデンラジオニコ動コメントへのリンク追加 
-tags: ["wiki", "#25499949858"] 
-title: メモ片#25499949858 
 ---
- 
-{{ page.mdescription }}
- 

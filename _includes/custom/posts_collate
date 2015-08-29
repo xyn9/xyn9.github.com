@@ -14,41 +14,42 @@ Usage:
         => 'for post in site.posts reversed'
       2) Next make sure to change 'post.previous.date' to:
         => 'post.next.date'
-        
+
 -->{% endcomment %}
 
 {% if site.JB.posts_collate.provider == "custom" %}
-  {% for post in posts_collate  %}
+
+  {% for post in posts_collate %}
     {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
     {% capture this_month %}{{ post.date | date: "%m" }}{% endcapture %}
     {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
     {% capture next_month %}{{ post.previous.date | date: "%m" }}{% endcapture %}
-  
+
     {% if forloop.first %}
       <h2>{{this_year}}</h2>
       <h3>{{this_month}}</h3>
-      <ul>
+      <dl compact>
     {% endif %}
-  
-        <li>
-        <span>{{ post.date | date: site.theme.date_format }}</span>
-        <a href="{{ BASE_PATH }}{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a>
-        {% if post.mdescription %}<pre>{{ post.mdescription }}</pre>{% endif %}
-        </li>
-  
+
+        <dt>
+          <span>{{ post.date | date: site.theme.date_format }}</span>
+          <a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a> {% if post.mtitle %}{{ post.mtitle }}{% endif %}
+        </dt>{% if post.mdescription %}
+        <dd>{{ post.mdescription }}</dd>{% endif %}
+
     {% if forloop.last %}
-      </ul>
+      </dl>
     {% else %}
       {% if this_year != next_year %}
-        </ul>
+        </dl>
         <h2>{{next_year}}</h2>
         <h3>{{next_month}}</h3>
-        <ul>
-      {% else %}    
+        <dl>
+      {% else %}
         {% if this_month != next_month %}
-          </ul>
+          </dl>
           <h3>{{next_month}}</h3>
-          <ul>
+          <dl>
         {% endif %}
       {% endif %}
     {% endif %}

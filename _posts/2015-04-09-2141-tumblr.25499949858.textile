@@ -1,0 +1,17 @@
+---
+group: history
+category: note
+date: 2015-04-09 21:41
+description: http://xyn9.tumblr.com/post/25499949858
+mdescription: どうしても「大進山田」的なものが想起される
+link: /note/tumblr.25499949858.html#2015-04-09-2141
+style: wiki
+tags: ["wiki", "#25499949858"]
+target: /note/tumblr.25499949858.html
+title: メモ片#25499949858
+mtitle: “大阪ダブル選挙・維新の会”の項目にTogetterまとめへのリンク
+layout: redirect
+redirect:
+  url: /note/tumblr.25499949858.html#2015-04-09-2141
+  delay: 0
+---

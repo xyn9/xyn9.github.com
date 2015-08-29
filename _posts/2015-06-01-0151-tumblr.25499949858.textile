@@ -1,0 +1,15 @@
+---
+group: history
+category: note
+date: 2015-06-01 01:51:22
+link: /note/tumblr.25499949858.html#2015-06-01-0151
+style: wiki
+tags: ["wiki", "#25499949858"]
+target: /note/tumblr.25499949858.html
+title: メモ片#25499949858
+mtitle: “日米／沖縄／原発”の項目に佐藤健志氏＠おはよう寺ちゃん動画コメントへのリンク＋放送時TLのTogetterまとめ
+layout: redirect
+redirect:
+  url: /note/tumblr.25499949858.html#2015-06-01-0151
+  delay: 0
+---

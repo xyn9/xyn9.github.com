@@ -1,18 +1,15 @@
 ---
-category: note 
-date: 2014-03-16 06:04:11 
-description: http://xyn9.tumblr.com/post/25499949858 
 group: history
+category: note
+date: 2014-03-16 06:04:11
+link: /note/tumblr.25499949858.html#2014-03-16-0604
+style: wiki
+tags: ["wiki", "#25499949858"]
+target: /note/tumblr.25499949858.html
+title: メモ片#25499949858
+mtitle: “日米／沖縄／原発”の項目に田母神俊雄氏動画コメントへのリンク追加
 layout: redirect
 redirect:
-  url: /note/tumblr.25499949858.html
+  url:  /note/tumblr.25499949858.html#2014-03-16-0604
   delay: 0
-link: /note/tumblr.25499949858.html
-mdate: 2014-03-16 06:04:11 
-mdescription: “日米／沖縄／原発”の項目に田母神俊雄氏動画コメントへのリンク追加 
-tags: ["wiki", "#25499949858"] 
-title: メモ片#25499949858 
 ---
- 
-{{ page.mdescription }}
- 

@@ -1,0 +1,17 @@
+---
+group: history
+category: note
+date: 2015-04-08 17:00:09
+description: http://xyn9.tumblr.com/post/25499949858
+mdescription: 「イメージ」に関して＋「アイヌ」全体主義化問題
+link: /note/tumblr.25499949858.html#2015-04-08-1700
+style: wiki
+tags: ["wiki", "#25499949858"]
+target: /note/tumblr.25499949858.html
+title: メモ片#25499949858
+mtitle: “大阪ダブル選挙・維新の会”・“関連・その他”の項目に各々ブログ記事他へのリンク
+layout: redirect
+redirect:
+  url: /note/tumblr.25499949858.html#2015-04-08-1700
+  delay: 0
+---

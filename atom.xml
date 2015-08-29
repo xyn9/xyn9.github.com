@@ -15,8 +15,7 @@ title : Atom Feed
    <email>{{ site.author.email }}</email>
  </author>
 
- {% for post in site.posts limit:19 %}
-    {% if post.group == "history" and post.title != null %}
+ {% for post in site.posts limit:19 %}{% if post.group == "history" and post.title != null %}
  <entry>
    <title>{{ post.category }}: {{ post.title | xml_escape }}</title>
    <link href="{{ site.production_url }}{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}" />
@@ -25,7 +24,6 @@ title : Atom Feed
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>{{ post.id }}@{{ post.date | date:"%c" }}</id>
  </entry>
-    {% endif %}
- {% endfor %}
+ {% endif %}{% endfor %}
  
 </feed>

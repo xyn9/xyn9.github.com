@@ -1,0 +1,15 @@
+---
+group: history
+category: note
+date: 2015-02-17 17:11:58
+link: /note/tumblr.25499949858.html#2015-02-17-1711
+style: wiki
+tags: ["wiki", "#25499949858"]
+target: /note/tumblr.25499949858.html
+title: メモ片#25499949858
+mtitle: “大阪ダブル選挙・維新の会”の項目に藤井聡教授声明動画コメント＋大阪ト構想解説動画コメントへのリンク追加
+layout: redirect
+redirect:
+  url: /note/tumblr.25499949858.html#2015-02-17-1711
+  delay: 0
+---
