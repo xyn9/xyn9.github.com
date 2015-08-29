@@ -8,6 +8,8 @@ tags: ["憲法"]
 mtitle: 作成
 mdescription: 
 date: 2015-08-28 14:07
+gist_id: 5253b3294796cb7509cf
+gist_revision: c8321dd6b5d66be9eec0989cb67690eec9158179
 ---
 {% include JB/setup %}
 
@@ -910,7 +912,7 @@ date: 2015-08-28 14:07
 
 
 
-<h2>履歴</h2>
+<h2><span class="title">履歴</span></h2>
 {% assign posts_collate = site.posts %}
 {% include custom/posts_collate_history %}
 
@@ -918,3 +920,5 @@ date: 2015-08-28 14:07
 
 
 
+{% if page.gist_revision %}<p id="revision"><a href="http://gist.github.com/{{ page.gist_id }}/{{ page.gist_revision }}">{{ page.gist_revision }}</a></p>
+{% endif %}
