@@ -34,18 +34,18 @@ h2. %(title)大阪ダブル選挙・維新の会%
 
 - <h3>ニコニコ動画</h3>:=
 
-* "浜矩子「怖い。嫌な感じ。小泉現れた時みたい」橋下維新圧勝について":http://www.nicozon.net/msg/sm16294519 ("@2012-03-04 18:42:11":http://megalodon.jp/2012-0304-1842-11/www.nicozon.net/msg/sm16294519 )	[<a href="data/sm16294519" name="2012-03-04-1842">data</a>]
-* "12/05【ただ選挙で勝つための小泉劇場と同じだ！】西田昌司【超人大陸】":http://www.nicozon.net/msg/sm16348831 ("@2012-06-20 19:09:04":http://megalodon.jp/2012-0620-1909-04/www.nicozon.net/msg/sm16348831 )	[<a href="data/sm16348831" name="2012-06-20-1909">data</a>]
-* "9/17【超人大陸】藤井聡【維新八策を大胆採点！！】":http://www.nicozon.net/msg/sm18902820 ("@2012-09-17 19:29:57":http://megalodon.jp/2012-0917-1929-57/www.nicozon.net/msg/sm18902820 )	[<a href="data/sm18902820" name="2012-09-17-1929">data</a>]
+* "浜矩子「怖い。嫌な感じ。小泉現れた時みたい」橋下維新圧勝について":http://www.nicozon.net/msg/sm16294519 ("@2012-03-04 18:42:11":http://megalodon.jp/2012-0304-1842-11/www.nicozon.net/msg/sm16294519 )	[<a href="{{ BASE_PATH }}/data/sm16294519" name="2012-03-04-1842">data</a>]
+* "12/05【ただ選挙で勝つための小泉劇場と同じだ！】西田昌司【超人大陸】":http://www.nicozon.net/msg/sm16348831 ("@2012-06-20 19:09:04":http://megalodon.jp/2012-0620-1909-04/www.nicozon.net/msg/sm16348831 )	[<a href="{{ BASE_PATH }}/data/sm16348831" name="2012-06-20-1909">data</a>]
+* "9/17【超人大陸】藤井聡【維新八策を大胆採点！！】":http://www.nicozon.net/msg/sm18902820 ("@2012-09-17 19:29:57":http://megalodon.jp/2012-0917-1929-57/www.nicozon.net/msg/sm18902820 )	[<a href="{{ BASE_PATH }}/data/sm18902820" name="2012-09-17-1929">data</a>]
 ** ユーザーコメントより
 *** <a name="2012-09-17-1021"></a>	"IFd1fdfcxkSAPYXMiwR0zJIDeCY":http://www.nicozon.net/msg/sm18902820/IFd1fdfcxkSAPYXMiwR0zJIDeCY ("@2012-09-17 10:21:18":http://megalodon.jp/2012-0917-1021-18/www.nicozon.net/msg/sm18902820/IFd1fdfcxkSAPYXMiwR0zJIDeCY )
 *** <a name="2012-09-17-1940"></a>	"9Cla5ryBgda0yZuikW5abFKcLfc":http://www.nicozon.net/msg/sm18902820/9Cla5ryBgda0yZuikW5abFKcLfc ("@2012-09-17 19:40:57":http://megalodon.jp/2012-0917-1940-57/www.nicozon.net/msg/sm18902820/9Cla5ryBgda0yZuikW5abFKcLfc )
-* "【藤井聡】『列島強靭化論』質疑応答前半3/4":http://www.nicozon.net/msg/sm19405090 ("@2012-11-22 22:13:51":http://megalodon.jp/2012-1122-2213-51/www.nicozon.net/msg/sm19405090 )	[<a href="data/sm19405090" name="2012-11-22-2230">data</a>]
-* "【口蹄疫】東国原知事　会見でマスコミに激怒（2010/05/18）":http://www.nicozon.net/msg/sm10767857 ("@2012-12-02 21:48:25":http://megalodon.jp/2012-1202-2148-25/www.nicozon.net/msg/sm10767857 )	[<a href="data/sm10767857" name="2012-12-02-2156">data</a>]
+* "【藤井聡】『列島強靭化論』質疑応答前半3/4":http://www.nicozon.net/msg/sm19405090 ("@2012-11-22 22:13:51":http://megalodon.jp/2012-1122-2213-51/www.nicozon.net/msg/sm19405090 )	[<a href="{{ BASE_PATH }}/data/sm19405090" name="2012-11-22-2230">data</a>]
+* "【口蹄疫】東国原知事　会見でマスコミに激怒（2010/05/18）":http://www.nicozon.net/msg/sm10767857 ("@2012-12-02 21:48:25":http://megalodon.jp/2012-1202-2148-25/www.nicozon.net/msg/sm10767857 )	[<a href="{{ BASE_PATH }}/data/sm10767857" name="2012-12-02-2156">data</a>]
 ** "Twitter#14392992801":http://twitter.com/xyn9/status/14392992801
-* "【藤井聡「都構想問題」声明文】「権力による言論封殺には屈しません」":http://nicoco.net/sm25523167 ("@2015-02-17 04:57:49":http://megalodon.jp/2015-0217-0457-49/nicoco.net/sm25523167 )	[<a href="data/sm25523167" name="2015-02-17-0457">data</a>]
-** "【H27/02/16 超人大陸】藤井教授の大阪都構想を考える":http://nicoco.net/sm25590222 ("@2015-02-17 17:11:58":http://megalodon.jp/2015-0217-1711-58/nicoco.net/sm25590222 )	[<a href="data/sm25590222" name="2015-02-17-1711">data</a>]
-** "【H27/04/06 超人大陸】藤井教授の大阪都構想を考える":http://nicoco.net/sm25965489 ("@2015-04-06 16:46:57":http://megalodon.jp/2015-0406-1646-57/nicoco.net/sm25965489 )	[<a href="data/sm25965489" name="2015-04-06-1646">data</a>]
+* "【藤井聡「都構想問題」声明文】「権力による言論封殺には屈しません」":http://nicoco.net/sm25523167 ("@2015-02-17 04:57:49":http://megalodon.jp/2015-0217-0457-49/nicoco.net/sm25523167 )	[<a href="{{ BASE_PATH }}/data/sm25523167" name="2015-02-17-0457">data</a>]
+** "【H27/02/16 超人大陸】藤井教授の大阪都構想を考える":http://nicoco.net/sm25590222 ("@2015-02-17 17:11:58":http://megalodon.jp/2015-0217-1711-58/nicoco.net/sm25590222 )	[<a href="{{ BASE_PATH }}/data/sm25590222" name="2015-02-17-1711">data</a>]
+** "【H27/04/06 超人大陸】藤井教授の大阪都構想を考える":http://nicoco.net/sm25965489 ("@2015-04-06 16:46:57":http://megalodon.jp/2015-0406-1646-57/nicoco.net/sm25965489 )	[<a href="{{ BASE_PATH }}/data/sm25965489" name="2015-04-06-1646">data</a>]
 
  =:
 - <h3>Twitter</h3>:=
@@ -87,28 +87,28 @@ h2. %(title)日米／沖縄／原発%
 
 - <h3>ニコニコ動画</h3>:=
 
-* "さようなら原発10万人集会 代々木デモ潜入　7/16①":http://www.nicozon.net/msg/sm18366425 ("@2012-07-17 06:35:26":http://megalodon.jp/2012-0717-0635-26/www.nicozon.net/msg/sm18366425 )	[<a href="data/sm18366425" name="2012-07-17-0635">data</a>]
-* "ヘリ墜落から８年　大学で集会":http://www.nicozon.net/msg/sm18609718 ("@2012-08-15 01:02:42":http://megalodon.jp/2012-0815-0102-42/www.nicozon.net/msg/sm18609718 )	[<a href="data/sm18609718" name="2012-08-15-0102">data</a>]
-* "10.02 アンカー Full":http://www.nicozon.net/msg/sm19029055 ("@2012-10-02 23:25:55":http://megalodon.jp/2012-1002-2325-55/www.nicozon.net/msg/sm19029055 )	[<a href="data/sm19029055" name="2012-10-02-2325">data</a>]
-* "2012ニュースアンカー1017.avi":http://www.nicozon.net/msg/sm19144401 ("@2012-10-18 17:42:04":http://megalodon.jp/2012-1018-1742-04/www.nicozon.net/msg/sm19144401 )	[<a href="data/sm19144401" name="2012-10-18-1742">data</a>]
-* "【岩上安身】原発ゼロ閣議決定撤回の裏側.":http://www.nicozon.net/msg/sm19182958 ("@2012-10-23 02:59:29":http://megalodon.jp/2012-1023-0259-29/www.nicozon.net/msg/sm19182958 )	[<a href="data/sm19182958" name="2012-10-23-0259">data</a>]
-* "沖縄米兵による集団女性暴行致傷事件の真相":http://www.nicozon.net/msg/sm19274782 ("@2012-11-05 07:03:49":http://megalodon.jp/2012-1105-0703-49/www.nicozon.net/msg/sm19274782 )	[<a href="data/sm19274782" name="2012-11-05-0703">data</a>]
+* "さようなら原発10万人集会 代々木デモ潜入　7/16①":http://www.nicozon.net/msg/sm18366425 ("@2012-07-17 06:35:26":http://megalodon.jp/2012-0717-0635-26/www.nicozon.net/msg/sm18366425 )	[<a href="{{ BASE_PATH }}/data/sm18366425" name="2012-07-17-0635">data</a>]
+* "ヘリ墜落から８年　大学で集会":http://www.nicozon.net/msg/sm18609718 ("@2012-08-15 01:02:42":http://megalodon.jp/2012-0815-0102-42/www.nicozon.net/msg/sm18609718 )	[<a href="{{ BASE_PATH }}/data/sm18609718" name="2012-08-15-0102">data</a>]
+* "10.02 アンカー Full":http://www.nicozon.net/msg/sm19029055 ("@2012-10-02 23:25:55":http://megalodon.jp/2012-1002-2325-55/www.nicozon.net/msg/sm19029055 )	[<a href="{{ BASE_PATH }}/data/sm19029055" name="2012-10-02-2325">data</a>]
+* "2012ニュースアンカー1017.avi":http://www.nicozon.net/msg/sm19144401 ("@2012-10-18 17:42:04":http://megalodon.jp/2012-1018-1742-04/www.nicozon.net/msg/sm19144401 )	[<a href="{{ BASE_PATH }}/data/sm19144401" name="2012-10-18-1742">data</a>]
+* "【岩上安身】原発ゼロ閣議決定撤回の裏側.":http://www.nicozon.net/msg/sm19182958 ("@2012-10-23 02:59:29":http://megalodon.jp/2012-1023-0259-29/www.nicozon.net/msg/sm19182958 )	[<a href="{{ BASE_PATH }}/data/sm19182958" name="2012-10-23-0259">data</a>]
+* "沖縄米兵による集団女性暴行致傷事件の真相":http://www.nicozon.net/msg/sm19274782 ("@2012-11-05 07:03:49":http://megalodon.jp/2012-1105-0703-49/www.nicozon.net/msg/sm19274782 )	[<a href="{{ BASE_PATH }}/data/sm19274782" name="2012-11-05-0703">data</a>]
 ** ユーザーコメントより
 *** <a name="2012-11-05-0703"></a>	"4MXdb_04B9zCDUiFcgh6UrjELmU":http://www.nicozon.net/msg/sm19274782/4MXdb_04B9zCDUiFcgh6UrjELmU ("@2012-11-05 07:03:32":http://megalodon.jp/2012-1105-0703-32/www.nicozon.net/msg/sm19274782/4MXdb_04B9zCDUiFcgh6UrjELmU )
-* "沖縄の米兵による集団強姦事件について。- 2012.10.17":http://www.nicozon.net/msg/sm19143469 ("@2012-11-19 07:51:06":http://megalodon.jp/2012-1119-0751-06/www.nicozon.net/msg/sm19143469 )	[<a href="data/sm19143469" name="2012-11-19-1408">data</a>]
-* "2012.12.15　山本太郎　東京8区出馬　最終演説ラスト５分":http://www.nicozon.net/msg/sm19592187 ("@2012-12-18 00:54:36":http://megalodon.jp/2012-1218-0054-36/www.nicozon.net/msg/sm19592187 )	[<a href="data/sm19592187" name="2012-12-18-0054">data</a>]
-* "「トモダチ作戦」で被ばく、巨額の賠償請求　東電に":http://www.nicozon.net/msg/sm19691725 ("@2012-12-28 16:12:45":http://megalodon.jp/2012-1228-1612-45/www.nicozon.net/msg/sm19691725 )	[<a href="data/sm19691725" name="2012-12-28-1612">data</a>]
-* "【施光恒】おはよう寺ちゃん 活動中【月曜】2014/01/20":http://www.nicozon.net/msg/sm22708797 ("@2014-01-21 00:33:28":http://megalodon.jp/2014-0121-0033-28/www.nicozon.net/msg/sm22708797 )	[<a href="data/sm22708797" name="2014-01-21-0033">data</a>]
+* "沖縄の米兵による集団強姦事件について。- 2012.10.17":http://www.nicozon.net/msg/sm19143469 ("@2012-11-19 07:51:06":http://megalodon.jp/2012-1119-0751-06/www.nicozon.net/msg/sm19143469 )	[<a href="{{ BASE_PATH }}/data/sm19143469" name="2012-11-19-1408">data</a>]
+* "2012.12.15　山本太郎　東京8区出馬　最終演説ラスト５分":http://www.nicozon.net/msg/sm19592187 ("@2012-12-18 00:54:36":http://megalodon.jp/2012-1218-0054-36/www.nicozon.net/msg/sm19592187 )	[<a href="{{ BASE_PATH }}/data/sm19592187" name="2012-12-18-0054">data</a>]
+* "「トモダチ作戦」で被ばく、巨額の賠償請求　東電に":http://www.nicozon.net/msg/sm19691725 ("@2012-12-28 16:12:45":http://megalodon.jp/2012-1228-1612-45/www.nicozon.net/msg/sm19691725 )	[<a href="{{ BASE_PATH }}/data/sm19691725" name="2012-12-28-1612">data</a>]
+* "【施光恒】おはよう寺ちゃん 活動中【月曜】2014/01/20":http://www.nicozon.net/msg/sm22708797 ("@2014-01-21 00:33:28":http://megalodon.jp/2014-0121-0033-28/www.nicozon.net/msg/sm22708797 )	[<a href="{{ BASE_PATH }}/data/sm22708797" name="2014-01-21-0033">data</a>]
 ** ユーザーコメントより
 *** <a name="2014-01-21-0117"></a>	"5WZW85MowsOAykR2xCieilrKYtY":http://www.nicozon.net/msg/sm22708797/5WZW85MowsOAykR2xCieilrKYtY ("@2014-01-21 01:17:43":http://megalodon.jp/2014-0121-0117-43/www.nicozon.net/msg/sm22708797/5WZW85MowsOAykR2xCieilrKYtY )
 ** "1月20日放送 おはよう寺ちゃん活動中 - Togetter":http://togetter.com/li/618787
-* "「放射線は体にいい！」 「放射線は累積しない！」":http://www.nicozon.net/msg/sm23101203 ("@2014-03-16 06:04:11":http://megalodon.jp/2014-0316-0604-11/www.nicozon.net/msg/sm23101203 )	[<a href="data/sm23101203" name="2014-03-16-0604">data</a>]
-* "3/3【討論！】選挙結果とこれからの日本[桜H26/12/20]":http://nicoco.net/1419032245 ("@2014-12-21 20:01:24":http://megalodon.jp/2014-1221-2001-24/nicoco.net/1419032245 )	[<a href="data/so25157060" name="2014-12-21-2001">data</a>]
-* "沖縄基地問題のミカタ":http://nicoco.net/sm25893696 ("@2015-03-29 00:01:47":http://megalodon.jp/2015-0329-0001-47/nicoco.net/sm25893696 )	[<a href="data/sm25893696" name="2015-03-29-0001">data</a>]
-* "【西部邁ゼミナール】鳩山元首相が語る、米軍基地問題 2015.05.03":http://nicoco.net/sm26166624 ("@2015-05-03 16:09:26":http://megalodon.jp/2015-0503-1609-26/nicoco.net/sm26166624 )	[<a href="data/sm26166624" name="2015-05-03-1609">data</a>]
+* "「放射線は体にいい！」 「放射線は累積しない！」":http://www.nicozon.net/msg/sm23101203 ("@2014-03-16 06:04:11":http://megalodon.jp/2014-0316-0604-11/www.nicozon.net/msg/sm23101203 )	[<a href="{{ BASE_PATH }}/data/sm23101203" name="2014-03-16-0604">data</a>]
+* "3/3【討論！】選挙結果とこれからの日本[桜H26/12/20]":http://nicoco.net/1419032245 ("@2014-12-21 20:01:24":http://megalodon.jp/2014-1221-2001-24/nicoco.net/1419032245 )	[<a href="{{ BASE_PATH }}/data/so25157060" name="2014-12-21-2001">data</a>]
+* "沖縄基地問題のミカタ":http://nicoco.net/sm25893696 ("@2015-03-29 00:01:47":http://megalodon.jp/2015-0329-0001-47/nicoco.net/sm25893696 )	[<a href="{{ BASE_PATH }}/data/sm25893696" name="2015-03-29-0001">data</a>]
+* "【西部邁ゼミナール】鳩山元首相が語る、米軍基地問題 2015.05.03":http://nicoco.net/sm26166624 ("@2015-05-03 16:09:26":http://megalodon.jp/2015-0503-1609-26/nicoco.net/sm26166624 )	[<a href="{{ BASE_PATH }}/data/sm26166624" name="2015-05-03-1609">data</a>]
 ** ユーザーコメントより
 *** "K6VNQobsIrwnvXnrGrxx61vFzfI":http://nico.xii.jp/comment/index.php?url=sm26166624&user_id=K6VNQobsIrwnvXnrGrxx61vFzfI ("@2015-05-03 16:26:15":http://megalodon.jp/2015-0503-1626-15/nico.xii.jp/comment/index.php?url=sm26166624&user_id=K6VNQobsIrwnvXnrGrxx61vFzfI )
-* "【佐藤健志】おはよう寺ちゃん 活動中【金曜】2015/05/29":http://nicoco.net/sm26363897 ("@2015-06-01 01:51:22":http://megalodon.jp/2015-0601-0151-22/nicoco.net/sm26363897 )	[<a href="data/sm26363897" name="2015-06-01-0151">data</a>]
+* "【佐藤健志】おはよう寺ちゃん 活動中【金曜】2015/05/29":http://nicoco.net/sm26363897 ("@2015-06-01 01:51:22":http://megalodon.jp/2015-0601-0151-22/nicoco.net/sm26363897 )	[<a href="{{ BASE_PATH }}/data/sm26363897" name="2015-06-01-0151">data</a>]
 ** "5月29日放送 おはよう寺ちゃん活動中 - Togetter":http://togetter.com/li/829098
 
  =:
@@ -142,22 +142,22 @@ h2. %(title)第2次安倍政権%
 
 - <h3>ニコニコ動画</h3>:=
 
-* "安倍さんの味方はネット右翼しかいない！":http://www.nicozon.net/msg/sm19695345 ("@2012-12-29 17:34:06":http://megalodon.jp/2012-1229-1734-06/www.nicozon.net/msg/sm19695345 )	[<a href="data/sm19695345" name="2012-12-29-1734">data</a>]
+* "安倍さんの味方はネット右翼しかいない！":http://www.nicozon.net/msg/sm19695345 ("@2012-12-29 17:34:06":http://megalodon.jp/2012-1229-1734-06/www.nicozon.net/msg/sm19695345 )	[<a href="{{ BASE_PATH }}/data/sm19695345" name="2012-12-29-1734">data</a>]
 ** <a name="2012-12-30-1829"></a>	"12月28日放送 大竹まことゴールデンラジオ - Togetter":http://togetter.com/li/431175
-* "弱者を強調しすぎて違和感たっぷりな安倍政権へのナマポ削減批判":http://www.nicozon.net/msg/sm20004177 ("@2013-02-05 18:37:38":http://megalodon.jp/2013-0205-1837-38/www.nicozon.net/msg/sm20004177 )	[<a href="data/sm20004177" name="2013-02-05-1837">data</a>]
-* "【柴山桂太】おはよう寺ちゃん 活動中 2013/08/14":http://www.nicozon.net/msg/sm21588806 ("@2013-08-14 18:06:59":http://megalodon.jp/2013-0814-1806-59/www.nicozon.net/msg/sm21588806 )	[<a href="data/sm21588806" name="2013-08-14-1806">data</a>]
+* "弱者を強調しすぎて違和感たっぷりな安倍政権へのナマポ削減批判":http://www.nicozon.net/msg/sm20004177 ("@2013-02-05 18:37:38":http://megalodon.jp/2013-0205-1837-38/www.nicozon.net/msg/sm20004177 )	[<a href="{{ BASE_PATH }}/data/sm20004177" name="2013-02-05-1837">data</a>]
+* "【柴山桂太】おはよう寺ちゃん 活動中 2013/08/14":http://www.nicozon.net/msg/sm21588806 ("@2013-08-14 18:06:59":http://megalodon.jp/2013-0814-1806-59/www.nicozon.net/msg/sm21588806 )	[<a href="{{ BASE_PATH }}/data/sm21588806" name="2013-08-14-1806">data</a>]
 ** ユーザーコメントより
 *** "8wG9EHi8cOhaThzsc8u1COQ3lqA":http://www.nicozon.net/msg/sm21588806/8wG9EHi8cOhaThzsc8u1COQ3lqA ("@2013-08-14 18:06:46":http://megalodon.jp/2013-0814-1806-46/www.nicozon.net/msg/sm21588806/8wG9EHi8cOhaThzsc8u1COQ3lqA )
 ** "8月14日放送 おはよう寺ちゃん活動中 - Togetter":http://togetter.com/li/548706
-* "【小林よしのり】ズーム そこまで言うか！ H25/08/17【女系天皇への道】":http://www.nicozon.net/msg/sm21614667 ("@2013-08-18 15:36:15":http://megalodon.jp/2013-0818-1536-15/www.nicozon.net/msg/sm21614667 )	[<a href="data/sm21614667" name="2013-08-18-1536">data</a>]
+* "【小林よしのり】ズーム そこまで言うか！ H25/08/17【女系天皇への道】":http://www.nicozon.net/msg/sm21614667 ("@2013-08-18 15:36:15":http://megalodon.jp/2013-0818-1536-15/www.nicozon.net/msg/sm21614667 )	[<a href="{{ BASE_PATH }}/data/sm21614667" name="2013-08-18-1536">data</a>]
 ** ユーザーコメントより
 *** "Tgg_i-Pj6qyZtisJNsyDcNo0fJ8":http://www.nicozon.net/msg/sm21614667/Tgg_i-Pj6qyZtisJNsyDcNo0fJ8 ("@2013-08-18 15:36:23":http://megalodon.jp/2013-0818-1536-23/www.nicozon.net/msg/sm21614667/Tgg_i-Pj6qyZtisJNsyDcNo0fJ8 )
 ** "8月17日放送 ズーム そこまで言うか！ - Togetter":http://togetter.com/li/550438
-* "【宮崎哲弥】ザ･ボイス そこまで言うか！H26/03/25【日本と台湾の絆】":http://www.nicozon.net/msg/sm23175200 ("@2014-03-26 03:27:37":http://megalodon.jp/2014-0326-0327-37/www.nicozon.net/msg/sm23175200 )	[<a href="data/sm23175200" name="2014-03-26-0326">data</a>]
+* "【宮崎哲弥】ザ･ボイス そこまで言うか！H26/03/25【日本と台湾の絆】":http://www.nicozon.net/msg/sm23175200 ("@2014-03-26 03:27:37":http://megalodon.jp/2014-0326-0327-37/www.nicozon.net/msg/sm23175200 )	[<a href="{{ BASE_PATH }}/data/sm23175200" name="2014-03-26-0326">data</a>]
 ** ユーザーコメントより
 *** "2-eGNFi_omsiNJle_ie3KmVmaFQ":http://www.nicozon.net/msg/sm23175200/2-eGNFi_omsiNJle_ie3KmVmaFQ ("@2014-03-26 03:26:09":http://megalodon.jp/2014-0326-0326-09/www.nicozon.net/msg/sm23175200/2-eGNFi_omsiNJle_ie3KmVmaFQ )
-* "「イスラム国」日本人人質事件のミカタ":http://nicoco.net/sm25415259 ("@2015-01-24 23:11:03":http://megalodon.jp/2015-0124-2311-03/nicoco.net/sm25415259 )	[<a href="data/sm25415259" name="2015-01-24-2311">data</a>]
-* "【保守】　漫画家　小林よしのり　（外国特派員協会　2015年8月10日）":http://nicoco.net/sm26905791 ("@2015-08-12 07:47:45":http://megalodon.jp/2015-0812-0747-45/nicoco.net/sm26905791 )	[<a href="data/sm26905791" name="2015-08-12-0747">data</a>]
+* "「イスラム国」日本人人質事件のミカタ":http://nicoco.net/sm25415259 ("@2015-01-24 23:11:03":http://megalodon.jp/2015-0124-2311-03/nicoco.net/sm25415259 )	[<a href="{{ BASE_PATH }}/data/sm25415259" name="2015-01-24-2311">data</a>]
+* "【保守】　漫画家　小林よしのり　（外国特派員協会　2015年8月10日）":http://nicoco.net/sm26905791 ("@2015-08-12 07:47:45":http://megalodon.jp/2015-0812-0747-45/nicoco.net/sm26905791 )	[<a href="{{ BASE_PATH }}/data/sm26905791" name="2015-08-12-0747">data</a>]
 
  =:
 - <h3>YouTube</h3>:=
@@ -219,16 +219,16 @@ h2. %(title)関連・その他%
  =:
 - <h3>ニコニコ動画</h3>:=
 
-* "【税制と財政の虚と実】 講師　 藤井聡1/2":http://www.nicozon.net/msg/sm18336820 ("@2012-07-14 21:18:26":http://megalodon.jp/2012-0714-2118-26/www.nicozon.net/msg/sm18336820 )	[<a href="data/sm18336820" name="2012-07-14-2118">data</a>]
-* "夕やけ寺ちゃん活動中 京都大学教授　藤井聡さん登場！":http://www.nicozon.net/msg/sm18131019 ("@2012-06-20 18:44:00":http://megalodon.jp/2012-0620-1844-00/www.nicozon.net/msg/sm18131019 )	[<a href="data/sm18131019" name="2012-06-20-1844">data</a>]
+* "【税制と財政の虚と実】 講師　 藤井聡1/2":http://www.nicozon.net/msg/sm18336820 ("@2012-07-14 21:18:26":http://megalodon.jp/2012-0714-2118-26/www.nicozon.net/msg/sm18336820 )	[<a href="{{ BASE_PATH }}/data/sm18336820" name="2012-07-14-2118">data</a>]
+* "夕やけ寺ちゃん活動中 京都大学教授　藤井聡さん登場！":http://www.nicozon.net/msg/sm18131019 ("@2012-06-20 18:44:00":http://megalodon.jp/2012-0620-1844-00/www.nicozon.net/msg/sm18131019 )	[<a href="{{ BASE_PATH }}/data/sm18131019" name="2012-06-20-1844">data</a>]
 ** "6月19日放送 夕やけ寺ちゃん活動中 - Togetter":http://togetter.com/li/324136
-* "【西部邁】総選挙で問われるべきものは？【2/2】2012.11.23":http://www.nicozon.net/msg/sm19424640 ("@2012-11-28 07:50:15":http://megalodon.jp/2012-1128-0750-15/www.nicozon.net/msg/sm19424640 )	[<a href="data/sm19424640" name="2012-11-28-0759">data</a>]
-* "売国奴の「はだしのゲン」作者・中沢啓治氏が死去":http://www.nicozon.net/msg/sm19667587 ("@2012-12-25 16:19:53":http://megalodon.jp/2012-1225-1619-53/www.nicozon.net/msg/sm19667587 )	[<a href="data/sm19667587" name="2012-12-25-1619">data</a>]
-* "新党ブーム―政治屋たちの右往左往ぶり":http://www.nicozon.net/msg/sm10830050 ("@2013-02-24 03:23:34":http://megalodon.jp/2013-0224-0323-34/www.nicozon.net/msg/sm10830050 )	[<a href="data/sm10830050" name="2013-02-24-0323">data</a>]
-* "プーチン大統領　ＴＢＳにキレる":http://www.nicozon.net/msg/sm20734556 ("@2013-04-30 06:02:56":http://megalodon.jp/2013-0430-0602-56/www.nicozon.net/msg/sm20734556 )	[<a href="data/sm20734556" name="2013-04-30-0602">data</a>]
-* "テロ跡地にビル完成日本人建築家「幸せ」":http://www.nicozon.net/msg/sm22254180 ("@2013-11-16 10:04:13":http://megalodon.jp/2013-1116-1004-13/www.nicozon.net/msg/sm22254180 )	[<a href="data/sm22254180" name="2013-11-16-1004">data</a>]
-* "「01.15 別寅Thunder」":http://www.nicovideo.jp/watch/sm22676668 ("@2014-01-16 00:47:05":http://megalodon.jp/2014-0116-0047-05/www.nicozon.net/msg/sm22676668 )	[<a href="data/sm22676668" name="2014-01-16-0047">data</a>]
-* "被爆者団体 ２年余で３６団体解散":http://www.nicozon.net/msg/sm23250410 ("@2014-04-04 19:52:13":http://megalodon.jp/2014-0404-1952-13/www.nicozon.net/msg/sm23250410 )	[<a href="data/sm23250410" name="2014-04-04-1952">data</a>]
+* "【西部邁】総選挙で問われるべきものは？【2/2】2012.11.23":http://www.nicozon.net/msg/sm19424640 ("@2012-11-28 07:50:15":http://megalodon.jp/2012-1128-0750-15/www.nicozon.net/msg/sm19424640 )	[<a href="{{ BASE_PATH }}/data/sm19424640" name="2012-11-28-0759">data</a>]
+* "売国奴の「はだしのゲン」作者・中沢啓治氏が死去":http://www.nicozon.net/msg/sm19667587 ("@2012-12-25 16:19:53":http://megalodon.jp/2012-1225-1619-53/www.nicozon.net/msg/sm19667587 )	[<a href="{{ BASE_PATH }}/data/sm19667587" name="2012-12-25-1619">data</a>]
+* "新党ブーム―政治屋たちの右往左往ぶり":http://www.nicozon.net/msg/sm10830050 ("@2013-02-24 03:23:34":http://megalodon.jp/2013-0224-0323-34/www.nicozon.net/msg/sm10830050 )	[<a href="{{ BASE_PATH }}/data/sm10830050" name="2013-02-24-0323">data</a>]
+* "プーチン大統領　ＴＢＳにキレる":http://www.nicozon.net/msg/sm20734556 ("@2013-04-30 06:02:56":http://megalodon.jp/2013-0430-0602-56/www.nicozon.net/msg/sm20734556 )	[<a href="{{ BASE_PATH }}/data/sm20734556" name="2013-04-30-0602">data</a>]
+* "テロ跡地にビル完成日本人建築家「幸せ」":http://www.nicozon.net/msg/sm22254180 ("@2013-11-16 10:04:13":http://megalodon.jp/2013-1116-1004-13/www.nicozon.net/msg/sm22254180 )	[<a href="{{ BASE_PATH }}/data/sm22254180" name="2013-11-16-1004">data</a>]
+* "「01.15 別寅Thunder」":http://www.nicovideo.jp/watch/sm22676668 ("@2014-01-16 00:47:05":http://megalodon.jp/2014-0116-0047-05/www.nicozon.net/msg/sm22676668 )	[<a href="{{ BASE_PATH }}/data/sm22676668" name="2014-01-16-0047">data</a>]
+* "被爆者団体 ２年余で３６団体解散":http://www.nicozon.net/msg/sm23250410 ("@2014-04-04 19:52:13":http://megalodon.jp/2014-0404-1952-13/www.nicozon.net/msg/sm23250410 )	[<a href="{{ BASE_PATH }}/data/sm23250410" name="2014-04-04-1952">data</a>]
 
  =:
 - <h3>YouTube</h3>:=
