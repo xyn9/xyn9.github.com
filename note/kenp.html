@@ -59,8 +59,10 @@ gist_revision: 0961476c9cf836271c501ef58b0a54d6f862c341
 		{% endif %}
 
 		{% if item.clause != _clause %}
-			{% if _clause != null %}</li>{% endif %}
-			{% if item.clause != null %}<li>{% endif %}
+			{% if _clause != null %}
+</li>
+<li>
+			{% endif %}
 		{% endif %}
 
 		{% if item.para != null %}<p>{{ item.content }}</p>{% endif %}
