@@ -22,11 +22,10 @@ gist_revision: 885f2f291e7f6328cc4ad269729b99397256e4b0
 
 <h2>前文</h2>
 <div title="前文">
-{% assign _group = null %}
-{% for item in _kenp_list %}{% if item.group != null %}
+{% assign _group = "前文" %}
+{% for item in _kenp_list %}{% if item.group != null and item.content != null %}
 	{% if item.group != _group %}{% break %}{% endif %}
-	{% assign _group = item.group %}
-	{% if item.content != null %}<p>{{ item.content }}</p>{% endif %}
+	<p>{{ item.content }}</p>
 {% endif %}{% endfor %}
 {% assign _group = nil %}
 </div>
@@ -75,6 +74,9 @@ gist_revision: 885f2f291e7f6328cc4ad269729b99397256e4b0
 {% endif %}{% endfor %}
 {% assign _article = nil %}
 {% assign _clause = nil %}
+
+</li>
+
 </ol>
 
 {% assign _kenp_list = nil %}
