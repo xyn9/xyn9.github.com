@@ -18,18 +18,20 @@ gist_revision: d5a9ccd17ec6e83266d3c7c4cad1ba9658ed124c
 
 
 {% assign _section_list = site.data.kenp %}
+<pre>
+{{ site.data.kenp | jsonify }}
+</pre>
 
 
 <h2>前文</h2>
 <div title="前文">
 {% assign _section = null %}
-{% for item in _section_list %}
-	<p>{{ item.section }}</p>
-{% if item.section != null %}
+{% for item in _section_list %}{% if item.section != null %}
 	{% if item.section != _section %}{% break %}{% endif %}
-	{% assign _section = {{ item.section }} %}
+	{% assign _section = item.section %}
+{% endif %}
 	<p>{{ item.content }}</p>
-{% endif %}{% endfor %}
+{% endfor %}
 </div>
 
 
