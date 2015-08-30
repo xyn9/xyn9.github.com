@@ -19,10 +19,16 @@ gist_revision: 56907efb60c75e9eec9aaa92c6476b1c00fde1af
 
 {% assign _section_list = site.data.kenp %}
 
+
 <h2>前文</h2>
-<div title="前文">{% for item in _section_list %}
-	{% if item.group == "前文" %}<p>{{ item.content }}</p>{% endif %}
-{% endfor %}</div>
+<div title="前文">
+{% assign _section = null %}
+{% for item in _section_list %}{% if item.section != null %}
+	{% if _section != item.section %}{% break %}{% endif %}
+	{% assign _section = item.section %}
+	<p>{{ item.content }}</p>
+{% endif %}{% endfor %}
+</div>
 
 
 
@@ -35,7 +41,7 @@ gist_revision: 56907efb60c75e9eec9aaa92c6476b1c00fde1af
 {% assign _section = null %}
 {% assign _article = null %}
 {% assign _clause = "1" %}
-{% for item in _section_list %}{% if item.group == "条文" %}
+{% for item in _section_list %}{% if item.section != null %}
 
 	{% if item.article == null %}
 		{% assign _section = item.content %}
