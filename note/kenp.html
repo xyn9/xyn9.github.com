@@ -48,8 +48,13 @@ gist_revision: 0961476c9cf836271c501ef58b0a54d6f862c341
 
 	{% else %}
 		{% if item.article != _article %}
-			{% if _article != null %}</ol></li>{% endif %}
-			{% if item.article != null %}<li title="{{ item.section }}"><ol>
+			{% if _article != null %}
+</li>
+</ol></li>
+			{% endif %}
+			{% if item.article != null %}
+<li title="{{ item.section }}"><ol>
+<li>
 			{% endif %}
 		{% endif %}
 
