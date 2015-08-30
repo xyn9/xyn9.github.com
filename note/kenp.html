@@ -20,12 +20,12 @@ gist_revision: 885f2f291e7f6328cc4ad269729b99397256e4b0
 {% assign _kenp_list = site.data.kenp %}
 
 
-<h2>前文</h2>
-<div title="前文">
 {% assign _group = "前文" %}
+<h2>{{ _group }}</h2>
+<div title="前文">
 {% for item in _kenp_list %}{% if item.group != null and item.content != null %}
-	{% if item.group != _group %}{% break %}{% endif %}
-	<p>{{ item.content }}</p>
+{% if item.group != _group %}{% break %}{% endif %}
+<p>{{ item.content }}</p>
 {% endif %}{% endfor %}
 {% assign _group = nil %}
 </div>
@@ -34,27 +34,33 @@ gist_revision: 885f2f291e7f6328cc4ad269729b99397256e4b0
 
 
 
-<h2>条文</h2>
-<ol title="条文">
+{% assign _group = "条文" %}
+<h2>{{ _group }}</h2>
+<ol title="{{ _group }}">
 {% assign _article = null %}
 {% assign _clause = null %}
-{% for item in _kenp_list %}{% if item.section != null and item.content != null %}
+{% for item in _kenp_list %}{% if item.group == _group and item.content != null %}
 
-	{% if item.article == null and item.clause == null %}
-		{% if _article != null %}</ol></li>{% endif %}
+{% if item.article == null and item.clause == null %}
+{% if _article != null %}</ol></li>{% endif %}
 
 <h3>{{ item.content }}</h3>
 
-	{% else %}
-		{% if item.article != _article %}{% if _article != null %}</ol></li>{% endif %}<li title="{{ item.section }}"><ol>{% assign _clause = null %}{% endif %}
-		{% if item.clause != _clause %}{% if _clause != null %}</li>{% endif %}<li>{% endif %}
-		{% if item.para != null %}<p>{{ item.content }}</p>{% endif %}
-	{% endif %}
-
-	{% assign _article = item.article %}
-	{% assign _clause = item.clause %}
-
+{% else %}
+{% if item.article != _article %}
+{% if _article != null %}</ol></li>{% endif %}
+<li title="{{ item.section }}"><ol>{% assign _clause = null %}
+{% endif %}
+{% if item.clause != _clause %}
+{% if _clause != null %}</li>{% endif %}
+<li>
+{% endif %}
+{% if item.para != null %}<p>{{ item.content }}</p>{% endif %}
+{% endif %}
+{% assign _article = item.article %}
+{% assign _clause = item.clause %}
 {% endif %}{% endfor %}
+
 {% assign _article = nil %}
 {% assign _clause = nil %}
 
@@ -62,6 +68,8 @@ gist_revision: 885f2f291e7f6328cc4ad269729b99397256e4b0
 </li>
 
 </ol>
+{% assign _group = nil %}
+
 
 {% assign _kenp_list = nil %}
 
