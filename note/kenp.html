@@ -46,22 +46,16 @@ gist_revision: 885f2f291e7f6328cc4ad269729b99397256e4b0
 
 
 	{% else %}
+
 		{% if item.article != _article %}
-			{% if _article != null %}
-</li>
-</ol></li>
-			{% endif %}
-			{% if item.article != null %}
-<li title="{{ item.section }}"><ol>
-<li>
-			{% endif %}
+			{% if _article != null %}</ol></li>{% endif %}
+			<li title="{{ item.section }}"><ol>
+			{% assign _clause = null %}
 		{% endif %}
 
 		{% if item.clause != _clause %}
-			{% if _clause != null %}
-</li>
-<li>
-			{% endif %}
+			{% if _clause != null %}</li>{% endif %}
+			<li>
 		{% endif %}
 
 		{% if item.para != null %}<p>{{ item.content }}</p>{% endif %}
@@ -75,6 +69,7 @@ gist_revision: 885f2f291e7f6328cc4ad269729b99397256e4b0
 {% assign _article = nil %}
 {% assign _clause = nil %}
 
+</li>
 </li>
 
 </ol>
