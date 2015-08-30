@@ -17,18 +17,18 @@ gist_revision: 0961476c9cf836271c501ef58b0a54d6f862c341
 
 
 
-{% assign _section_list = site.data.kenp %}
+{% assign _kenp_list = site.data.kenp %}
 
 
 <h2>前文</h2>
 <div title="前文">
-{% assign _section = null %}
-{% for item in _section_list %}{% if item.section != null %}
-	{% if item.section != _section %}{% break %}{% endif %}
-	{% assign _section = item.section %}
+{% assign _group = null %}
+{% for item in _kenp_list %}{% if item.group != null %}
+	{% if item.group != _group %}{% break %}{% endif %}
+	{% assign _group = item.group %}
 	{% if item.content != null %}<p>{{ item.content }}</p>{% endif %}
 {% endif %}{% endfor %}
-{% assign _section = nil %}
+{% assign _group = nil %}
 </div>
 
 
@@ -38,33 +38,39 @@ gist_revision: 0961476c9cf836271c501ef58b0a54d6f862c341
 <h2>条文</h2>
 <ol title="条文">
 {% assign _article = null %}
-{% assign _clause = "1" %}
-{% for item in _section_list %}{% if item.section != null and item.content != null %}
+{% assign _clause = null %}
+{% for item in _kenp_list %}{% if item.section != null and item.content != null %}
 
-	{% if item.article != _article %}
-		{% if _article != null %}</ol></li>{% endif %}
-		{% if item.article == null %}
+
+	{% if item.article == null and item.clause == null %}
 <h3>{{ item.content }}</h3>
-		{% else %}<li title="{{ _section }}"><ol>
+
+
+	{% else %}
+		{% if item.article != _article %}
+			{% if _article != null %}</ol></li>{% endif %}
+			{% if item.article != null %}<li title="{{ item.section }}"><ol>
+			{% endif %}
 		{% endif %}
-		{% assign _article = item.article %}
+
+		{% if item.clause != _clause %}
+			{% if _clause != null %}</li>{% endif %}
+			{% if item.clause != null %}<li>{% endif %}
+		{% endif %}
+
+		{% if item.para != null %}<p>{{ item.content }}</p>{% endif %}
+
 	{% endif %}
 
-	{% if item.clause != _clause %}
-		{% if _clause != null %}</li>{% endif %}
-		{% if item.clause != null %}<li>{% endif %}
-		{% assign _clause = item.clause %}
-	{% endif %}
-
-	{% if item.para != null %}<p>{{ item.content }}</p>{% endif %}
-
+	{% assign _article = item.article %}
+	{% assign _clause = item.clause %}
 
 {% endif %}{% endfor %}
 {% assign _article = nil %}
 {% assign _clause = nil %}
 </ol>
 
-{% assign _section_list = nil %}
+{% assign _kenp_list = nil %}
 
 
 
