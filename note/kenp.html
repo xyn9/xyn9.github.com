@@ -23,13 +23,13 @@ gist_revision: d5a9ccd17ec6e83266d3c7c4cad1ba9658ed124c
 <h2>前文</h2>
 <div title="前文">
 {% assign _section = null %}
-{% for item in _section_list %}{% if item.section != null %}
-	{% if item.section != _section %}{% break %}{% endif %}
-	{% assign _section = item.section %}
-	<p>{{ item.content }}</p>
-{% endif %}
+{% for item in _section_list %}
 	<p>{{ item.section }}</p>
-{% endfor %}
+{% if item.section != null %}
+	{% if item.section != _section %}{% break %}{% endif %}
+	{% assign _section = {{ item.section }} %}
+	<p>{{ item.content }}</p>
+{% endif %}{% endfor %}
 </div>
 
 
