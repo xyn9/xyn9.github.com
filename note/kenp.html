@@ -41,22 +41,24 @@ gist_revision: 885f2f291e7f6328cc4ad269729b99397256e4b0
 {% assign _clause = null %}
 {% for item in _kenp_list %}{% if item.group == _group and item.content != null %}
 
-	{% if item.article != _article or item.article == null %}
-		{% if _article != null %}</ol></li>{% endif %}
-		{% if item.clause == null %}
-			<h3>{{ item.content }}</h3>
-		{% else %}
-			<li title="{{ item.section }}"><ol>
-			{% assign _clause = null %}
+	{% if item.article == null %}{% assign item.article = "0" %}{% endif %}
+	{% if item.article != _article %}
+		{% if _article != null %}</li>
+		</ol></li>{% endif %}
+		{% if item.article == "0" %}<h3>{{ item.content }}</h3>
+			{% assign item.article = null %}
+		{% else %}<li title="{{ item.section }}"><ol>
+			<li>
 		{% endif %}
-	{% endif %}
 
-	{% if item.clause != _clause %}
+	{% elsif item.clause != _clause %}
 		{% if _clause != null %}</li>{% endif %}
 		<li>
 	{% endif %}
 
-	{% if item.para != null %}<p>{{ item.content }}</p>{% endif %}
+	{% if item.para != null %}
+		<p>{{ item.content }}</p>
+	{% endif %}
 
 	{% assign _article = item.article %}
 	{% assign _clause = item.clause %}
