@@ -43,8 +43,12 @@ gist_revision: 885f2f291e7f6328cc4ad269729b99397256e4b0
 
 	{% if item.article != _article or item.article == null %}
 		{% if _article != null %}</ol></li>{% endif %}
-		{% if item.clause == null %}<h3>{{ item.content }}</h3>{% else %}<li title="{{ item.section }}"><ol>{% endif %}
-		{% assign _clause = null %}
+		{% if item.clause == null %}
+			<h3>{{ item.content }}</h3>
+		{% else %}
+			<li title="{{ item.section }}"><ol>
+			{% assign _clause = null %}
+		{% endif %}
 	{% endif %}
 
 	{% if item.clause != _clause %}
