@@ -36,7 +36,7 @@ gist_revision: 885f2f291e7f6328cc4ad269729b99397256e4b0
 
 {% assign _group = "条文" %}
 <h2>{{ _group }}</h2>
-<ol title="{{ _group }}">
+<ol title="{{ _group }}" style="list-style-type:cjk-ideographic;">
 {% assign _article = "0" %}
 {% assign _clause = null %}
 {% for item in _kenp_list %}{% if item.group == _group and item.content != null %}
@@ -47,8 +47,7 @@ gist_revision: 885f2f291e7f6328cc4ad269729b99397256e4b0
 		</ol></li>{% endif %}
 		{% if item.article == null %}<h3>{{ item.content }}</h3>
 		{% else %}<li title="{{ item.section }}"><ol>
-			<li>
-		{% endif %}
+		<li>{% endif %}
 
 	{% elsif item.clause != _clause %}
 		{% if _clause != null %}</li>{% endif %}
