@@ -37,16 +37,15 @@ gist_revision: 885f2f291e7f6328cc4ad269729b99397256e4b0
 {% assign _group = "条文" %}
 <h2>{{ _group }}</h2>
 <ol title="{{ _group }}">
-{% assign _article = null %}
+{% assign _article = "0" %}
 {% assign _clause = null %}
 {% for item in _kenp_list %}{% if item.group == _group and item.content != null %}
 
-	{% if item.article == null %}{% assign item.article = "0" %}{% endif %}
 	{% if item.article != _article %}
+		{% if _article == "0" %}{% assign _article = null %}{% endif %}
 		{% if _article != null %}</li>
 		</ol></li>{% endif %}
-		{% if item.article == "0" %}<h3>{{ item.content }}</h3>
-			{% assign item.article = null %}
+		{% if item.article == null %}<h3>{{ item.content }}</h3>
 		{% else %}<li title="{{ item.section }}"><ol>
 			<li>
 		{% endif %}
