@@ -5,11 +5,11 @@ title: 私擬憲法
 description: e-gov法令データ提供システム「日本国憲法」(http://law.e-gov.go.jp/htmldata/S21/S21KE000.html)ならびに「大日本帝国憲法」(http://www.ndl.go.jp/constitution/etc/j02.html)を基に作成
 category: note
 tags: ["憲法"]
-mtitle: 天皇～国民の権理及び義務まで
-mdescription: 
-date: 2015-09-03 17:30
+mtitle: 序章など立ててみた
+mdescription: こういう条項がアリなのかどうかすら知らない
+date: 2015-09-05 10:50
 gist_id: e7426492b7bb92d260a1
-gist_revision: 3d8452303eb08c4d3c3a76dceb5b7cf160069771
+gist_revision: d1f73db4ab2d73faa7cae173db2a5d5a591ff78d
 ---
 {% include JB/setup %}
 
@@ -58,17 +58,16 @@ gist_revision: 3d8452303eb08c4d3c3a76dceb5b7cf160069771
 		<p>{{ item.content }}</p>
 	{% endif %}
 
-	{% assign _article = item.article %}
+	{% if item.article == null %}{% assign _article = "0" %}{% assign _article = item.article %}{% else %}{% endif %}
 	{% assign _clause = item.clause %}
 {% endif %}{% endfor %}
 
-{% assign _article = nil %}
-{% assign _clause = nil %}
-
-
+{% if _article != null %}
 </li>
 </ol></li>
-
+{% endif %}
+{% assign _article = nil %}
+{% assign _clause = nil %}
 
 </ol>
 {% assign _group = nil %}
