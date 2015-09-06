@@ -1,0 +1,44 @@
+---
+layout: default
+---
+{% include JB/setup %}
+
+
+
+
+
+<div class="day">
+  <!-- div class="body" -->
+
+    <!-- div class="section" -->
+{{ content }}
+
+
+
+
+
+<h2><span class="title">—š—ð</span></h2>
+{% assign posts_collate = site.posts %}
+{% include custom/posts_collate_history %}
+
+
+
+
+
+    <!-- /div -->
+
+    <div class="refererlist">
+      <p class="date"><span class="caption">Last modified: </span><span class="timestamp">{{ page.date | date: site.theme.mdate_format }}</span></p>
+      <p class="tags">
+      <span class="caption">Tag(s):</span>
+      {% unless page.tags == empty %}
+        <ul class="commentshort">
+        {% assign tags_list = page.tags %}
+        {% include JB/tags_list %}
+        </ul>
+      {% endunless %}
+      </p>
+    </div>
+
+  <!-- /div -->
+</div>

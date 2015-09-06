@@ -1,5 +1,5 @@
 ---
-layout: wiki
+layout: note
 style: wiki
 title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
@@ -241,14 +241,6 @@ h2. %(title)関連・その他%
 * "6月4日放映TVタックルをめぐるツイートから - Togetter":http://togetter.com/li/315965
 
  =:
-
-
-
-
-
-h2. %(title)履歴%
-{% assign posts_collate = site.posts %}
-{% include custom/posts_collate_history %}
 
 
 
