@@ -20,7 +20,7 @@ Usage:
 <dl compact>
 {% for post in posts_collate %}{% if post.group == "history" and post.target == page.url %}
   <dt><span class="timestamp">{{ post.date | date: site.theme.date_format }}</span> <a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.mtitle }}</a></dt>
-{% if post.mdescription %}    <dd>{{ post.mdescription }}</dd>{% endif %}
+{% if post.mdescription %}    <dd><pre>{{ post.mdescription }}</pre></dd>{% endif %}
 {% endif %}{% endfor %}
 </dl>
 {% assign posts_collate = nil %}
