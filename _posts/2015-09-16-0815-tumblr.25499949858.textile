@@ -1,0 +1,17 @@
+---
+category: note
+date: 2015-09-16 08:15
+description: http://xyn9.tumblr.com/post/25499949858
+group: history
+link: /note/tumblr.25499949858.html#2015-09-16-0815
+mdescription: 「“Insurgency(反乱・謀反)”の共通特性」について
+mtitle: “大阪ダブル選挙・維新の会”の項目に「自衛隊を活かす：21世紀の憲法と防衛を考える会」による講演録へのリンク
+style: wiki
+tags: ["wiki", "#25499949858"] 
+target: /note/tumblr.25499949858.html
+title: メモ片#25499949858
+layout: redirect
+redirect:
+  url: /note/tumblr.25499949858.html#2015-09-16-0815
+  delay: 0
+---

@@ -5,9 +5,9 @@ title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
 category: note
 tags: ["wiki", "#25499949858"] 
-mtitle: “第2次安倍政権”の項目に小林よしのり氏＠日本外国特派員協会(FCCJ)会見ニコニコ動画コメントへのリンク
-mdescription: 
-date: 2015-08-12 07:47:45
+mtitle: “大阪ダブル選挙・維新の会”の項目に「自衛隊を活かす：21世紀の憲法と防衛を考える会」による講演録へのリンク
+mdescription: 「“Insurgency(反乱・謀反)”の共通特性」について
+date: 2015-09-16 08:15
 ---
 {% include JB/setup %}
 
@@ -76,6 +76,8 @@ h4. <a name="2015-03-22-1726"></a>	「道頓堀」「ヘドロチック」関連
 ** "Twitter#579361696801693696":http://twitter.com/xyn9/status/579361696801693696
 *** "視点・論点　「ハンナ・アーレントと”悪の凡庸さ”」 | 視点・論点 | 解説委員室:NHK":http://www.nhk.or.jp/kaisetsu-blog/400/191681.html ("キャッシュ":http://megalodon.jp/2014-0628-1615-18/www.nhk.or.jp/kaisetsu-blog/400/191681.html )
 *** "読書ノート『グローバリズムが世界を滅ぼす』, pp.55-9":http://book.g.hatena.ne.jp/xyn9/20140705/isbn4166609741p55
+* <a name="2015-09-16-0815"></a>	"①日本防衛のパラダイム「イスラム国」&quot;現象&quot;から　伊勢﨑賢治 - 2015.2.14 第５回シンポジウム「護憲」を超えて⑤ 現代によみがえる「専守防衛」はあるか｜自衛隊を活かす：21世紀の憲法と防衛を考える会":http://kenpou-jieitai.jp/symposium_20150214.html#isezaki_houkoku ("キャッシュ":http://megalodon.jp/2015-0916-0633-50/kenpou-jieitai.jp/symposium_20150214.html )
+** "Twitter#643782841071857664":http://twitter.com/xyn9/status/643782841071857664
 
  =:
 
@@ -200,7 +202,8 @@ h2. %(title)関連・その他%
 * "村野瀬玲奈の秘書課広報室 | 東大話法とはネトウヨコメントである":http://muranoserena.blog91.fc2.com/blog-entry-3311.html ("キャッシュ":http://megalodon.jp/2014-1223-0806-57/muranoserena.blog91.fc2.com/blog-entry-3311.html )  / "何も言えねえ#25511948078":http://xyn9-should-not-have-to-say.tumblr.com/post/25511948078
 * <a name="2012-09-18-1711"></a>	"読書ノート『日本破滅論』,pp.174-5":http://book.g.hatena.ne.jp/xyn9/20120912/1347452892 / "pp.172-3":http://book.g.hatena.ne.jp/xyn9/20130818/isbn4166608713p172
 * <a name="2013-08-19-0222"></a>	"羽鳥剛史, 小松佳弘, 藤井聡: 大衆性尺度の構成―Ortega&quot;大衆の反逆&quot;に基づく大衆の心的構造分析―, 心理学研究, Vol. 79, No. 5, pp. 423-431. 2008.":https://www.jstage.jst.go.jp/article/jjpsy/79/5/79_5_423/_article/-char/ja/
-* <a name="2014-12-22-0847"></a>	"魔女狩りの恐怖　セイラム村の魔女裁判｜幻解！超常ファイル | テレビのまとめ":http://tvmatome.net/archives/488 ("キャッシュ":http://megalodon.jp/2014-0907-1948-20/tvmatome.net/archives/488 ) / "Twitter#508575636563058688":http://twitter.com/xyn9/status/508575636563058688
+* <a name="2014-12-22-0847"></a>	"魔女狩りの恐怖　セイラム村の魔女裁判｜幻解！超常ファイル | テレビのまとめ":http://tvmatome.net/archives/488 ("キャッシュ":http://megalodon.jp/2014-0907-1948-20/tvmatome.net/archives/488 )
+** "Twitter#508575636563058688":http://twitter.com/xyn9/status/508575636563058688
 * "“ギャンブル依存症” - NHK　クローズアップ現代":http://www.nhk.or.jp/gendai/kiroku/etail02_3582_1.html ("キャッシュ":http://megalodon.jp/2014-1216-0624-35/www.nhk.or.jp/gendai/kiroku/detail02_3582_1.html ) / "Twitter#534726635686072320":http://twitter.com/xyn9/status/534726635686072320
 * <a name="2014-12-24-0737"></a>	"「ネット利用者の右傾化、その功罪について」 その3｜C.I.L. - （４）ネットウヨク系団体の正体":http://ameblo.jp/oharan/entry-11062227958.html ("キャッシュ":http://megalodon.jp/2013-0412-2220-47/ameblo.jp/oharan/entry-11062227958.html )
 ** "メモ片#47779280186":http://xyn9.tumblr.com/post/47779280186
