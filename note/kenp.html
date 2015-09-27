@@ -91,6 +91,6 @@ date: 2015-09-22 13:30
 
 {% assign _gist = site.data.kenp_gist %}
 <div id="gist">
-revision: <tt id="revision"><a href="{{ _gist.history[0].url }}">{{ _gist.history[0].version }}</a></tt>
+revision: <tt id="revision"><a href="{{ _gist.html_url }}/{{ _gist.history[0].version }}">{{ _gist.history[0].version }}</a></tt>
 <tt>({{ _gist.updated_at }})</tt>
 </div>
