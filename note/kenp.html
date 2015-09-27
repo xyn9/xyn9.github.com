@@ -7,9 +7,7 @@ category: note
 tags: ["憲法"]
 mtitle: 注釈的に「義解」を入れた．
 mdescription: 
-date: 2015-09-26 08:10
-gist_id: e7426492b7bb92d260a1
-gist_revision: bdb98bd46e681963cab3f4aed9bbd6c5479f7cf2
+date: 2015-09-22 13:30
 ---
 {% include JB/setup %}
 
@@ -91,5 +89,8 @@ gist_revision: bdb98bd46e681963cab3f4aed9bbd6c5479f7cf2
 
 
 
-{% if page.gist_revision %}<p id="revision">revision: <tt><a href="http://gist.github.com/{{ page.gist_id }}/{{ page.gist_revision }}">{{ page.gist_revision }}</a></tt></p>
-{% endif %}
+{% assign _gist = site.data.kenp_gist %}
+<div id="gist">
+revision: <tt id="revision"><a href="{{ _gist.history[0].url }}">{{ _gist.history[0].version }}</a></tt>
+<tt>({{ _gist.updated_at }})</tt>
+</div>
