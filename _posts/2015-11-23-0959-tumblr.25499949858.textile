@@ -1,0 +1,17 @@
+---
+category: note
+date: 2015-11-23 09:59:01
+description: http://xyn9.tumblr.com/post/25499949858
+group: history
+link: /note/tumblr.25499949858.html#2015-11-23-0959
+mdescription: http://togetter.com/li/240312 (@haiou4b1)
+mtitle: “大阪ダブル選挙・維新の会”の項目に西谷文和氏「橋下的なもの」評Togetterまとめへのリンク
+style: wiki
+tags: ["wiki", "#25499949858"] 
+target: /note/tumblr.25499949858.html
+title: メモ片#25499949858
+layout: redirect
+redirect:
+  url: /note/tumblr.25499949858.html#2015-11-23-0959
+  delay: 0
+---
