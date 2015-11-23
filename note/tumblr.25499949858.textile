@@ -5,9 +5,9 @@ title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
 category: note
 tags: ["wiki", "#25499949858"] 
-mtitle: “大阪ダブル選挙・維新の会”の項目に「自衛隊を活かす：21世紀の憲法と防衛を考える会」による講演録へのリンク
-mdescription: 「“Insurgency(反乱・謀反)”の共通特性」について
-date: 2015-09-16 08:15
+mtitle: “大阪ダブル選挙・維新の会”の項目に西谷文和氏「橋下的なもの」評Togetterまとめへのリンク
+mdescription: http://togetter.com/li/240312 (@haiou4b1)
+date: 2015-11-23 09:59:01
 ---
 {% include JB/setup %}
 
@@ -52,13 +52,14 @@ h2. %(title)大阪ダブル選挙・維新の会%
 
 * "トッキー氏と維新の会支持者らのTLより #0 - Togetter":http://togetter.com/li/302102
 * "トッキー氏と維新の会支持者らのTLより #1 - Togetter":http://togetter.com/li/302088
-* <a name="2015-03-11-0141"></a>	"大阪市、文楽補助金15年度から全廃":http://togetter.com/li/736891
-* <a name="2015-03-09-2334"></a>	"【大阪都構想】俺に反対する者をテレビに出すな【維新の党】":http://togetter.com/li/791469
+* <a name="2015-03-11-0141"></a>	"大阪市、文楽補助金15年度から全廃 - Togetter":http://togetter.com/li/736891
+* <a name="2015-03-09-2334"></a>	"【大阪都構想】俺に反対する者をテレビに出すな【維新の党】 - Togetter":http://togetter.com/li/791469
 ** "Twitter#573939012412407808":http://twitter.com/xyn9/status/573939012412407808
 *** "森田実の言わねばならぬ／平和・自立・調和の日本をつくるために【95】《今日の論点(2)》":http://moritasouken.com/sC4127.HTML ("キャッシュ":http://megalodon.jp/2015-0309-2315-38/moritasouken.com/sC4127.HTML )
-* <a name="2015-04-09-2141"></a>	"橋下徹、子飼いのネット工作員（ステマ）の恥ずかしい実態":http://togetter.com/li/805477 → "はてなハイク#189913258751931775":http://h.hatena.ne.jp/xyn9/189913258751931775
-* <a name="2015-05-11-1738"></a>	"橋下徹の迷惑電話の深層と選挙コンサルの話":http://togetter.com/li/819195
+* <a name="2015-04-09-2141"></a>	"橋下徹、子飼いのネット工作員（ステマ）の恥ずかしい実態 - Togetter":http://togetter.com/li/805477 → "はてなハイク#189913258751931775":http://h.hatena.ne.jp/xyn9/189913258751931775
+* <a name="2015-05-11-1738"></a>	"橋下徹の迷惑電話の深層と選挙コンサルの話 - Togetter":http://togetter.com/li/819195
 ** "Twitter#597312559889289217":http://twitter.com/xyn9/status/597312559889289217
+* <a name="2015-11-23-0959"></a>	"西谷文和氏(@saveiraq)の橋下徹・元大阪府知事の「WTCビルへの府庁舎移転問題」で提訴に至った想い - Togetter":http://togetter.com/li/240312
 
  =:
 - <h3>ブログ他</h3>:=
@@ -171,9 +172,9 @@ h2. %(title)第2次安倍政権%
 - <h3>Twitter</h3>:=
 
 * TL:難病の首相と国会中の中座 "#00":http://togetter.com/li/466229 "#01":http://togetter.com/li/466337 "#02":http://togetter.com/li/466357 "#03":http://togetter.com/li/466699 "#04":http://togetter.com/li/466839
-* <a name="2015-03-11-0150"></a>	"【現在の自民党が頼る日本会議の宗教的背景】":http://togetter.com/li/700939
-* <a name="2015-03-17-0050"></a>	"第二次安倍政権と「日本会議」の関係について":http://togetter.com/li/722392
-* <a name="2015-06-18-1431"></a>	"宗教右翼（特に生長の家）と自民党":http://togetter.com/li/790067
+* <a name="2015-03-11-0150"></a>	"【現在の自民党が頼る日本会議の宗教的背景】 - Togetter":http://togetter.com/li/700939
+* <a name="2015-03-17-0050"></a>	"第二次安倍政権と「日本会議」の関係について - Togetter":http://togetter.com/li/722392
+* <a name="2015-06-18-1431"></a>	"宗教右翼（特に生長の家）と自民党 - Togetter":http://togetter.com/li/790067
 
  =:
 - <h3>ブログ他</h3>:=
@@ -204,7 +205,7 @@ h2. %(title)関連・その他%
 * <a name="2013-08-19-0222"></a>	"羽鳥剛史, 小松佳弘, 藤井聡: 大衆性尺度の構成―Ortega&quot;大衆の反逆&quot;に基づく大衆の心的構造分析―, 心理学研究, Vol. 79, No. 5, pp. 423-431. 2008.":https://www.jstage.jst.go.jp/article/jjpsy/79/5/79_5_423/_article/-char/ja/
 * <a name="2014-12-22-0847"></a>	"魔女狩りの恐怖　セイラム村の魔女裁判｜幻解！超常ファイル | テレビのまとめ":http://tvmatome.net/archives/488 ("キャッシュ":http://megalodon.jp/2014-0907-1948-20/tvmatome.net/archives/488 )
 ** "Twitter#508575636563058688":http://twitter.com/xyn9/status/508575636563058688
-* "“ギャンブル依存症” - NHK　クローズアップ現代":http://www.nhk.or.jp/gendai/kiroku/etail02_3582_1.html ("キャッシュ":http://megalodon.jp/2014-1216-0624-35/www.nhk.or.jp/gendai/kiroku/detail02_3582_1.html ) / "Twitter#534726635686072320":http://twitter.com/xyn9/status/534726635686072320
+* "“ギャンブル依存症” - NHK　クローズアップ現代":http://www.nhk.or.jp/gendai/kiroku/detail02_3582_1.html ("キャッシュ":http://megalodon.jp/2014-1216-0624-35/www.nhk.or.jp/gendai/kiroku/detail02_3582_1.html ) / "Twitter#534726635686072320":http://twitter.com/xyn9/status/534726635686072320
 * <a name="2014-12-24-0737"></a>	"「ネット利用者の右傾化、その功罪について」 その3｜C.I.L. - （４）ネットウヨク系団体の正体":http://ameblo.jp/oharan/entry-11062227958.html ("キャッシュ":http://megalodon.jp/2013-0412-2220-47/ameblo.jp/oharan/entry-11062227958.html )
 ** "メモ片#47779280186":http://xyn9.tumblr.com/post/47779280186
 *** "何も言えねえ#25774176262":http://xyn9-should-not-have-to-say.tumblr.com/post/25774176262
