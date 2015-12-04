@@ -5,9 +5,9 @@ title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
 category: note
 tags: ["wiki", "#25499949858"] 
-mtitle: “大阪ダブル選挙・維新の会”の項目に西谷文和氏「橋下的なもの」評Togetterまとめへのリンク
-mdescription: http://togetter.com/li/240312 (@haiou4b1)
-date: 2015-11-24 10:16:16
+mtitle: “大阪ダブル選挙・維新の会”の項目に「vs 高校生」関連諸々
+mdescription: ニコニコ動画コメント＋後日談記事と言及ブログへのリンク等
+date: 2015-12-04 21:51
 ---
 {% include JB/setup %}
 
@@ -71,14 +71,22 @@ h2. %(title)大阪ダブル選挙・維新の会%
 * <a name="2015-04-08-1719"></a>	"「維新・足立議員」の国会質疑に基づく主張の不当性について｜藤井聡":http://satoshi-fujii.com/150325-2/ ("キャッシュ":http://megalodon.jp/2015-0408-1719-24/satoshi-fujii.com/150325-2/ )
 ** "Twitter#580607904820105216":http://twitter.com/xyn9/status/580607904820105216
 ** "読書ノート『文明の災禍』, pp.72-82":http://book.g.hatena.ne.jp/xyn9/20150308/isbn4106104374p72
+* <a name="2015-09-16-0815"></a>	"①日本防衛のパラダイム「イスラム国」&quot;現象&quot;から　伊勢﨑賢治 - 2015.2.14 第５回シンポジウム「護憲」を超えて⑤ 現代によみがえる「専守防衛」はあるか｜自衛隊を活かす：21世紀の憲法と防衛を考える会":http://kenpou-jieitai.jp/symposium_20150214.html#isezaki_houkoku ("キャッシュ":http://megalodon.jp/2015-0916-0633-50/kenpou-jieitai.jp/symposium_20150214.html )
+** "Twitter#643782841071857664":http://twitter.com/xyn9/status/643782841071857664
 
 h4. <a name="2015-03-22-1726"></a>	「道頓堀」「ヘドロチック」関連
 * "西田ビジョン「西田昌司×藤井聡の維新を斬る！」":http://www.shukannishida.jp/nishidavision-fujii.html / ("playlist":http://youtu.be/o4u9nxb77TA?lit=PLU_xxVlhKz1fuzaKz8ftITHL434Z3vtcw&index=3 )
 ** "Twitter#579361696801693696":http://twitter.com/xyn9/status/579361696801693696
 *** "視点・論点　「ハンナ・アーレントと”悪の凡庸さ”」 | 視点・論点 | 解説委員室:NHK":http://www.nhk.or.jp/kaisetsu-blog/400/191681.html ("キャッシュ":http://megalodon.jp/2014-0628-1615-18/www.nhk.or.jp/kaisetsu-blog/400/191681.html )
 *** "読書ノート『グローバリズムが世界を滅ぼす』, pp.55-9":http://book.g.hatena.ne.jp/xyn9/20140705/isbn4166609741p55
-* <a name="2015-09-16-0815"></a>	"①日本防衛のパラダイム「イスラム国」&quot;現象&quot;から　伊勢﨑賢治 - 2015.2.14 第５回シンポジウム「護憲」を超えて⑤ 現代によみがえる「専守防衛」はあるか｜自衛隊を活かす：21世紀の憲法と防衛を考える会":http://kenpou-jieitai.jp/symposium_20150214.html#isezaki_houkoku ("キャッシュ":http://megalodon.jp/2015-0916-0633-50/kenpou-jieitai.jp/symposium_20150214.html )
-** "Twitter#643782841071857664":http://twitter.com/xyn9/status/643782841071857664
+
+h4. <a name="2015-12-04-2151"></a>	「vs 高校生」関連
+* "大阪の私学に通う高校生が、橋下大阪府知事に噛みつく！":http://nicoco.net/sm6971476 ("@2015-12-04 21:25:05":http://megalodon.jp/2015-1204-2125-05/nicoco.net/sm6971476 )
+** "Twitter#189006327392124928":http://twitter.com/xyn9/status/189006327392124928
+** "Twitter#271947536661635072":http://twitter.com/xyn9/status/271947536661635072
+** "Twitter#338921736252837889":http://twitter.com/xyn9/status/338921736252837889
+* "(3ページ目)７年前、橋下徹に恫喝されたあの“女子高生”が声をあげた！ 橋下が放った冷酷な言葉、そして今、大阪に起きていること｜LITERA／リテラ":http://lite-ra.com/2015/11/post-1702_3.html ("キャッシュ":https://archive.is/CjvAV )
+** "村野瀬玲奈の秘書課広報室 2008年の「橋下徹 対 高校生」の討論で橋下に泣かされた高校生が大人になって橋下思想の害毒について当事者の立場で語った主張を支持したい。":http://muranoserena.blog91.fc2.com/blog-entry-6765.html ("キャッシュ":http://megalodon.jp/2015-1204-2124-21/muranoserena.blog91.fc2.com/?mode=m&no=6765 )
 
  =:
 
