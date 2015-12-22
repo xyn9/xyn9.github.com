@@ -5,9 +5,9 @@ title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
 category: note
 tags: ["wiki", "#25499949858"] 
-mtitle: “大阪ダブル選挙・維新の会”の項目に「vs 高校生」関連諸々
-mdescription: ニコニコ動画コメント＋後日談記事と言及ブログへのリンク等
-date: 2015-12-04 21:51
+mtitle: “第2次安倍政権”の項目に蓮池透氏＠日本外国特派員協会(FCCJ)会見動画コメント＋同ニコ生※付動画へのリンク
+mdescription: 
+date: 2015-12-24 12:01:30
 ---
 {% include JB/setup %}
 
@@ -121,6 +121,10 @@ h2. %(title)第2次安倍政権%
 **# "2-eGNFi_omsiNJle_ie3KmVmaFQ":http://www.nicozon.net/msg/sm23175200/2-eGNFi_omsiNJle_ie3KmVmaFQ ("@2014-03-26 03:26:09":http://megalodon.jp/2014-0326-0326-09/www.nicozon.net/msg/sm23175200/2-eGNFi_omsiNJle_ie3KmVmaFQ )
 * "「イスラム国」日本人人質事件のミカタ":http://nicoco.net/sm25415259 ("@2015-01-24 23:11:03":http://megalodon.jp/2015-0124-2311-03/nicoco.net/sm25415259 )	[<a href="{{ BASE_PATH }}/data/sm25415259" name="2015-01-24-2311">data</a>]
 * "【保守】　漫画家　小林よしのり　（外国特派員協会　2015年8月10日）":http://nicoco.net/sm26905791 ("@2015-08-12 07:47:45":http://megalodon.jp/2015-0812-0747-45/nicoco.net/sm26905791 )	[<a href="{{ BASE_PATH }}/data/sm26905791" name="2015-08-12-0747">data</a>]
+* "【拉致被害者家族会追放の】蓮池透さん安倍批判会見(通訳カット版)":http://nicoco.net/sm27842576 ("@2015-12-24 12:01:30":http://megalodon.jp/2015-1224-1201-30/nicoco.net/sm27842576 )	[<a href="{{ BASE_PATH }}/data/sm27842576" name="2015-12-22-1510">data</a>]
+** "蓮池透 元･北朝鮮拉致家族会副代表 安倍総理を強烈に非難 パート１（ニコ生・コメ入）":http://www.youtube.com/watch?v=xCjTtTX3wwc
+** "蓮池透 元･北朝鮮拉致家族会副代表 安倍総理を強烈に非難 パート２（ニコ生・コメ入）":http://www.youtube.com/watch?v=FNKaRUSijbQ
+
 
  =:
 - <h3>YouTube</h3>:=
