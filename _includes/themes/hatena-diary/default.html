@@ -23,6 +23,7 @@
 <div class="adminmenu">
   <ul class="nav">
     <li><a href="{{ BASE_PATH }}/">Top</a></li>
+    <li><a href="{% if site.github.is_project_page %}{{ site.github.repository_url }}{% else %}{{ site.github.owner_url }}{% endif %}">github</a></li>
     {% if site.author.github %}<li><a href="http://github.com/{{ site.author.github }}{{ BASE_PATH }}">github</a></li>{% endif %}
     {% assign pages_list = site.pages %}
     {% assign group = 'navigation' %}
