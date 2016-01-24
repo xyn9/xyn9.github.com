@@ -8,11 +8,11 @@ p(date). %(caption)Last modified:% %(timestamp){{ site.time | date:"%Y-%m-%d %H:
 
 {% assign gh_url = site.github.owner_url %}
 
-h2. /"repos":{{ gh_url }}
+h2. "/repos":{{ gh_url }}
 
-{% assign gh_repos = site.github.public_repositories | sort: "updated_at" | reverse %}
+{% assign gh_repos = site.github.public_repositories | sort: "created_at" | reverse %}
 {% for repos in gh_repos %}{% assign cap_ch = repos.name | downcase | truncate: 3,'-' %}{% if cap_ch != "x--" and repos.name != site.github.project_title %}
-- /"{{ repos.name }}":{% if repos.homepage != "" %}{{ repos.homepage }}{% elsif repos.has_pages %}/{{ repos.name }}{% elsif repos.has_wiki %}{{ gh_url }}/{{ repos.name }}/wiki{% else %}{{ gh_url }}/{{ repos.name }}/tags{% endif %} %(timestamp)({{ repos.updated_at }})% :=
+- <h3>/"{{ repos.name }}({{ repos.updated_at | date: site.theme.date_format }})":{% if repos.homepage != "" %}{{ repos.homepage }}{% elsif repos.has_pages %}/{{ repos.name }}{% elsif repos.has_wiki %}{{ gh_url }}/{{ repos.name }}/wiki{% else %}{{ gh_url }}/{{ repos.name }}/tags{% endif %} </h3>:=
 
 {{ repos.description }}
 
@@ -20,7 +20,7 @@ h2. /"repos":{{ gh_url }}
 
 
 
-h2. /"gist":http://gist.github.com/{{ site.github.owner_name }}
+h2. "/gist":http://gist.github.com/{{ site.github.owner_name }}
 
 
 
