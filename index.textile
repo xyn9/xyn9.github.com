@@ -10,7 +10,7 @@ p(date). %(caption)Last modified:% %(timestamp){{ site.time | date:"%Y-%m-%d %H:
 
 h2. "/repos":{{ gh_url }}
 
-{% for repos in site.github.public_repositories %}{% capture cap_ch %}{{ repos.name | downcase | truncate:2 }}{% endcapture %}<!-- {{ cap_ch }} -->{% if cap_ch != "x-" and repos.name != site.github.project_title %}
+{% for repos in site.github.public_repositories %}{% capture cap_ch %}{{ repos.name | downcase | split:"-" }}{% endcapture %}<!-- {{ cap_ch[0] }} -->{% if cap_ch[0] != "x" and repos.name != site.github.project_title %}
 - /"{{ repos.name }}":{% if repos.homepage != "" %}{{ repos.homepage }}{% elsif repos.has_pages %}/{{ repos.name }}{% elsif repos.has_wiki %}{{ gh_url }}/{{ repos.name }}/wiki{% else %}{{ gh_url }}/{{ repos.name }}/tags{% endif %} :=
 {{ repos.description }}
  =:{% endif %}{% endfor %}
