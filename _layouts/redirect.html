@@ -1,14 +1,14 @@
-<html>
+{% if page.group == "repos" %}{% capture redirect_url %}{{ site.github.owner_url }}/{{ page.redirect.url }}{% endcapture %}{% else %}{% assign redirect_url = page.redirect.url %}{% endif %}<html>
 <head>
-<meta http-equiv="refresh" content="{{ page.redirect.delay }};url={{ page.redirect.url }}">
+<meta http-equiv="refresh" content="{{ page.redirect.delay }};url={{ redirect_url }}">
 <title> {{ page.title }} </title>
 </head>
 <frameset cols="100%" frameborder=0 framespacing=0 border=0 scrolling="auto" noresize>
-<frame name="{{ page.title }}" src="{{ page.redirect.url }}" border=0 marginwidth=0 marginheight=0 frameborder=0 framespacing=0 noresize>
+<frame name="{{ page.title }}" src="{{ redirect_url }}" border=0 marginwidth=0 marginheight=0 frameborder=0 framespacing=0 noresize>
 </frameset>
 <noframe>
 <body>
-<a href="{{ page.redirect.url }}">{{ page.redirect.url }}</a>
+<a href="{{ redirect_url }}">{{ redirect_url }}</a>
 
 
 {{ content }}
