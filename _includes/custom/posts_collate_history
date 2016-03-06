@@ -16,9 +16,10 @@ Usage:
         => 'post.next.date'
 
 -->{% endcomment %}
-
+{{ page.id }}
+{{ page.url }}
 <dl compact>
-{% for post in posts_collate %}{% if post.group == "history" and post.target == page.url %}
+{% for post in posts_collate %}{{ post.target }}{% if post.group == "history" and post.target == page.id %}
   <dt><span class="timestamp">{{ post.date | date: site.theme.date_format }}</span> <a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.mtitle }}</a></dt>
 {% if post.mdescription %}    <dd><pre>{{ post.mdescription }}</pre></dd>{% endif %}
 {% endif %}{% endfor %}

@@ -8,7 +8,7 @@ mdescription: 放送法・総務省「電波停止」問題
 mtitle: “第2次安倍政権”の項目に3月5日「報道特集」動画コメントへのリンク
 style: wiki
 tags: ["wiki", "#25499949858"] 
-target: /note/tumblr.25499949858.html
+target: /note/tumblr.25499949858
 title: メモ片#25499949858
 layout: redirect
 redirect:
