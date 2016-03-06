@@ -5,9 +5,9 @@ title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
 category: note
 tags: ["wiki", "#25499949858"] 
-mtitle: “第2次安倍政権”の項目に蓮池透氏＠日本外国特派員協会(FCCJ)会見動画コメント＋同ニコ生※付動画へのリンク
-mdescription: 
-date: 2015-12-24 12:01:30
+mtitle: “第2次安倍政権”の項目に3月5日「報道特集」動画コメントへのリンク
+mdescription: 放送法・総務省「電波停止」問題
+date: 2016-03-06 23:55:02
 ---
 {% include JB/setup %}
 
@@ -124,6 +124,7 @@ h2. %(title)第2次安倍政権%
 * "【拉致被害者家族会追放の】蓮池透さん安倍批判会見(通訳カット版)":http://nicoco.net/sm27842576 ("@2015-12-24 12:01:30":http://megalodon.jp/2015-1224-1201-30/nicoco.net/sm27842576 )	[<a href="{{ BASE_PATH }}/data/sm27842576" name="2015-12-22-1510">data</a>]
 ** "蓮池透 元･北朝鮮拉致家族会副代表 安倍総理を強烈に非難 パート１（ニコ生・コメ入）":http://www.youtube.com/watch?v=xCjTtTX3wwc
 ** "蓮池透 元･北朝鮮拉致家族会副代表 安倍総理を強烈に非難 パート２（ニコ生・コメ入）":http://www.youtube.com/watch?v=FNKaRUSijbQ
+* "0305　特集":http://nicoco.net/sm28366569 ("@2016-03-06 23:55:02":http://megalodon.jp/2016-0306-2355-02/nicoco.net/sm28366569 )	[<a href="{{ BASE_PATH }}/data/sm28366569" name="2016-03-06-2355">data</a>]
 
 
  =:
