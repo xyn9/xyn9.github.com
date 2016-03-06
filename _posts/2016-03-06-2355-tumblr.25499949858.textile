@@ -1,0 +1,17 @@
+---
+category: note
+date: 2016-03-06 23:55:02
+description: http://xyn9.tumblr.com/post/25499949858
+group: history
+link: /note/tumblr.25499949858.html#2016-03-06-2355
+mdescription: 放送法・総務省「電波停止」問題
+mtitle: “第2次安倍政権”の項目に3月5日「報道特集」動画コメントへのリンク
+style: wiki
+tags: ["wiki", "#25499949858"] 
+target: /note/tumblr.25499949858.html
+title: メモ片#25499949858
+layout: redirect
+redirect:
+  url: /note/tumblr.25499949858.html#2016-03-06-2355
+  delay: 0
+---
