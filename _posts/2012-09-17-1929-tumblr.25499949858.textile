@@ -7,7 +7,7 @@ group: history
 link: /note/tumblr.25499949858.html#2012-09-17-1929
 style: wiki
 tags: ["wiki", "#25499949858"]
-target: /note/tumblr.25499949858.html
+target: /note/tumblr.25499949858
 title: メモ片#25499949858
 mtitle: “大阪ダブル選挙・維新の会”の項目にニコニコ動画コメントへのリンク3種追加
 layout: redirect

@@ -6,7 +6,7 @@ group: history
 link: /note/tumblr.25499949858.html#2012-11-05-0703
 style: wiki
 tags: ["wiki", "#25499949858"]
-target: /note/tumblr.25499949858.html
+target: /note/tumblr.25499949858
 title: メモ片#25499949858
 mtitle: 日米／沖縄／原発の項にニコニコ動画コメントへのリンク追加
 layout: redirect

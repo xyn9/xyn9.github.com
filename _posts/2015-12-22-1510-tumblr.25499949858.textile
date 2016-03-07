@@ -7,7 +7,7 @@ link: /note/tumblr.25499949858.html#2015-12-22-1510
 mtitle: “第2次安倍政権”の項目に蓮池透氏＠日本外国特派員協会(FCCJ)会見動画コメント＋同ニコ生※付動画へのリンク
 style: wiki
 tags: ["wiki", "#25499949858"] 
-target: /note/tumblr.25499949858.html
+target: /note/tumblr.25499949858
 title: メモ片#25499949858
 layout: redirect
 redirect:

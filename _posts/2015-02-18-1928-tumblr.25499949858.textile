@@ -7,7 +7,7 @@ mdescription: ふと、あるフレーズの思い出しついでに。 http://t
 link: /note/tumblr.25499949858.html#2015-02-18-1928
 style: wiki
 tags: ["wiki", "#25499949858"]
-target: /note/tumblr.25499949858.html
+target: /note/tumblr.25499949858
 title: メモ片#25499949858
 mtitle: “関連・その他”の項目に関連リンク追加
 layout: redirect

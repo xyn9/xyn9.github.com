@@ -5,7 +5,7 @@ date: 2015-05-03 16:09:26
 link: /note/tumblr.25499949858.html#2015-05-03-1609
 style: wiki
 tags: ["wiki", "#25499949858"]
-target: /note/tumblr.25499949858.html
+target: /note/tumblr.25499949858
 title: メモ片#25499949858
 mtitle: “日米／沖縄／原発”の項目に西部邁ゼミナールニコニコ動画コメントへのリンク
 layout: redirect

@@ -6,7 +6,7 @@ group: history
 link: /note/tumblr.25499949858.html#2014-12-25-0801
 style: wiki
 tags: ["wiki", "#25499949858"]
-target: /note/tumblr.25499949858.html
+target: /note/tumblr.25499949858
 title: メモ片#25499949858
 mtitle: “取っ掛かり”追記＋“関連・その他”の項目にリンク追加
 layout: redirect

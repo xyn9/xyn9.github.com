@@ -6,7 +6,7 @@ group: history
 link: /note/tumblr.25499949858.html#2012-10-18-1742
 style: wiki
 tags: ["wiki", "#25499949858"]
-target: /note/tumblr.25499949858.html
+target: /note/tumblr.25499949858
 title: メモ片#25499949858
 mtitle: 原発関連と沖縄・米軍関連を統合＋同項目に1件追加
 layout: redirect

@@ -5,7 +5,7 @@ date: 2015-01-24 23:11:03
 link: /note/tumblr.25499949858.html#2015-01-24-2311
 style: wiki
 tags: ["wiki", "#25499949858"]
-target: /note/tumblr.25499949858.html
+target: /note/tumblr.25499949858
 title: メモ片#25499949858
 mtitle: “第2次安倍政権”の項目に「イスラム国」邦人誘拐事件関連番組動画コメントへのリンク追加
 layout: redirect

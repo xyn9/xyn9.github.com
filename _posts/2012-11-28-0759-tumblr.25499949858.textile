@@ -5,7 +5,7 @@ date: 2012-11-28 07:59
 link: /note/tumblr.25499949858.html#2012-11-28-0759
 style: wiki
 tags: ["wiki", "#25499949858"]
-target: /note/tumblr.25499949858.html
+target: /note/tumblr.25499949858
 title: メモ片#25499949858
 mtitle: “その他”の項に選挙関連番組ニコ動コメントへのリンク追加
 layout: redirect
