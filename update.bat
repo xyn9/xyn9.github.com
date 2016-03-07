@@ -42,7 +42,7 @@ set _%~n0_H#link=!_%~n0_H#link:%~p0=^\!
 set _%~n0_H#link=!_%~n0_H#link:^\index^.html=^.^\!
 set _%~n0_H#link=!_%~n0_H#link:^\=^/!
 :
-set _%~n0_H#target=!_%~n0_H#link!
+set _%~n0_H#target=!_%~n0_H#link:^.html=!
 set _%~n0_H#link=!_%~n0_H#link!^#!_%~n0_DATE!
 :
 set _%~n0_H#group=history

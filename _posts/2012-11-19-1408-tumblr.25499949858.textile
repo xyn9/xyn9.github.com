@@ -5,7 +5,7 @@ date: 2012-11-19 14:08
 link: /note/tumblr.25499949858.html#2012-11-19-1408
 style: wiki
 tags: ["wiki", "#25499949858"]
-target: /note/tumblr.25499949858.html
+target: /note/tumblr.25499949858
 title: メモ片#25499949858
 mtitle: 沖縄レイプ事件関連ニコ動コメントへのリンク追加
 layout: redirect

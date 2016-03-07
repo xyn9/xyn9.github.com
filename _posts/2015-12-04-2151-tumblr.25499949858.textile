@@ -8,7 +8,7 @@ mdescription: ニコニコ動画コメント＋後日談記事と言及ブログ
 mtitle: “大阪ダブル選挙・維新の会”の項目に「vs 高校生」関連諸々
 style: wiki
 tags: ["wiki", "#25499949858"] 
-target: /note/tumblr.25499949858.html
+target: /note/tumblr.25499949858
 title: メモ片#25499949858
 layout: redirect
 redirect:

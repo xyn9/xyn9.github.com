@@ -5,7 +5,7 @@ date: 2014-01-16 00:47:05
 link: /note/tumblr.25499949858.html#2014-01-16-0047
 style: wiki
 tags: ["wiki", "#25499949858"]
-target: /note/tumblr.25499949858.html
+target: /note/tumblr.25499949858
 title: メモ片#25499949858
 mtitle: “関連・その他”の項目に漁船・自衛隊艦衝突ニュース動画コメントへのリンク追加
 layout: redirect

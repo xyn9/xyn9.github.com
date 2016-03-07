@@ -5,7 +5,7 @@ date: 2015-05-31 18:03
 link: /note/tumblr.25499949858.html#2015-05-31-1803
 style: wiki
 tags: ["wiki", "#25499949858"]
-target: /note/tumblr.25499949858.html
+target: /note/tumblr.25499949858
 title: メモ片#25499949858
 mtitle: “日米／沖縄／原発”の項目に沖縄問題＠朝生放送時TLのTogetterまとめ
 layout: redirect

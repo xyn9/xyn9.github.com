@@ -5,7 +5,7 @@ date: 2014-12-21 20:01:24
 link: /note/tumblr.25499949858.html#2014-12-21-2001
 style: wiki
 tags: ["wiki", "#25499949858"]
-target: /note/tumblr.25499949858.html
+target: /note/tumblr.25499949858
 title: メモ片#25499949858
 mtitle: “日米／沖縄／原発”の項にch桜討論番組ニコ動コメントへのリンク追加
 layout: redirect

@@ -5,7 +5,7 @@ date: 2012-12-28 16:12
 link: /note/tumblr.25499949858.html#2012-12-28-1612
 style: wiki
 tags: ["wiki", "#25499949858"]
-target: /note/tumblr.25499949858.html
+target: /note/tumblr.25499949858
 title: メモ片#25499949858
 mtitle: “日米／沖縄／原発”の項に「トモダチ作戦」東電訴訟ニュースニコ動コメントへのリンク追加
 layout: redirect

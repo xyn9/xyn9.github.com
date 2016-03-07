@@ -5,7 +5,7 @@ date: 2013-02-24 03:23
 link: /note/tumblr.25499949858.html#2013-02-24-0323
 style: wiki
 tags: ["wiki", "#25499949858"]
-target: /note/tumblr.25499949858.html
+target: /note/tumblr.25499949858
 title: メモ片#25499949858
 mtitle: “関連・その他”の項目に政党ブームについての動画コメントへのリンク追加
 layout: redirect

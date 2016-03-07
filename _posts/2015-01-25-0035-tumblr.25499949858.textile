@@ -7,7 +7,7 @@ mdescription: ＋Togetterまとめ(2015-01-25 15:59:38)
 link: /note/tumblr.25499949858.html#2015-01-25-0035
 style: wiki
 tags: ["wiki", "#25499949858"]
-target: /note/tumblr.25499949858.html
+target: /note/tumblr.25499949858
 title: メモ片#25499949858
 mtitle: “関連・その他”の項目にニュース記事＋はてブエントリへのリンク追加
 layout: redirect

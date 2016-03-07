@@ -5,7 +5,7 @@ date: 2015-07-22 16:06:37
 link: /note/tumblr.25499949858.html#2015-07-22-1606
 style: wiki
 tags: ["wiki", "#25499949858"]
-target: /note/tumblr.25499949858.html
+target: /note/tumblr.25499949858
 title: メモ片#25499949858
 mtitle: “日米／沖縄／原発”の項目に在沖米軍基地に関する記事へのリンク＋“関連・その他”に台湾サイトの※紹介ブログ引用メモ片
 layout: redirect

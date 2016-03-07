@@ -5,7 +5,7 @@ date: 2015-03-09 23:34
 link: /note/tumblr.25499949858.html#2015-03-09-2334
 style: wiki
 tags: ["wiki", "#25499949858"]
-target: /note/tumblr.25499949858.html
+target: /note/tumblr.25499949858
 title: メモ片#25499949858
 mtitle: “大阪ダブル選挙・維新の会”の項目にTogetterほかニュース・ブログ記事等へのリンク追加
 layout: redirect

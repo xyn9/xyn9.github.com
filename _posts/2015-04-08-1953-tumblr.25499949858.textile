@@ -5,7 +5,7 @@ date: 2015-04-08 19:53:15
 link: /note/tumblr.25499949858.html#2015-04-08-1953
 style: wiki
 tags: ["wiki", "#25499949858"]
-target: /note/tumblr.25499949858.html
+target: /note/tumblr.25499949858
 title: メモ片#25499949858
 mtitle: “日米／沖縄／原発”の項目に米軍基地建設と「ヘイトスピーチ」に関する記事へのリンク
 layout: redirect
