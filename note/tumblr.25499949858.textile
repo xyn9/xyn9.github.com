@@ -5,9 +5,9 @@ title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
 category: note
 tags: ["wiki", "#25499949858"] 
-mtitle: “第2次安倍政権”の項目に3月5日「報道特集」動画コメントへのリンク
-mdescription: 放送法・総務省「電波停止」問題
-date: 2016-03-06 23:55:02
+mtitle: “第2次安倍政権”の項目に「国境なき記者団」による年次の各国報道自由度ランクに関するブログ記事＋関連記事へのリンク
+mdescription: http://d.hatena.ne.jp/kojitaken/20150213/1423785793
+date: 2016-03-11 03:50
 ---
 {% include JB/setup %}
 
@@ -125,6 +125,8 @@ h2. %(title)第2次安倍政権%
 ** "蓮池透 元･北朝鮮拉致家族会副代表 安倍総理を強烈に非難 パート１（ニコ生・コメ入）":http://www.youtube.com/watch?v=xCjTtTX3wwc
 ** "蓮池透 元･北朝鮮拉致家族会副代表 安倍総理を強烈に非難 パート２（ニコ生・コメ入）":http://www.youtube.com/watch?v=FNKaRUSijbQ
 * "0305　特集":http://nicoco.net/sm28366569 ("@2016-03-06 23:55:02":http://megalodon.jp/2016-0306-2355-02/nicoco.net/sm28366569 )	[<a href="{{ BASE_PATH }}/data/sm28366569" name="2016-03-06-2355">data</a>]
+** <a name="2015-02-15-0105"></a>	"日本の「言論の自由度」低下を喜ぶ下衆な「安倍信者」どものブコメを晒しておく - kojitakenの日記":http://d.hatena.ne.jp/kojitaken/20150214/1423891761 ("@2015-02-15 01:05:35":http://megalodon.jp/2015-0215-0105-35/d.hatena.ne.jp/kojitaken/20150214/1423891761 )
+*** <a name="2015-02-13-0235"></a>	"はてなブックマーク - 「報道の自由」は世界で大きく低下、日本は61位に後退　写真3枚　国際ニュース：AFPBB News":http://b.hatena.ne.jp/entry/www.afpbb.com/articles/-/3039424 ("@2015-02-13 02:35:16":http://megalodon.jp/2015-0213-0235-16/b.hatena.ne.jp/entry/www.afpbb.com/articles/-/3039424 )
 
 
  =:
@@ -152,6 +154,7 @@ h2. %(title)第2次安倍政権%
 ** "メモ片#58247113341":http://xyn9.tumblr.com/post/58247113341
 ** "「あるべき大御心は我と共にあるはず」の狂気 - トッキーのどうがお願いします - ゴー宣ネット道場":https://www.gosen-dojo.com/index.php?key=jo6ozf2f6-736#_736 ("キャッシュ":http://megalodon.jp/2013-0131-0804-39/https://www.gosen-dojo.com:443/index.php?key=jo6ozf2f6-736 )
 *** "メモ片#41899023838":http://xyn9.tumblr.com/post/41899023838
+* <a name="2016-03-11-0350"></a>	"安倍晋三が総理大臣になると必ず下がる「報道の自由度」 - kojitakenの日記":http://d.hatena.ne.jp/kojitaken/20150213/1423785793 ("@2015-02-13 16:35:26":http://megalodon.jp/2015-0213-1635-26/d.hatena.ne.jp/kojitaken/20150213/1423785793 )
 
 
  =:
