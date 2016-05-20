@@ -1,0 +1,29 @@
+---
+layout: page
+---
+
+
+<p class="date"><span class="caption">Last modified:</span> <span class="timestamp">{{ site.time | date:"%Y-%m-%d %H:%M %Z" }}</span></p>
+
+
+
+{% assign gh_url = site.github.owner_url %}
+
+
+<h2><a href="{{ gh_url }}">/repos</a></h2>
+{% assign gh_repos = site.github.public_repositories | sort: "created_at" | reverse %}
+<dl>
+{% for repos in gh_repos %}{% assign cap_ch = repos.name | downcase | truncate: 3,'-' %}{% if cap_ch != "x--" and repos.name != site.github.project_title %}
+<dt><h3>/[<a href="{% if repos.homepage != "" %}{{ repos.homepage }}{% elsif repos.has_pages %}/{{ repos.name }}{% elsif repos.has_wiki %}{{ gh_url }}/{{ repos.name }}/wiki{% else %}{{ gh_url }}/{{ repos.name }}/releases{% endif %}">{{ repos.name }}</a>({{ repos.updated_at | date: site.theme.date_format }})</h3></dt>
+<dd>{{ repos.description }}</dd>
+{% endif %}{% endfor %}
+</dl>
+
+
+
+<h2><a href="http://gist.github.com/{{ site.github.owner_name }}">/gist</a></h2>
+
+
+
+
+
