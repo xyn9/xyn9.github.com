@@ -5,9 +5,9 @@ title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
 category: note
 tags: ["wiki", "#25499949858"] 
-mtitle: “第2次安倍政権”の項目に「国境なき記者団」による年次の各国報道自由度ランクに関するブログ記事＋関連記事へのリンク
-mdescription: http://d.hatena.ne.jp/kojitaken/20150213/1423785793
-date: 2016-03-11 03:50
+mtitle: “日米／沖縄／原発”の項目に施光恒准教授＠おはよう寺ちゃん動画コメントへのリンク
+mdescription: 
+date: 2016-05-21 19:27:14
 ---
 {% include JB/setup %}
 
@@ -38,8 +38,8 @@ date: 2016-03-11 03:50
 - [浜矩子「怖い。嫌な感じ。小泉現れた時みたい」橋下維新圧勝について](http://www.nicozon.net/msg/sm16294519) ([@2012-03-04 18:42:11](http://megalodon.jp/2012-0304-1842-11/www.nicozon.net/msg/sm16294519) )	\[<a href="/data/sm16294519" name="2012-03-04-1842">data</a>\]
 - [12/05【ただ選挙で勝つための小泉劇場と同じだ！】西田昌司【超人大陸】](http://www.nicozon.net/msg/sm16348831) ([@2012-06-20 19:09:04](http://megalodon.jp/2012-0620-1909-04/www.nicozon.net/msg/sm16348831) )	\[<a href="/data/sm16348831" name="2012-06-20-1909">data</a>\]
 - [9/17【超人大陸】藤井聡【維新八策を大胆採点！！】](http://www.nicozon.net/msg/sm18902820) ([@2012-09-17 19:29:57](http://megalodon.jp/2012-0917-1929-57/www.nicozon.net/msg/sm18902820) )	\[<a href="/data/sm18902820" name="2012-09-17-1929">data</a>\]
-- 	0. <a name="2012-09-17-1021"></a>	[IFd1fdfcxkSAPYXMiwR0zJIDeCY](http://www.nicozon.net/msg/sm18902820/IFd1fdfcxkSAPYXMiwR0zJIDeCY) ([@2012-09-17 10:21:18](http://megalodon.jp/2012-0917-1021-18/www.nicozon.net/msg/sm18902820/IFd1fdfcxkSAPYXMiwR0zJIDeCY) )
-  	1. <a name="2012-09-17-1940"></a>	[9Cla5ryBgda0yZuikW5abFKcLfc](http://www.nicozon.net/msg/sm18902820/9Cla5ryBgda0yZuikW5abFKcLfc) ([@2012-09-17 19:40:57](http://megalodon.jp/2012-0917-1940-57/www.nicozon.net/msg/sm18902820/9Cla5ryBgda0yZuikW5abFKcLfc) )
+	0. <a name="2012-09-17-1021"></a>	[IFd1fdfcxkSAPYXMiwR0zJIDeCY](http://www.nicozon.net/msg/sm18902820/IFd1fdfcxkSAPYXMiwR0zJIDeCY) ([@2012-09-17 10:21:18](http://megalodon.jp/2012-0917-1021-18/www.nicozon.net/msg/sm18902820/IFd1fdfcxkSAPYXMiwR0zJIDeCY) )
+	1. <a name="2012-09-17-1940"></a>	[9Cla5ryBgda0yZuikW5abFKcLfc](http://www.nicozon.net/msg/sm18902820/9Cla5ryBgda0yZuikW5abFKcLfc) ([@2012-09-17 19:40:57](http://megalodon.jp/2012-0917-1940-57/www.nicozon.net/msg/sm18902820/9Cla5ryBgda0yZuikW5abFKcLfc) )
 
 - [【藤井聡】『列島強靭化論』質疑応答前半3/4](http://www.nicozon.net/msg/sm19405090) ([@2012-11-22 22:13:51](http://megalodon.jp/2012-1122-2213-51/www.nicozon.net/msg/sm19405090) )	\[<a href="/data/sm19405090" name="2012-11-22-2230">data</a>\]
 - [【口蹄疫】東国原知事　会見でマスコミに激怒（2010/05/18）](http://www.nicozon.net/msg/sm10767857) ([@2012-12-02 21:48:25](http://megalodon.jp/2012-1202-2148-25/www.nicozon.net/msg/sm10767857) )	\[<a href="/data/sm10767857" name="2012-12-02-2156">data</a>\]
@@ -79,7 +79,7 @@ date: 2016-03-11 03:50
 
 - [西田ビジョン「西田昌司×藤井聡の維新を斬る！」](http://www.shukannishida.jp/nishidavision-fujii.html) / ([playlist](http://youtu.be/o4u9nxb77TA?lit=PLU_xxVlhKz1fuzaKz8ftITHL434Z3vtcw&index=3) )
 	- [Twitter\#579361696801693696](http://twitter.com/xyn9/status/579361696801693696)
-		- [視点・論点　「ハンナ・アーレントと”悪の凡庸さ”」 | 視点・論点 | 解説委員室:<span class="caps">NHK</span>](http://www.nhk.or.jp/kaisetsu-blog/400/191681.html) ([キャッシュ](http://megalodon.jp/2014-0628-1615-18/www.nhk.or.jp/kaisetsu-blog/400/191681.html) )
+		- [視点・論点　「ハンナ・アーレントと”悪の凡庸さ”」 \| 視点・論点 \| 解説委員室:NHK](http://www.nhk.or.jp/kaisetsu-blog/400/191681.html) ([キャッシュ](http://megalodon.jp/2014-0628-1615-18/www.nhk.or.jp/kaisetsu-blog/400/191681.html) )
 		- [読書ノート『グローバリズムが世界を滅ぼす』,pp.55-9](http://book.g.hatena.ne.jp/xyn9/20140705/isbn4166609741p55)
 
 #### <a name="2015-12-04-2151"></a>	「vs 高校生」関連
@@ -102,13 +102,13 @@ date: 2016-03-11 03:50
 	- <a name="2012-12-30-1829"></a>	[12月28日放送 大竹まことゴールデンラジオ – Togetter](http://togetter.com/li/431175)
 - [弱者を強調しすぎて違和感たっぷりな安倍政権へのナマポ削減批判](http://www.nicozon.net/msg/sm20004177) ([@2013-02-05 18:37:38](http://megalodon.jp/2013-0205-1837-38/www.nicozon.net/msg/sm20004177) )	\[<a href="/data/sm20004177" name="2013-02-05-1837">data</a>\]
 - [【柴山桂太】おはよう寺ちゃん 活動中 2013/08/14](http://www.nicozon.net/msg/sm21588806) ([@2013-08-14 18:06:59](http://megalodon.jp/2013-0814-1806-59/www.nicozon.net/msg/sm21588806) )	\[<a href="/data/sm21588806" name="2013-08-14-1806">data</a>\]
-- 	0. [8wG9EHi8cOhaThzsc8u1COQ3lqA](http://www.nicozon.net/msg/sm21588806/8wG9EHi8cOhaThzsc8u1COQ3lqA) ([@2013-08-14 18:06:46](http://megalodon.jp/2013-0814-1806-46/www.nicozon.net/msg/sm21588806/8wG9EHi8cOhaThzsc8u1COQ3lqA) )
+	0. [8wG9EHi8cOhaThzsc8u1COQ3lqA](http://www.nicozon.net/msg/sm21588806/8wG9EHi8cOhaThzsc8u1COQ3lqA) ([@2013-08-14 18:06:46](http://megalodon.jp/2013-0814-1806-46/www.nicozon.net/msg/sm21588806/8wG9EHi8cOhaThzsc8u1COQ3lqA) )
 	- [8月14日放送 おはよう寺ちゃん活動中 – Togetter](http://togetter.com/li/548706)
 - [【小林よしのり】ズーム そこまで言うか！ H25/08/17【女系天皇への道】](http://www.nicozon.net/msg/sm21614667) ([@2013-08-18 15:36:15](http://megalodon.jp/2013-0818-1536-15/www.nicozon.net/msg/sm21614667) )	\[<a href="/data/sm21614667" name="2013-08-18-1536">data</a>\]
-- 	0. [Tgg\_i-Pj6qyZtisJNsyDcNo0fJ8](http://www.nicozon.net/msg/sm21614667/Tgg_i-Pj6qyZtisJNsyDcNo0fJ8) ([@2013-08-18 15:36:23](http://megalodon.jp/2013-0818-1536-23/www.nicozon.net/msg/sm21614667/Tgg_i-Pj6qyZtisJNsyDcNo0fJ8) )
+	0. [Tgg\_i-Pj6qyZtisJNsyDcNo0fJ8](http://www.nicozon.net/msg/sm21614667/Tgg_i-Pj6qyZtisJNsyDcNo0fJ8) ([@2013-08-18 15:36:23](http://megalodon.jp/2013-0818-1536-23/www.nicozon.net/msg/sm21614667/Tgg_i-Pj6qyZtisJNsyDcNo0fJ8) )
 	- [8月17日放送 ズーム そこまで言うか！ – Togetter](http://togetter.com/li/550438)
 - [【宮崎哲弥】ザ･ボイス そこまで言うか！H26/03/25【日本と台湾の絆】](http://www.nicozon.net/msg/sm23175200) ([@2014-03-26 03:27:37](http://megalodon.jp/2014-0326-0327-37/www.nicozon.net/msg/sm23175200) )	\[<a href="/data/sm23175200" name="2014-03-26-0326">data</a>\]
-- 	0. [2-eGNFi\_omsiNJle\_ie3KmVmaFQ](http://www.nicozon.net/msg/sm23175200/2-eGNFi_omsiNJle_ie3KmVmaFQ) ([@2014-03-26 03:26:09](http://megalodon.jp/2014-0326-0326-09/www.nicozon.net/msg/sm23175200/2-eGNFi_omsiNJle_ie3KmVmaFQ) )
+	0. [2-eGNFi\_omsiNJle\_ie3KmVmaFQ](http://www.nicozon.net/msg/sm23175200/2-eGNFi_omsiNJle_ie3KmVmaFQ) ([@2014-03-26 03:26:09](http://megalodon.jp/2014-0326-0326-09/www.nicozon.net/msg/sm23175200/2-eGNFi_omsiNJle_ie3KmVmaFQ) )
 - [「イスラム国」日本人人質事件のミカタ](http://nicoco.net/sm25415259) ([@2015-01-24 23:11:03](http://megalodon.jp/2015-0124-2311-03/nicoco.net/sm25415259) )	\[<a href="/data/sm25415259" name="2015-01-24-2311">data</a>\]
 - [【保守】　漫画家　小林よしのり　（外国特派員協会　2015年8月10日）](http://nicoco.net/sm26905791) ([@2015-08-12 07:47:45](http://megalodon.jp/2015-0812-0747-45/nicoco.net/sm26905791) )	\[<a href="/data/sm26905791" name="2015-08-12-0747">data</a>\]
 - [【拉致被害者家族会追放の】蓮池透さん安倍批判会見](http://nicoco.net/sm27842576 "通訳カット版") ([@2015-12-24 12:01:30](http://megalodon.jp/2015-1224-1201-30/nicoco.net/sm27842576) )	\[<a href="/data/sm27842576" name="2015-12-22-1510">data</a>\]
@@ -135,7 +135,7 @@ date: 2016-03-11 03:50
 
 ### ブログ他
 
-- <a name="2015-06-19-2040"></a>	[日本会議に集まる宗教団体の面々――シリーズ【草の根保守の蠢動 第3回】 | ハーバービジネスオンライン](http://hbol.jp/28320) ([キャッシュ](http://megalodon.jp/2015-0619-2040-51/hbol.jp/28320) )
+- <a name="2015-06-19-2040"></a>	[日本会議に集まる宗教団体の面々――シリーズ【草の根保守の蠢動 第3回】 \| ハーバービジネスオンライン](http://hbol.jp/28320) ([キャッシュ](http://megalodon.jp/2015-0619-2040-51/hbol.jp/28320) )
 - [日本会議を追う（上）｜カナロコ｜神奈川新聞ニュース](http://www.kanaloco.jp/article/93999) ([キャッシュ](http://megalodon.jp/2015-0620-1729-30/www.kanaloco.jp/article/93999) )
 - [今日配信の『小林よしのりライジング』の見どころ – トッキーのどうがお願いします – ゴー宣ネット道場](https://www.gosen-dojo.com/index.php?key=jokuyhtqt-736#_736) ([キャッシュ](http://megalodon.jp/2013-0110-0440-57/https://www.gosen-dojo.com:443/index.php?key=jokuyhtqt-736) )
 	- [メモ片\#40110151001](http://xyn9.tumblr.com/post/40110151001)
@@ -158,13 +158,13 @@ date: 2016-03-11 03:50
 - [2012ニュースアンカー1017.avi](http://www.nicozon.net/msg/sm19144401) ([@2012-10-18 17:42:04](http://megalodon.jp/2012-1018-1742-04/www.nicozon.net/msg/sm19144401) )	\[<a href="/data/sm19144401" name="2012-10-18-1742">data</a>\]
 - [【岩上安身】原発ゼロ閣議決定撤回の裏側.](http://www.nicozon.net/msg/sm19182958) ([@2012-10-23 02:59:29](http://megalodon.jp/2012-1023-0259-29/www.nicozon.net/msg/sm19182958) )	\[<a href="/data/sm19182958" name="2012-10-23-0259">data</a>\]
 - [沖縄米兵による集団女性暴行致傷事件の真相](http://www.nicozon.net/msg/sm19274782) ([@2012-11-05 07:03:49](http://megalodon.jp/2012-1105-0703-49/www.nicozon.net/msg/sm19274782) )	\[<a href="/data/sm19274782" name="2012-11-05-0703">data</a>\]
-- 	0. <a name="2012-11-05-0703"></a>	[4MXdb\_04B9zCDUiFcgh6UrjELmU](http://www.nicozon.net/msg/sm19274782/4MXdb_04B9zCDUiFcgh6UrjELmU) ([@2012-11-05 07:03:32](http://megalodon.jp/2012-1105-0703-32/www.nicozon.net/msg/sm19274782/4MXdb_04B9zCDUiFcgh6UrjELmU) )
+	0. <a name="2012-11-05-0703"></a>	[4MXdb\_04B9zCDUiFcgh6UrjELmU](http://www.nicozon.net/msg/sm19274782/4MXdb_04B9zCDUiFcgh6UrjELmU) ([@2012-11-05 07:03:32](http://megalodon.jp/2012-1105-0703-32/www.nicozon.net/msg/sm19274782/4MXdb_04B9zCDUiFcgh6UrjELmU) )
 
 - [沖縄の米兵による集団強姦事件について。- 2012.10.17](http://www.nicozon.net/msg/sm19143469) ([@2012-11-19 07:51:06](http://megalodon.jp/2012-1119-0751-06/www.nicozon.net/msg/sm19143469) )	\[<a href="/data/sm19143469" name="2012-11-19-1408">data</a>\]
 - [2012.12.15　山本太郎　東京8区出馬　最終演説ラスト５分](http://www.nicozon.net/msg/sm19592187) ([@2012-12-18 00:54:36](http://megalodon.jp/2012-1218-0054-36/www.nicozon.net/msg/sm19592187) )	\[<a href="/data/sm19592187" name="2012-12-18-0054">data</a>\]
 - [「トモダチ作戦」で被ばく、巨額の賠償請求　東電に](http://www.nicozon.net/msg/sm19691725) ([@2012-12-28 16:12:45](http://megalodon.jp/2012-1228-1612-45/www.nicozon.net/msg/sm19691725) )	\[<a href="/data/sm19691725" name="2012-12-28-1612">data</a>\]
 - [【施光恒】おはよう寺ちゃん 活動中【月曜】2014/01/20](http://nicoco.net/sm22708797) ([@2015-11-24 10:16:16](http://megalodon.jp/2015-1124-1016-16/nicoco.net/sm22708797) )	\[<a href="/data/sm22708797" name="2014-01-21-0033">data</a>\]
-- 	0. <a name="2014-01-21-0117"></a>	[5WZW85MowsOAykR2xCieilrKYtY](http://www.nicozon.net/msg/sm22708797/5WZW85MowsOAykR2xCieilrKYtY) ([@2014-01-21 01:17:43](http://megalodon.jp/2014-0121-0117-43/www.nicozon.net/msg/sm22708797/5WZW85MowsOAykR2xCieilrKYtY) )
+	0. <a name="2014-01-21-0117"></a>	[5WZW85MowsOAykR2xCieilrKYtY](http://www.nicozon.net/msg/sm22708797/5WZW85MowsOAykR2xCieilrKYtY) ([@2014-01-21 01:17:43](http://megalodon.jp/2014-0121-0117-43/www.nicozon.net/msg/sm22708797/5WZW85MowsOAykR2xCieilrKYtY) )
 
 	- [1月20日放送 おはよう寺ちゃん活動中 – Togetter](http://togetter.com/li/618787)
 
@@ -172,10 +172,11 @@ date: 2016-03-11 03:50
 - [3/3【討論！】選挙結果とこれからの日本\[桜H26/12/20\]](http://nicoco.net/1419032245) ([@2014-12-21 20:01:24](http://megalodon.jp/2014-1221-2001-24/nicoco.net/1419032245) )	\[<a href="/data/so25157060" name="2014-12-21-2001">data</a>\]
 - [沖縄基地問題のミカタ](http://nicoco.net/sm25893696) ([@2015-03-29 00:01:47](http://megalodon.jp/2015-0329-0001-47/nicoco.net/sm25893696) )	\[<a href="/data/sm25893696" name="2015-03-29-0001">data</a>\]
 - [【西部邁ゼミナール】鳩山元首相が語る、米軍基地問題 2015.05.03](http://nicoco.net/sm26166624) ([@2015-05-03 16:09:26](http://megalodon.jp/2015-0503-1609-26/nicoco.net/sm26166624) )	\[<a href="/data/sm26166624" name="2015-05-03-1609">data</a>\]
-- 	0. [K6VNQobsIrwnvXnrGrxx61vFzfI](http://nico.xii.jp/comment/index.php?url=sm26166624&user_id=K6VNQobsIrwnvXnrGrxx61vFzfI) ([@2015-05-03 16:26:15](http://megalodon.jp/2015-0503-1626-15/nico.xii.jp/comment/index.php?url=sm26166624&user_id=K6VNQobsIrwnvXnrGrxx61vFzfI) )
+	0. [K6VNQobsIrwnvXnrGrxx61vFzfI](http://nico.xii.jp/comment/index.php?url=sm26166624&user_id=K6VNQobsIrwnvXnrGrxx61vFzfI) ([@2015-05-03 16:26:15](http://megalodon.jp/2015-0503-1626-15/nico.xii.jp/comment/index.php?url=sm26166624&user_id=K6VNQobsIrwnvXnrGrxx61vFzfI) )
 
 - [【佐藤健志】おはよう寺ちゃん 活動中【金曜】2015/05/29](http://nicoco.net/sm26363897) ([@2015-06-01 01:51:22](http://megalodon.jp/2015-0601-0151-22/nicoco.net/sm26363897) )	\[<a href="/data/sm26363897" name="2015-06-01-0151">data</a>\]
 	- [5月29日放送 おはよう寺ちゃん活動中 – Togetter](http://togetter.com/li/829098)
+- [【施光恒】おはよう寺ちゃん 活動中【金曜】2016/05/20](http://nicoco.net/sm28881265) ([@2016-05-21 19:27:14](http://megalodon.jp/2016-0521-1927-14/nicoco.net/sm28881265) )	\[<a href="/data/sm28881265" name="2016-05-21-1927">data</a>\]
 
 
 ### Twitter
@@ -196,7 +197,7 @@ date: 2016-03-11 03:50
 ### ブログ他
 
 - <a name="2015-04-08-1953"></a>	[基地が嫌なら引っ越せ！ ネットや右派論壇に横行するおぞましい沖縄ヘイトスピーチ｜LITERA／リテラ](http://lite-ra.com/2015/04/post-1000.html) ([キャッシュ](http://megalodon.jp/2015-0408-1953-15/lite-ra.com/2015/04/post-1000.html) )
-- <a name="2015-07-22-1606"></a>	[軍事的意味はない？　でも意義がある米海兵隊の沖縄駐留 – 台湾に海兵隊を投入する意味 | <span class="caps">THE</span> PAGE（ザ・ページ）](http://thepage.jp/detail/20150424-00000004-wordleaf?page=2) ([キャッシュ](http://megalodon.jp/2015-0722-1606-37/thepage.jp/detail/20150424-00000004-wordleaf?page=2) )
+- <a name="2015-07-22-1606"></a>	[軍事的意味はない？　でも意義がある米海兵隊の沖縄駐留 – 台湾に海兵隊を投入する意味 \| THE PAGE（ザ・ページ）](http://thepage.jp/detail/20150424-00000004-wordleaf?page=2) ([キャッシュ](http://megalodon.jp/2015-0722-1606-37/thepage.jp/detail/20150424-00000004-wordleaf?page=2) )
 
 
 
@@ -206,11 +207,11 @@ date: 2016-03-11 03:50
 ### 
 
 - [ニコニコ動画のコメントの年齢分析したら中学生がほとんどだった件 – いろいろ作りたい](http://d.hatena.ne.jp/gen256/20111105/1320503106) ([キャッシュ](http://megalodon.jp/2011-1107-1609-30/d.hatena.ne.jp/gen256/20111105/1320503106) )
-- [ニコニコ動画　3億コメント年齢層分析-<span class="caps">NICONICO</span> <span class="caps">COMMENT</span> <span class="caps">ANALYZER</span>](http://www.niconico-ca.net/pickup3-1.html) ([キャッシュ](http://web.archive.org/web/20120202204303/http://www.niconico-ca.net/pickup3-1.html) )
-- [村野瀬玲奈の秘書課広報室 | 東大話法とはネトウヨコメントである](http://muranoserena.blog91.fc2.com/blog-entry-3311.html) ([キャッシュ](http://megalodon.jp/2014-1223-0806-57/muranoserena.blog91.fc2.com/blog-entry-3311.html) ) / [何も言えねえ\#25511948078](http://xyn9-should-not-have-to-say.tumblr.com/post/25511948078)
+- [ニコニコ動画　3億コメント年齢層分析-NICONICO COMMENT ANALYZER](http://www.niconico-ca.net/pickup3-1.html) ([キャッシュ](http://web.archive.org/web/20120202204303/http://www.niconico-ca.net/pickup3-1.html) )
+- [村野瀬玲奈の秘書課広報室 \| 東大話法とはネトウヨコメントである](http://muranoserena.blog91.fc2.com/blog-entry-3311.html) ([キャッシュ](http://megalodon.jp/2014-1223-0806-57/muranoserena.blog91.fc2.com/blog-entry-3311.html) ) / [何も言えねえ\#25511948078](http://xyn9-should-not-have-to-say.tumblr.com/post/25511948078)
 - <a name="2012-09-18-1711"></a>	[読書ノート『日本破滅論』,pp.174-5](http://book.g.hatena.ne.jp/xyn9/20120912/1347452892) / [pp.172-3](http://book.g.hatena.ne.jp/xyn9/20130818/isbn4166608713p172)
 - <a name="2013-08-19-0222"></a>	[羽鳥剛史, 小松佳弘, 藤井聡: 大衆性尺度の構成―Ortega"大衆の反逆"に基づく大衆の心的構造分析―, 心理学研究, Vol. 79, No. 5, pp. 423-431. 2008.](https://www.jstage.jst.go.jp/article/jjpsy/79/5/79_5_423/_article/-char/ja/)
-- <a name="2014-12-22-0847"></a>	[魔女狩りの恐怖　セイラム村の魔女裁判｜幻解！超常ファイル | テレビのまとめ](http://tvmatome.net/archives/488) ([キャッシュ](http://megalodon.jp/2014-0907-1948-20/tvmatome.net/archives/488) )
+- <a name="2014-12-22-0847"></a>	[魔女狩りの恐怖　セイラム村の魔女裁判｜幻解！超常ファイル \| テレビのまとめ](http://tvmatome.net/archives/488) ([キャッシュ](http://megalodon.jp/2014-0907-1948-20/tvmatome.net/archives/488) )
 	- [Twitter\#508575636563058688](http://twitter.com/xyn9/status/508575636563058688)
 - [“ギャンブル依存症” – NHK　クローズアップ現代](http://www.nhk.or.jp/gendai/kiroku/detail02_3582_1.html) ([キャッシュ](http://megalodon.jp/2014-1216-0624-35/www.nhk.or.jp/gendai/kiroku/detail02_3582_1.html) ) / [Twitter\#534726635686072320](http://twitter.com/xyn9/status/534726635686072320)
 - <a name="2014-12-24-0737"></a>	[「ネット利用者の右傾化、その功罪について」 その3｜C.I.L. – （４）ネットウヨク系団体の正体](http://ameblo.jp/oharan/entry-11062227958.html) ([キャッシュ](http://megalodon.jp/2013-0412-2220-47/ameblo.jp/oharan/entry-11062227958.html) )
