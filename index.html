@@ -14,7 +14,7 @@ layout: page
 {% assign gh_repos = site.github.public_repositories | sort: "created_at" | reverse %}
 <dl>
 {% for repos in gh_repos %}{% assign cap_ch = repos.name | downcase | truncate: 3,'-' %}{% if cap_ch != "x--" and repos.name != site.github.project_title %}
-<dt><h3>/[<a href="{% if repos.homepage != "" %}{{ repos.homepage }}{% elsif repos.has_pages %}/{{ repos.name }}{% elsif repos.has_wiki %}{{ gh_url }}/{{ repos.name }}/wiki{% else %}{{ gh_url }}/{{ repos.name }}/releases{% endif %}">{{ repos.name }}</a>({{ repos.updated_at | date: site.theme.date_format }})</h3></dt>
+<dt><h3><a href="{% if repos.homepage != "" %}{{ repos.homepage }}{% elsif repos.has_pages %}/{{ repos.name }}{% elsif repos.has_wiki %}{{ gh_url }}/{{ repos.name }}/wiki{% else %}{{ gh_url }}/{{ repos.name }}/releases{% endif %}">/{{ repos.name }}</a></h3><span class="timestamp">({{ repos.updated_at | date: site.theme.date_format }})</span></dt>
 <dd>{{ repos.description }}</dd>
 {% endif %}{% endfor %}
 </dl>
