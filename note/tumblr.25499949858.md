@@ -5,9 +5,9 @@ title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
 category: note
 tags: ["wiki", "#25499949858"] 
-mtitle: “日米／沖縄／原発”の項目に施光恒准教授＠おはよう寺ちゃん動画コメントへのリンク
+mtitle: “日米／沖縄／原発”の項目に高江における機動隊員「土人」発言関連リンク
 mdescription: 
-date: 2016-05-21 19:27:14
+date: 2016-10-19 20:32
 ---
 {% include JB/setup %}
 
@@ -198,13 +198,17 @@ date: 2016-05-21 19:27:14
 
 - <a name="2015-04-08-1953"></a>	[基地が嫌なら引っ越せ！ ネットや右派論壇に横行するおぞましい沖縄ヘイトスピーチ｜LITERA／リテラ](http://lite-ra.com/2015/04/post-1000.html) ([キャッシュ](http://megalodon.jp/2015-0408-1953-15/lite-ra.com/2015/04/post-1000.html) )
 - <a name="2015-07-22-1606"></a>	[軍事的意味はない？　でも意義がある米海兵隊の沖縄駐留 – 台湾に海兵隊を投入する意味 \| THE PAGE（ザ・ページ）](http://thepage.jp/detail/20150424-00000004-wordleaf?page=2) ([キャッシュ](http://megalodon.jp/2015-0722-1606-37/thepage.jp/detail/20150424-00000004-wordleaf?page=2) )
+- <a name="2016-10-19-2032"></a>	[市民を「土人」呼ばわり　機動隊員、沖縄のヘリパッド建設現場　識者ら差別発言と批判 - 琉球新報](http://ryukyushimpo.jp/movie/entry-377736.html) ([キャッシュ](http://megalodon.jp/2016-1019-1501-37/ryukyushimpo.jp/movie/entry-377736.html))
+	- [「どこつかんどんじゃボケ。土人が」 機動隊員が沖縄で暴言　ヘリパッド反対の芥川賞作家に \| 沖縄タイムス＋プラス](http://www.okinawatimes.co.jp/articles/-/67175) ([キャッシュ](http://megalodon.jp/2016-1019-0843-04/www.okinawatimes.co.jp/articles/-/67175))
+	- [ネット上で差別される沖縄、福島、大阪、東京、群馬、福岡│NEWSポストセブン\(SAPIO2013年4月号\)](http://www.news-postseven.com/archives/20130323_176140.html) ([キャッシュ](http://megalodon.jp/2016-1019-2022-45/www.news-postseven.com/archives/20130323_176140.html
+))
 
 
 
 <span class="title">関連・その他</span>
 ---------------------------------------
 
-### 
+### ブログ他
 
 - [ニコニコ動画のコメントの年齢分析したら中学生がほとんどだった件 – いろいろ作りたい](http://d.hatena.ne.jp/gen256/20111105/1320503106) ([キャッシュ](http://megalodon.jp/2011-1107-1609-30/d.hatena.ne.jp/gen256/20111105/1320503106) )
 - [ニコニコ動画　3億コメント年齢層分析-NICONICO COMMENT ANALYZER](http://www.niconico-ca.net/pickup3-1.html) ([キャッシュ](http://web.archive.org/web/20120202204303/http://www.niconico-ca.net/pickup3-1.html) )
