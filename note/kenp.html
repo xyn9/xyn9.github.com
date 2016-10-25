@@ -37,23 +37,26 @@ date: 2015-09-28 08:15
 <ol title="{{ _group }}" style="list-style-type:cjk-ideographic;" start=0>
 {% assign _article = null %}
 {% assign _clause = null %}
+{% assign _idx_a = 0 %}
+{% assign _idx_c = 0 %}
+{% assign _idx_p = 0 %}
 {% for item in _kenp_list %}{% if item.group == _group and item.content != null %}
 
 	{% if item.article == null or item.article != _article %}
 		{% if _article != null %}</li>
-		</ol></li>{% endif %}
+		</ol></li>{% assign _idx_a = _idx_a | plus:1 %}{% endif %}
 		{% if item.article == null %}<h3>{{ item.content }}</h3>
-		{% else %}<li title="{{ item.section }}"><ol>
-		<li>{% endif %}
+		{% else %}<li title="{{ item.section }}"><a name="{{ _idx_a }}"></a><ol>{% assign _idx_c = 1 %}{% assign _idx_p = 0 %}
+		<li><a name="{{ _idx_a }}_{{ _idx_c }}"></a>{% endif %}
 
 	{% elsif item.clause != _clause %}
-		{% if _clause != null %}</li>{% endif %}
-		<li>
+		{% if _clause != null %}</li>{% assign _idx_c = _idx_c | plus:1 %}{% assign _idx_p = 0 %}{% endif %}
+		<li><a name="{{ _idx_a }}_{{ _idx_c }}"></a>
 	{% endif %}
 
 	{% if item.para != null %}
-		<p>{{ item.content }}</p>{% if item.interp != null %}<ul type="square" style="opacity:0.5;"><li><span class="footnote">{{ item.interp }}</span></li></ul>{% endif %}
-	{% endif %}
+		<p><a name="{{ _idx_a }}_{{ _idx_c }}_{{ _idx_p }}"></a>{{ item.content }}</p>{% if item.interp != null %}<ul type="square" style="opacity:0.5;"><li><span class="footnote">{{ item.interp }}</span></li></ul>{% endif %}
+	{% assign _idx_p = _idx_p | plus:1 %}{% endif %}
 
 	{% assign _article = item.article %}
 	{% assign _clause = item.clause %}
@@ -65,6 +68,9 @@ date: 2015-09-28 08:15
 {% endif %}
 {% assign _article = nil %}
 {% assign _clause = nil %}
+{% assign _idx_a = nil %}
+{% assign _idx_c = nil %}
+{% assign _idx_p = nil %}
 
 </ol>
 {% assign _group = nil %}
