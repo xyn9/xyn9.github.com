@@ -5,9 +5,9 @@ title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
 category: note
 tags: ["wiki", "#25499949858"] 
-mtitle: “日米／沖縄／原発”の項目に高江における大阪府警機動隊員「土人」発言関連リンク
-mdescription: 
-date: 2016-10-19 20:32
+mtitle: “第2次安倍政権”の項目に“ジーザス・キャンプ”関連リンク
+mdescription: https://twitter.com/xyn9/status/509362213904060416
+date: 2016-11-14 12:58:57
 ---
 {% include JB/setup %}
 
@@ -147,6 +147,11 @@ date: 2016-10-19 20:32
 	- [「あるべき大御心は我と共にあるはず」の狂気 – トッキーのどうがお願いします – ゴー宣ネット道場](https://www.gosen-dojo.com/index.php?key=jo6ozf2f6-736#_736) ([キャッシュ](http://megalodon.jp/2013-0131-0804-39/https://www.gosen-dojo.com:443/index.php?key=jo6ozf2f6-736) )
 		- [メモ片\#41899023838](http://xyn9.tumblr.com/post/41899023838)
 - <a name="2016-03-11-0350"></a>	[安倍晋三が総理大臣になると必ず下がる「報道の自由度」 – kojitakenの日記](http://d.hatena.ne.jp/kojitaken/20150213/1423785793) ([@2015-02-13 16:35:26](http://megalodon.jp/2015-0213-1635-26/d.hatena.ne.jp/kojitaken/20150213/1423785793) )
+- <a name="2016-11-14-1258"></a>	[「好きになった」\: ニコニコ動画「ジーザス・キャンプJESUS CAMP」＆東京ドームのビリー・グラハム（追記含）](http://hisamichi58.blogspot.jp/2008/02/jesus-camp.html)([キャッシュ](http://megalodon.jp/2016-1114-1258-57/hisamichi58.blogspot.jp/2008/02/jesus-camp.html))
+  - [メモ片\#69155858](http://xyn9.tumblr.com/post/69155858)
+  - [幼稚園に安倍晋三なんか呼んで、どんな話をしてもらうんだか \- ライプツィヒの夏](http://blog.goo.ne.jp/mccreary/e/1f181192203d86e817f4ce5c31f1289f)([キャッシュ](http://megalodon.jp/2014-0911-0000-38/blog.goo.ne.jp/mccreary/e/1f181192203d86e817f4ce5c31f1289f))
+    - [twitter\#509362213904060416](https://twitter.com/xyn9/status/509362213904060416)
+  - [twitter\#532190589333172225](https://twitter.com/xyn9/status/532190589333172225)
 
 
 
