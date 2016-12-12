@@ -5,9 +5,9 @@ title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
 category: note
 tags: ["wiki", "#25499949858"] 
-mtitle: “第2次安倍政権”の項目に“ジーザス・キャンプ”関連リンク
-mdescription: https://twitter.com/xyn9/status/509362213904060416
-date: 2016-11-14 12:58:57
+mtitle: “関連・その他”の項目に井上達夫×宮崎哲弥＠ザ・ボイス動画コメントへのリンク
+mdescription: 
+date: 2016-12-12 06:47:33
 ---
 {% include JB/setup %}
 
@@ -258,6 +258,7 @@ date: 2016-11-14 12:58:57
 - [テロ跡地にビル完成日本人建築家「幸せ」](http://www.nicozon.net/msg/sm22254180) ([@2013-11-16 10:04:13](http://megalodon.jp/2013-1116-1004-13/www.nicozon.net/msg/sm22254180) )	\[<a href="/data/sm22254180" name="2013-11-16-1004">data</a>\]
 - [「01.15 別寅Thunder」](http://www.nicovideo.jp/watch/sm22676668) ([@2014-01-16 00:47:05](http://megalodon.jp/2014-0116-0047-05/www.nicozon.net/msg/sm22676668) )	\[<a href="/data/sm22676668" name="2014-01-16-0047">data</a>\]
 - [被爆者団体 ２年余で３６団体解散](http://www.nicozon.net/msg/sm23250410) ([@2014-04-04 19:52:13](http://megalodon.jp/2014-0404-1952-13/www.nicozon.net/msg/sm23250410) )	\[<a href="/data/sm23250410" name="2014-04-04-1952">data</a>\]
+- <a name="2016-12-12-0647"></a>	[ザ・ボイス そこまで言うか！ 12月1日(木) 宮崎哲弥＋井上達夫](http://nicoco.net/sm30147346)([@2016-12-12 06:47:33](http://megalodon.jp/2016-1212-0647-33/nicoco.net/sm30147346))
 
 
 ### YouTube
