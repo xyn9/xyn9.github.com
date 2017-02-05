@@ -5,9 +5,9 @@ title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
 category: note
 tags: ["wiki", "#25499949858"] 
-mtitle: “関連・その他”の項目に井上達夫×宮崎哲弥＠ザ・ボイス動画コメントへのリンク
-mdescription: 
-date: 2016-12-12 06:47:33
+mtitle: “関連・その他”の項目にASCII.jp「グラフで見るニコニコ動画」の政治タグ解説記事へのリンク
+mdescription: http://ascii.jp/elem/000/000/802/802947/
+date: 2017-02-05 17:02
 ---
 {% include JB/setup %}
 
@@ -223,6 +223,7 @@ date: 2016-12-12 06:47:33
 
 ### ブログ他
 
+- <a name="2017-02-05-1702"></a>	[ASCII.jp：参院選公示日にニコニコ動画の政治タグを解説してみた \(1\/2\)｜myrmecoleonの「グラフで見るニコニコ動画」](http://ascii.jp/elem/000/000/802/802947/)([キャッシュ](http://archive.is/2017.02.05-170252/http://ascii.jp/elem/000/000/802/802947/))
 - [ニコニコ動画のコメントの年齢分析したら中学生がほとんどだった件 – いろいろ作りたい](http://d.hatena.ne.jp/gen256/20111105/1320503106) ([キャッシュ](http://megalodon.jp/2011-1107-1609-30/d.hatena.ne.jp/gen256/20111105/1320503106) )
 - [ニコニコ動画　3億コメント年齢層分析-NICONICO COMMENT ANALYZER](http://www.niconico-ca.net/pickup3-1.html) ([キャッシュ](http://web.archive.org/web/20120202204303/http://www.niconico-ca.net/pickup3-1.html) )
 - [村野瀬玲奈の秘書課広報室 \| 東大話法とはネトウヨコメントである](http://muranoserena.blog91.fc2.com/blog-entry-3311.html) ([キャッシュ](http://megalodon.jp/2014-1223-0806-57/muranoserena.blog91.fc2.com/blog-entry-3311.html) ) / [何も言えねえ\#25511948078](http://xyn9-should-not-have-to-say.tumblr.com/post/25511948078)
