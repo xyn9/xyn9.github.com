@@ -5,9 +5,9 @@ title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
 category: note
 tags: ["wiki", "#25499949858"] 
-mtitle: “関連・その他”の項目にASCII.jp「グラフで見るニコニコ動画」の政治タグ解説記事へのリンク
-mdescription: http://ascii.jp/elem/000/000/802/802947/
-date: 2017-02-05 17:02
+mtitle: “第2次安倍政権”の項目に日本版“ジーザス・キャンプ”関連リンク
+mdescription: http://lite-ra.com/2017/02/post-2920.html
+date: 2017-02-14 17:15
 ---
 {% include JB/setup %}
 
@@ -152,6 +152,7 @@ date: 2017-02-05 17:02
   - [幼稚園に安倍晋三なんか呼んで、どんな話をしてもらうんだか \- ライプツィヒの夏](http://blog.goo.ne.jp/mccreary/e/1f181192203d86e817f4ce5c31f1289f)([キャッシュ](http://megalodon.jp/2014-0911-0000-38/blog.goo.ne.jp/mccreary/e/1f181192203d86e817f4ce5c31f1289f))
     - [twitter\#509362213904060416](https://twitter.com/xyn9/status/509362213904060416)
   - [twitter\#532190589333172225](https://twitter.com/xyn9/status/532190589333172225)
+  - <a name="2017-02-14-1715"></a>	[国有地を7分の1の値段で取得“愛国カルト小学校”の名前は「安倍晋三記念小学校」だった！ 保護者にヘイト攻撃も｜LITERA／リテラ](http://lite-ra.com/2017/02/post-2920.html)([キャッシュ](http://archive.is/2017.02.14-171525/http://lite-ra.com/2017/02/post-2920_3.html))
 
 
 
