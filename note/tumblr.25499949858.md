@@ -5,9 +5,9 @@ title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
 category: note
 tags: ["wiki", "#25499949858"] 
-mtitle: “第2次安倍政権”の項目に日本版“ジーザス・キャンプ”関連リンク
-mdescription: http://lite-ra.com/2017/02/post-2920.html
-date: 2017-02-14 17:15
+mtitle: “第2次安倍政権”の項目に厚労省の「国旗国歌」指針ニュース記事へのリンク
+mdescription: ＋日本版“ジーザス・キャンプ”の小見出し化と追記・整理
+date: 2017-02-15 13:00
 ---
 {% include JB/setup %}
 
@@ -147,12 +147,19 @@ date: 2017-02-14 17:15
 	- [「あるべき大御心は我と共にあるはず」の狂気 – トッキーのどうがお願いします – ゴー宣ネット道場](https://www.gosen-dojo.com/index.php?key=jo6ozf2f6-736#_736) ([キャッシュ](http://megalodon.jp/2013-0131-0804-39/https://www.gosen-dojo.com:443/index.php?key=jo6ozf2f6-736) )
 		- [メモ片\#41899023838](http://xyn9.tumblr.com/post/41899023838)
 - <a name="2016-03-11-0350"></a>	[安倍晋三が総理大臣になると必ず下がる「報道の自由度」 – kojitakenの日記](http://d.hatena.ne.jp/kojitaken/20150213/1423785793) ([@2015-02-13 16:35:26](http://megalodon.jp/2015-0213-1635-26/d.hatena.ne.jp/kojitaken/20150213/1423785793) )
+
+#### <a name="2017-02-15-1300"></a>	日本版“ジーザス・キャンプ”
+
 - <a name="2016-11-14-1258"></a>	[「好きになった」\: ニコニコ動画「ジーザス・キャンプJESUS CAMP」＆東京ドームのビリー・グラハム（追記含）](http://hisamichi58.blogspot.jp/2008/02/jesus-camp.html)([キャッシュ](http://megalodon.jp/2016-1114-1258-57/hisamichi58.blogspot.jp/2008/02/jesus-camp.html))
-  - [メモ片\#69155858](http://xyn9.tumblr.com/post/69155858)
-  - [幼稚園に安倍晋三なんか呼んで、どんな話をしてもらうんだか \- ライプツィヒの夏](http://blog.goo.ne.jp/mccreary/e/1f181192203d86e817f4ce5c31f1289f)([キャッシュ](http://megalodon.jp/2014-0911-0000-38/blog.goo.ne.jp/mccreary/e/1f181192203d86e817f4ce5c31f1289f))
-    - [twitter\#509362213904060416](https://twitter.com/xyn9/status/509362213904060416)
-  - [twitter\#532190589333172225](https://twitter.com/xyn9/status/532190589333172225)
-  - <a name="2017-02-14-1715"></a>	[国有地を7分の1の値段で取得“愛国カルト小学校”の名前は「安倍晋三記念小学校」だった！ 保護者にヘイト攻撃も｜LITERA／リテラ](http://lite-ra.com/2017/02/post-2920.html)([キャッシュ](http://archive.is/2017.02.14-171525/http://lite-ra.com/2017/02/post-2920_3.html))
+	- [メモ片\#69155858](http://xyn9.tumblr.com/post/69155858)
+	- [twitter\#509362213904060416](https://twitter.com/xyn9/status/509362213904060416)
+	- [幼稚園に安倍晋三なんか呼んで、どんな話をしてもらうんだか \- ライプツィヒの夏](http://blog.goo.ne.jp/mccreary/e/1f181192203d86e817f4ce5c31f1289f)([キャッシュ](http://megalodon.jp/2014-0911-0000-38/blog.goo.ne.jp/mccreary/e/1f181192203d86e817f4ce5c31f1289f))
+		- [twitter\#509717823640195077](https://twitter.com/xyn9/status/509717823640195077)
+	- <a name="2017-02-15-1259"></a>	[自由なラジオ Light Up\! 034回■緊急報告『豊中市私立小学校建設を巡る疑惑とは？』](http://jiyunaradio.jp/personality/archive/034/)([キャッシュ](http://megalodon.jp/2017-0215-1259-57/jiyunaradio.jp/personality/archive/034/)) / https://youtu.be/G9D-uydAtCk?t=37m23s
+		- [twitter\#801019693104365568](https://twitter.com/xyn9/status/801019693104365568)
+		- [学校法人に大阪の国有地売却　価格非公表、近隣の１割か：朝日新聞デジタル](http://www.asahi.com/articles/ASK264H4YK26PPTB00J.html)([キャッシュ](http://megalodon.jp/?url=http%3A%2F%2Fwww.asahi.com%2Farticles%2FASK264H4YK26PPTB00J.html))
+		- <a name="2017-02-14-1715"></a>	[国有地を7分の1の値段で取得“愛国カルト小学校”の名前は「安倍晋三記念小学校」だった！ 保護者にヘイト攻撃も｜LITERA／リテラ](http://lite-ra.com/2017/02/post-2920.html)([キャッシュ](http://archive.is/2017.02.14-171525/http://lite-ra.com/2017/02/post-2920_3.html))
+	- [保育所でも国旗国歌、厚労省　新指針公表、押し付け懸念も \- 共同通信 47NEWS](https://this.kiji.is/204175374750924802)([キャッシュ](http://megalodon.jp/?url=https%3A%2F%2Fthis.kiji.is%2F204175374750924802))
 
 
 
