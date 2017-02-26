@@ -5,9 +5,9 @@ title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
 category: note
 tags: ["wiki", "#25499949858"] 
-mtitle: “第2次安倍政権”の項目に厚労省の「国旗国歌」指針ニュース記事へのリンク
-mdescription: ＋日本版“ジーザス・キャンプ”の小見出し化と追記・整理
-date: 2017-02-15 13:00
+mtitle: “第2次安倍政権”の項目に日本版“ジーザス・キャンプ”「選手宣誓」関連リンク
+mdescription: http://webnews.asahi.co.jp/abc_1_001_20170225011.html
+date: 2017-02-27 02:23:08
 ---
 {% include JB/setup %}
 
@@ -155,6 +155,8 @@ date: 2017-02-15 13:00
 	- [twitter\#509362213904060416](https://twitter.com/xyn9/status/509362213904060416)
 	- [幼稚園に安倍晋三なんか呼んで、どんな話をしてもらうんだか \- ライプツィヒの夏](http://blog.goo.ne.jp/mccreary/e/1f181192203d86e817f4ce5c31f1289f)([キャッシュ](http://megalodon.jp/2014-0911-0000-38/blog.goo.ne.jp/mccreary/e/1f181192203d86e817f4ce5c31f1289f))
 		- [twitter\#509717823640195077](https://twitter.com/xyn9/status/509717823640195077)
+		- <a name="2017-02-27-0223"></a>	[森友学園・塚本幼稚園、教育基本法に違反する政治活動を行っている「個別具体的事例」 \| ハーバービジネスオンライン \| ページ 2](https://hbol.jp:443/130689?page=2)([キャッシュ](http://megalodon.jp/2017-0227-0223-08/https://hbol.jp:443/130689?page=2))
+			- [ABC WEBNEWS｜【森友学園】「安倍総理がんばれ！」園児に宣誓させる](http://webnews.asahi.co.jp/abc_1_001_20170225011.html)([キャッシュ](http://megalodon.jp/2017-0226-2021-22/webnews.asahi.co.jp/abc_1_001_20170225011.html))
 	- <a name="2017-02-15-1259"></a>	[自由なラジオ Light Up\! 034回■緊急報告『豊中市私立小学校建設を巡る疑惑とは？』](http://jiyunaradio.jp/personality/archive/034/)([キャッシュ](http://megalodon.jp/2017-0215-1259-57/jiyunaradio.jp/personality/archive/034/)) / https://youtu.be/G9D-uydAtCk?t=37m23s
 		- [twitter\#801019693104365568](https://twitter.com/xyn9/status/801019693104365568)
 		- [学校法人に大阪の国有地売却　価格非公表、近隣の１割か：朝日新聞デジタル](http://www.asahi.com/articles/ASK264H4YK26PPTB00J.html)([キャッシュ](http://megalodon.jp/?url=http%3A%2F%2Fwww.asahi.com%2Farticles%2FASK264H4YK26PPTB00J.html))
