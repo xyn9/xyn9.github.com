@@ -6,8 +6,8 @@ description: http://xyn9.tumblr.com/post/25499949858
 category: note
 tags: ["wiki", "#25499949858"] 
 mtitle: “第2次安倍政権”の項目に日本版“ジーザス・キャンプ”関連リンク
-mdescription: http://iwj.co.jp/wj/open/archives/365239
-date: 2017-03-07 02:42:43
+mdescription: 
+date: 2017-03-31 00:00:00
 ---
 {% include JB/setup %}
 
@@ -157,13 +157,14 @@ date: 2017-03-07 02:42:43
 		- [twitter\#509717823640195077](https://twitter.com/xyn9/status/509717823640195077)
 		- <a name="2017-02-27-0223"></a>	[森友学園・塚本幼稚園、教育基本法に違反する政治活動を行っている「個別具体的事例」 \| ハーバービジネスオンライン \| ページ 2](https://hbol.jp:443/130689?page=2)([キャッシュ](http://megalodon.jp/2017-0227-0223-08/https://hbol.jp:443/130689?page=2))
 			- [ABC WEBNEWS｜【森友学園】「安倍総理がんばれ！」園児に宣誓させる](http://webnews.asahi.co.jp/abc_1_001_20170225011.html)([キャッシュ](http://megalodon.jp/2017-0226-2021-22/webnews.asahi.co.jp/abc_1_001_20170225011.html))
-	- <a name="2017-02-15-1259"></a>	[自由なラジオ Light Up\! 034回■緊急報告『豊中市私立小学校建設を巡る疑惑とは？』](http://jiyunaradio.jp/personality/archive/034/)([キャッシュ](http://megalodon.jp/2017-0215-1259-57/jiyunaradio.jp/personality/archive/034/)) / https://youtu.be/G9D-uydAtCk?t=37m23s
-		- [twitter\#801019693104365568](https://twitter.com/xyn9/status/801019693104365568)
-		- [学校法人に大阪の国有地売却　価格非公表、近隣の１割か：朝日新聞デジタル](http://www.asahi.com/articles/ASK264H4YK26PPTB00J.html)([キャッシュ](http://megalodon.jp/?url=http%3A%2F%2Fwww.asahi.com%2Farticles%2FASK264H4YK26PPTB00J.html))
 		- <a name="2017-02-14-1715"></a>	[国有地を7分の1の値段で取得“愛国カルト小学校”の名前は「安倍晋三記念小学校」だった！ 保護者にヘイト攻撃も｜LITERA／リテラ](http://lite-ra.com/2017/02/post-2920.html)([キャッシュ](http://archive.is/2017.02.14-171525/http://lite-ra.com/2017/02/post-2920_3.html))
 		- <a name="2017-03-07-0242"></a>	[虐待!? 恫喝!? 塚本幼稚園を内側から見てきた元関係者に岩上安身が独占スクープインタビュー！ 保護者すら知らない塚本幼稚園内部の衝撃の告発!! 〜「極右学校法人の闇」第28弾 \| IWJ Independent Web Journal](http://iwj.co.jp/wj/open/archives/365239)([キャッシュ](http://megalodon.jp/2017-0307-0242-43/iwj.co.jp/wj/open/archives/365239))
 			- [twitter\#838339219252641792](https://twitter.com/xyn9/status/838339219252641792)
-	- [保育所でも国旗国歌、厚労省　新指針公表、押し付け懸念も \- 共同通信 47NEWS](https://this.kiji.is/204175374750924802)([キャッシュ](http://megalodon.jp/?url=https%3A%2F%2Fthis.kiji.is%2F204175374750924802))
+		- [保育所でも国旗国歌、厚労省　新指針公表、押し付け懸念も \- 共同通信 47NEWS](https://this.kiji.is/204175374750924802)([キャッシュ](http://megalodon.jp/?url=https%3A%2F%2Fthis.kiji.is%2F204175374750924802))
+		- <a name="2017-03-31-0000"></a>	[新理事長より皆様へ｜新着情報｜塚本幼稚園幼児教育学園](http://www.tukamotoyouchien.ed.jp/information/%e6%96%b0%e7%90%86%e4%ba%8b%e9%95%b7%e3%82%88%e3%82%8a%e7%9a%86%e6%a7%98%e3%81%b8/)([キャッシュ](http://megalodon.jp/2017-0331-0132-01/www.tukamotoyouchien.ed.jp/information/%e6%96%b0%e7%90%86%e4%ba%8b%e9%95%b7%e3%82%88%e3%82%8a%e7%9a%86%e6%a7%98%e3%81%b8/))
+	- <a name="2017-02-15-1259"></a>	[自由なラジオ Light Up\! 034回■緊急報告『豊中市私立小学校建設を巡る疑惑とは？』](http://jiyunaradio.jp/personality/archive/034/)([キャッシュ](http://megalodon.jp/2017-0215-1259-57/jiyunaradio.jp/personality/archive/034/)) / https://youtu.be/G9D-uydAtCk?t=37m23s
+		- [twitter\#801019693104365568](https://twitter.com/xyn9/status/801019693104365568)
+		- [学校法人に大阪の国有地売却　価格非公表、近隣の１割か：朝日新聞デジタル](http://www.asahi.com/articles/ASK264H4YK26PPTB00J.html)([キャッシュ](http://megalodon.jp/?url=http%3A%2F%2Fwww.asahi.com%2Farticles%2FASK264H4YK26PPTB00J.html))
 
 
 
