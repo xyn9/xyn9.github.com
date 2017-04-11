@@ -5,9 +5,9 @@ title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
 category: note
 tags: ["wiki", "#25499949858"] 
-mtitle: “第2次安倍政権”の項目に首相夫妻と霊感商法に関する記事へのリンク
-mdescription: https://www.gosen-dojo.com/index.php?key=jo1yitprk-760#_760
-date: 2017-04-11 18:07:19
+mtitle: “第2次安倍政権”の項目に神道政治連盟関連各記事へのリンク
+mdescription: https://twitter.com/xyn9/status/524240101182672896
+date: 2017-04-11 20:45
 ---
 {% include JB/setup %}
 
@@ -147,24 +147,27 @@ date: 2017-04-11 18:07:19
 	- [メモ片\#58247113341](http://xyn9.tumblr.com/post/58247113341)
 	- [「あるべき大御心は我と共にあるはず」の狂気 – トッキーのどうがお願いします – ゴー宣ネット道場](https://www.gosen-dojo.com/index.php?key=jo6ozf2f6-736#_736) ([キャッシュ](http://megalodon.jp/2013-0131-0804-39/https://www.gosen-dojo.com:443/index.php?key=jo6ozf2f6-736) )
 		- [メモ片\#41899023838](http://xyn9.tumblr.com/post/41899023838)
+	- <a name="2016-09-07-0552"></a>	[清洲山王宮日吉神社｜宮司のブログ : 神政連の思想の問題点](http://hiyoshikami.jp/hiyoshiblog/?p=297)([キャッシュ](http://megalodon.jp/2016-0907-0552-44/hiyoshikami.jp/hiyoshiblog/?p=297))
+- <a name="2017-04-11-2045"></a>	[\(3ページ目\)在特会より危険\!\? 安倍内閣を支配する極右団体・神社本庁の本質｜LITERA／リテラ](http://lite-ra.com/2014/10/post-558_3.html)([キャッシュ](http://archive.is/2014.10.19-095046/http://lite-ra.com/2014/10/post-558_3.html))
+	- [twitter\#524240101182672896](http://twitter.com/xyn9/status/524240101182672896)
 - <a name="2016-03-11-0350"></a>	[安倍晋三が総理大臣になると必ず下がる「報道の自由度」 – kojitakenの日記](http://d.hatena.ne.jp/kojitaken/20150213/1423785793) ([@2015-02-13 16:35:26](http://megalodon.jp/2015-0213-1635-26/d.hatena.ne.jp/kojitaken/20150213/1423785793) )
 
 #### <a name="2017-02-15-1300"></a>	日本版“ジーザス・キャンプ”
 
 - <a name="2016-11-14-1258"></a>	[「好きになった」\: ニコニコ動画「ジーザス・キャンプJESUS CAMP」＆東京ドームのビリー・グラハム（追記含）](http://hisamichi58.blogspot.jp/2008/02/jesus-camp.html)([キャッシュ](http://megalodon.jp/2016-1114-1258-57/hisamichi58.blogspot.jp/2008/02/jesus-camp.html))
 	- [メモ片\#69155858](http://xyn9.tumblr.com/post/69155858)
-	- [twitter\#509362213904060416](https://twitter.com/xyn9/status/509362213904060416)
+	- [twitter\#509362213904060416](http://twitter.com/xyn9/status/509362213904060416)
 	- [幼稚園に安倍晋三なんか呼んで、どんな話をしてもらうんだか \- ライプツィヒの夏](http://blog.goo.ne.jp/mccreary/e/1f181192203d86e817f4ce5c31f1289f)([キャッシュ](http://megalodon.jp/2014-0911-0000-38/blog.goo.ne.jp/mccreary/e/1f181192203d86e817f4ce5c31f1289f))
-		- [twitter\#509717823640195077](https://twitter.com/xyn9/status/509717823640195077)
+		- [twitter\#509717823640195077](http://twitter.com/xyn9/status/509717823640195077)
 		- <a name="2017-02-27-0223"></a>	[森友学園・塚本幼稚園、教育基本法に違反する政治活動を行っている「個別具体的事例」 \| ハーバービジネスオンライン \| ページ 2](https://hbol.jp:443/130689?page=2)([キャッシュ](http://megalodon.jp/2017-0227-0223-08/https://hbol.jp:443/130689?page=2))
 			- [ABC WEBNEWS｜【森友学園】「安倍総理がんばれ！」園児に宣誓させる](http://webnews.asahi.co.jp/abc_1_001_20170225011.html)([キャッシュ](http://megalodon.jp/2017-0226-2021-22/webnews.asahi.co.jp/abc_1_001_20170225011.html))
 		- <a name="2017-02-14-1715"></a>	[国有地を7分の1の値段で取得“愛国カルト小学校”の名前は「安倍晋三記念小学校」だった！ 保護者にヘイト攻撃も｜LITERA／リテラ](http://lite-ra.com/2017/02/post-2920.html)([キャッシュ](http://archive.is/2017.02.14-171525/http://lite-ra.com/2017/02/post-2920_3.html))
 		- <a name="2017-03-07-0242"></a>	[虐待!? 恫喝!? 塚本幼稚園を内側から見てきた元関係者に岩上安身が独占スクープインタビュー！ 保護者すら知らない塚本幼稚園内部の衝撃の告発!! 〜「極右学校法人の闇」第28弾 \| IWJ Independent Web Journal](http://iwj.co.jp/wj/open/archives/365239)([キャッシュ](http://megalodon.jp/2017-0307-0242-43/iwj.co.jp/wj/open/archives/365239))
-			- [twitter\#838339219252641792](https://twitter.com/xyn9/status/838339219252641792)
+			- [twitter\#838339219252641792](http://twitter.com/xyn9/status/838339219252641792)
 		- [保育所でも国旗国歌、厚労省　新指針公表、押し付け懸念も \- 共同通信 47NEWS](https://this.kiji.is/204175374750924802)([キャッシュ](http://megalodon.jp/?url=https%3A%2F%2Fthis.kiji.is%2F204175374750924802))
 		- <a name="2017-03-31-0000"></a>	[新理事長より皆様へ｜新着情報｜塚本幼稚園幼児教育学園](http://www.tukamotoyouchien.ed.jp/information/%e6%96%b0%e7%90%86%e4%ba%8b%e9%95%b7%e3%82%88%e3%82%8a%e7%9a%86%e6%a7%98%e3%81%b8/)([キャッシュ](http://megalodon.jp/2017-0331-0132-01/www.tukamotoyouchien.ed.jp/information/%e6%96%b0%e7%90%86%e4%ba%8b%e9%95%b7%e3%82%88%e3%82%8a%e7%9a%86%e6%a7%98%e3%81%b8/))
 	- <a name="2017-02-15-1259"></a>	[自由なラジオ Light Up\! 034回■緊急報告『豊中市私立小学校建設を巡る疑惑とは？』](http://jiyunaradio.jp/personality/archive/034/)([キャッシュ](http://megalodon.jp/2017-0215-1259-57/jiyunaradio.jp/personality/archive/034/)) / https://youtu.be/G9D-uydAtCk?t=37m23s
-		- [twitter\#801019693104365568](https://twitter.com/xyn9/status/801019693104365568)
+		- [twitter\#801019693104365568](http://twitter.com/xyn9/status/801019693104365568)
 		- [学校法人に大阪の国有地売却　価格非公表、近隣の１割か：朝日新聞デジタル](http://www.asahi.com/articles/ASK264H4YK26PPTB00J.html)([キャッシュ](http://megalodon.jp/?url=http%3A%2F%2Fwww.asahi.com%2Farticles%2FASK264H4YK26PPTB00J.html))
 
 
