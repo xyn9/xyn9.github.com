@@ -5,9 +5,9 @@ title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
 category: note
 tags: ["wiki", "#25499949858"] 
-mtitle: “第2次安倍政権”の項目に日本版“ジーザス・キャンプ”関連リンク
-mdescription: 
-date: 2017-03-31 00:00:00
+mtitle: “第2次安倍政権”の項目に首相夫妻と霊感商法に関する記事へのリンク
+mdescription: https://www.gosen-dojo.com/index.php?key=jo1yitprk-760#_760
+date: 2017-04-11 18:07:19
 ---
 {% include JB/setup %}
 
@@ -126,6 +126,7 @@ date: 2017-03-31 00:00:00
 
 - <a name="2013-03-28-0343"></a>	[テロ特措法どころではない安倍首相 霊視で組閣 「四人の神」 慧光塾](http://www.youtube.com/watch?v=E6ylRXgfSFY) ([@2013-03-28 03:40:58](http://megalodon.jp/2013-0328-0340-58/www.youtube.com/all_comments?v=E6ylRXgfSFY&threaded=1) )
 	- 同上ニコニコに転載されていたもの [sm20444587](http://www.nicozon.net/msg/sm20444587) ([@2013-03-28 03:40:15](http://megalodon.jp/2013-0328-0340-15/www.nicozon.net/msg/sm20444587) ) / [sm20444274](http://www.nicozon.net/msg/sm20444274) ([@2013-03-28 03:43:11](http://megalodon.jp/2013-0328-0343-11/www.nicozon.net/msg/sm20444274) )
+	- <a name="2017-04-11-1807"></a>	[特別公開「安倍晋三・昭恵夫妻のカルト信仰、霊感頼み」 - 泉美木蘭の『無鉄砲ですけど！？』- ゴー宣ネット道場](https://www.gosen-dojo.com:443/index.php?key=jo1yitprk-760#_760)([キャッシュ](http://megalodon.jp/2017-0411-1807-19/https://www.gosen-dojo.com:443/index.php?key=jo1yitprk-760))
 
 
 ### Twitter
