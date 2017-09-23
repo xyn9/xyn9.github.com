@@ -61,7 +61,7 @@ date: 2017-09-23 06:23:53
 - <a name="2015-05-11-1738"></a>	[橋下徹の迷惑電話の深層と選挙コンサルの話 – Togetter](http://togetter.com/li/819195)
 	- [Twitter\#597312559889289217](http://twitter.com/xyn9/status/597312559889289217)
 - <a name="2015-11-23-0959"></a>	[西谷文和氏(@saveiraq)の橋下徹・元大阪府知事の「WTCビルへの府庁舎移転問題」で提訴に至った想い – Togetter](http://togetter.com/li/240312)
-- <a name="2017-09-23-0623"></a>	[野党を叩き嫌韓を煽るブログ記事やYouTube動画、1本数十円のクラウドソーシングで大量生産されていた   BUZZAP！（バザップ！）](http://buzzap.jp/news/20170922-anti-opposition-party-blog-movie-crowdworks/)([キャッシュ](http://archive.is/2017.09.23-062353/http://buzzap.jp/news/20170922-anti-opposition-party-blog-movie-crowdworks/) ) → [2012-07-17](/note/tumblr.25499949858#2012-07-17-0635)
+- <a name="2017-09-23-0623"></a>	[野党を叩き嫌韓を煽るブログ記事やYouTube動画、1本数十円のクラウドソーシングで大量生産されていた   BUZZAP！（バザップ！）](http://buzzap.jp/news/20170922-anti-opposition-party-blog-movie-crowdworks/)([キャッシュ](http://archive.is/2017.09.23-062353/http://buzzap.jp/news/20170922-anti-opposition-party-blog-movie-crowdworks/) ) <a href="#2012-07-17 06:35:26 +0000">→</a>
 
 
 ### ブログ他
