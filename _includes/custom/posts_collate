@@ -33,7 +33,7 @@ Usage:
 
         <dt>
           <span>{{ post.date | date: site.theme.date_format }}</span>
-          <a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a> {% if post.mtitle %}{{ post.mtitle }}{% endif %}
+          <a name="{{ post.date | date_to_xmlschema }}" href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a> {% if post.mtitle %}{{ post.mtitle }}{% endif %}
         </dt>{% if post.mdescription %}
         <dd><pre>{{ post.mdescription }}</pre></dd>{% endif %}
 
