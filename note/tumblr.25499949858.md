@@ -5,9 +5,9 @@ title: メモ片#25499949858
 description: http://xyn9.tumblr.com/post/25499949858
 category: note
 tags: ["wiki", "#25499949858"] 
-mtitle: “大阪ダブル選挙・維新の会”の項目にコピペ政治コンテンツのクラウドソーシング問題＠BUZZAP！記事へのリンク
-mdescription: http://buzzap.jp/news/20170922-anti-opposition-party-blog-movie-crowdworks/
-date: 2017-09-23 06:23:53
+mtitle: “大阪ダブル選挙・維新の会”の項目にコピペ政治コンテンツの「サクラ」行為と「エコーチェンバー現象」＠エキサイトニュース記事へのリンク
+mdescription: https://www.excite.co.jp/News/smadan/E1506509621145/
+date: 2018-03-26 21:36:51
 ---
 {% include JB/setup %}
 
@@ -61,7 +61,9 @@ date: 2017-09-23 06:23:53
 - <a name="2015-05-11-1738"></a>	[橋下徹の迷惑電話の深層と選挙コンサルの話 – Togetter](http://togetter.com/li/819195)
 	- [Twitter\#597312559889289217](http://twitter.com/xyn9/status/597312559889289217)
 - <a name="2015-11-23-0959"></a>	[西谷文和氏(@saveiraq)の橋下徹・元大阪府知事の「WTCビルへの府庁舎移転問題」で提訴に至った想い – Togetter](http://togetter.com/li/240312)
-- <a name="2017-09-23-0623"></a>	[野党を叩き嫌韓を煽るブログ記事やYouTube動画、1本数十円のクラウドソーシングで大量生産されていた   BUZZAP！（バザップ！）](http://buzzap.jp/news/20170922-anti-opposition-party-blog-movie-crowdworks/)([キャッシュ](http://archive.is/2017.09.23-062353/http://buzzap.jp/news/20170922-anti-opposition-party-blog-movie-crowdworks/) ) <a href="#2012-07-17 06:35:26 +0000">→</a>
+- <a name="2017-09-23-0623"></a>	[野党を叩き嫌韓を煽るブログ記事やYouTube動画、1本数十円のクラウドソーシングで大量生産されていた   BUZZAP！（バザップ！）](http://buzzap.jp/news/20170922-anti-opposition-party-blog-movie-crowdworks/)([キャッシュ](http://archive.is/2017.09.23-062353/http://buzzap.jp/news/20170922-anti-opposition-party-blog-movie-crowdworks/) )
+- <a name="2018-03-26-2136"></a>	[ネット保守膨張の裏に安倍政権を応援するサクラやステマあり - エキサイトニュース](https://www.excite.co.jp/News/smadan/E1506509621145/)([キャッシュ](https://megalodon.jp/2018-0326-2136-51/https://www.excite.co.jp:443/News/smadan/E1506509621145/) )
+	- [Twitter\#978249180329095168](http://twitter.com/xyn9/status/978249180329095168)
 
 
 ### ブログ他
